@@ -18,10 +18,15 @@ GBD_RESULTS_COLUMNS = {
 GBD_RISK_COLUMNS = GBD_RESULTS_COLUMNS | {"rei_id", "rei_name"}
 
 GBD_COVARIATES_COLUMNS = {
-    "covariate_id", "covariate_name", "covariate_short_name",
-    "location_id", "location_name", "sex_id", "sex_name",
-    "age_id", "age_name", "year_id",
-    "mean_value", "upper_value", "lower_value",
+    "location_id", "location_name", "year_id",
+    "mean_value", "lower_value", "upper_value",
+}
+
+# SDI files use these column names (different from generic covariates)
+SDI_COLUMNS = {
+    "covariate_name_short", "location_id", "location_name",
+    "year_id", "age_group_id", "age_group_name",
+    "sex_id", "sex", "mean_value", "lower_value", "upper_value",
 }
 
 POPULATION_COLUMNS = {
@@ -31,9 +36,14 @@ POPULATION_COLUMNS = {
 }
 
 MEASURE_NAMES = {
-    1: "deaths", 2: "dalys", 3: "ylls", 4: "ylds",
+    1: "deaths", 2: "dalys", 3: "ylds", 4: "ylls",
     5: "prevalence", 6: "incidence",
+    25: "mmr", 26: "life_expectancy", 27: "prob_death",
+    28: "hale", 44: "population",
 }
+
+GBD_ROUND = 2023
+GBD_API_VERSION = 8352
 
 
 def validate_columns(df: pd.DataFrame, required: set[str], domain: str) -> list[str]:

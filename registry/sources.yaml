@@ -1,79 +1,112 @@
 # IHME Data Lakehouse — Download Registry
-# Each domain lists known download URLs from GHDx (ghdx.healthdata.org).
-# sha256: null means checksum will be populated after first download.
-# requires_auth: true means user must download manually and place in data/raw/{domain}/.
+# Updated 2026-04-08: GBD 2023 (version 8352) via GBD Results Tool + GHDx Files.
+# GBD Results Tool: https://vizhub.healthdata.org/gbd-results/
+# GHDx: https://ghdx.healthdata.org/gbd-2021  (file downloads still use GBD 2021 labels)
+#
+# IHME has NO public API. Bulk cause/risk data comes via the GBD Results Tool
+# (email-based CSV delivery). Files below are direct GHDx downloads.
 
 gbd_results:
-  description: "GBD 2021 cause-level results (deaths, DALYs, YLLs, YLDs, prevalence, incidence)"
+  description: "GBD 2023 cause-level results (deaths, DALYs, YLLs, YLDs, prevalence, incidence)"
   manual_fallback: true
+  download_method: "gbd_results_tool"
+  gbd_round: 2023
+  api_version: 8352
   files:
-    - name: "IHME-GBD_2021_DATA-death-dalys.zip"
-      url: "https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME-GBD_2021_DATA-death-dalys.zip"
+    - name: "IHME_GBD_2023_DEATHS.CSV"
+      url: "https://vizhub.healthdata.org/gbd-results/"
       sha256: null
-      requires_auth: false
-      size_hint: "1.8GB"
-    - name: "IHME-GBD_2021_DATA-prevalence-incidence.zip"
-      url: "https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME-GBD_2021_DATA-prevalence-incidence.zip"
+      requires_auth: true
+      size_hint: "varies"
+      notes: "Downloaded via GBD Results Tool → emailed CSV"
+    - name: "IHME_GBD_2023_DALYS.CSV"
+      url: "https://vizhub.healthdata.org/gbd-results/"
       sha256: null
-      requires_auth: false
-      size_hint: "1.5GB"
-    - name: "IHME-GBD_2021_DATA-codebook.zip"
-      url: "https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME-GBD_2021_DATA-codebook.zip"
+      requires_auth: true
+      size_hint: "varies"
+    - name: "IHME_GBD_2023_YLLS.CSV"
+      url: "https://vizhub.healthdata.org/gbd-results/"
       sha256: null
-      requires_auth: false
-      size_hint: "5MB"
+      requires_auth: true
+      size_hint: "varies"
+    - name: "IHME_GBD_2023_YLDS.CSV"
+      url: "https://vizhub.healthdata.org/gbd-results/"
+      sha256: null
+      requires_auth: true
+      size_hint: "varies"
 
 gbd_risk:
-  description: "GBD 2021 risk factor attributable burden"
+  description: "GBD 2021 risk factor attributable burden (table index + GBD Results Tool)"
   manual_fallback: true
+  download_method: "gbd_results_tool"
   files:
-    - name: "IHME-GBD_2021_DATA-risk-factors.zip"
-      url: "https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME-GBD_2021_DATA-risk-factors.zip"
-      sha256: null
-      requires_auth: false
-      size_hint: "800MB"
+    - name: "IHME_GBD_2021_RISK_1990_2021_TABLE_INDEX_Y2024M05D14.XLSX"
+      url: "https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME_GBD_2021_RISK_1990_2021_TABLE_INDEX_Y2024M05D14.XLSX"
+      sha256: "73d0bd0a749ff9b5"
+      requires_auth: true
+      size_hint: "11KB"
 
 gbd_covariates:
-  description: "GBD 2021 covariates (SDI, HAQ Index, education, income)"
-  manual_fallback: true
+  description: "GBD 2021 SDI values, quintiles, and codebook"
+  manual_fallback: false
   files:
-    - name: "IHME-GBD_2021_DATA-covariates.zip"
-      url: "https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME-GBD_2021_DATA-covariates.zip"
-      sha256: null
-      requires_auth: false
-      size_hint: "200MB"
+    - name: "IHME_GBD_SDI_2021_SDI_1950_2021_Y2024M05D16.CSV"
+      url: "https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME_GBD_SDI_2021_SDI_1950_2021_Y2024M05D16.CSV"
+      sha256: "1de189868bf58885"
+      requires_auth: true
+      size_hint: "5MB"
+    - name: "IHME_GBD_SDI_2021_SDI_1950_2021_CODEBOOK_Y2024M05D16.CSV"
+      url: "https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME_GBD_SDI_2021_SDI_1950_2021_CODEBOOK_Y2024M05D16.CSV"
+      sha256: "fb933efa586ee32e"
+      requires_auth: true
+      size_hint: "2.4MB"
+    - name: "IHME_GBD_SDI_2021_SDI_1990_2021_Y2024M05D16.XLSX"
+      url: "https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME_GBD_SDI_2021_SDI_1990_2021_Y2024M05D16.XLSX"
+      sha256: "bdb0a898a2c7c202"
+      requires_auth: true
+      size_hint: "368KB"
+    - name: "IHME_GBD_SDI_2021_SDI_QUINTILES_Y2024M05D16.XLSX"
+      url: "https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME_GBD_SDI_2021_SDI_QUINTILES_Y2024M05D16.XLSX"
+      sha256: "79040cd72979f395"
+      requires_auth: true
+      size_hint: "53KB"
+    - name: "IHME_GBD_SDI_2021_REF_QUINTILES_Y2024M05D16.XLSX"
+      url: "https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME_GBD_SDI_2021_REF_QUINTILES_Y2024M05D16.XLSX"
+      sha256: "7eb2248d653e118f"
+      requires_auth: true
+      size_hint: "10KB"
 
 population:
-  description: "IHME population estimates and fertility projections"
-  manual_fallback: true
+  description: "GBD 2021 demographics (appendix tables + life table)"
+  manual_fallback: false
   files:
-    - name: "IHME_GBD_2021_POP_SYA_Y2024M10D15.zip"
-      url: "https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME_GBD_2021_POP_SYA_Y2024M10D15.zip"
-      sha256: null
-      requires_auth: false
-      size_hint: "300MB"
+    - name: "IHME_GBD_2021_DEMOG_1950_2021_TABLES.zip"
+      url: "https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME_GBD_2021_DEMOG_1950_2021_TABLES.zip"
+      sha256: "c66c2b5ec0790639"
+      requires_auth: true
+      size_hint: "2.6MB"
+    - name: "IHME_GBD_2021_DEMOG_1950_2021_TMLRT_Y2024M02D14.CSV"
+      url: "https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME_GBD_2021_DEMOG_1950_2021_TMLRT_Y2024M02D14.CSV"
+      sha256: "9ef33b6ecfb28273"
+      requires_auth: true
+      size_hint: "549B"
 
 forecasts:
-  description: "GBD 2021 reference and alternative scenario forecasts to 2050"
-  manual_fallback: true
+  description: "GBD 2021 mortality and life expectancy forecasts 2022-2050"
+  manual_fallback: false
   files:
-    - name: "IHME_GBD_2021_GBD_FORESIGHT.zip"
-      url: "https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME_GBD_2021_GBD_FORESIGHT.zip"
-      sha256: null
+    - name: "IHME_GBD_2021_MORT_LE_FORECASTS_2022_2050_TABLES_0.zip"
+      url: "https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME_GBD_2021_MORT_LE_FORECASTS_2022_2050_TABLES_0.zip"
+      sha256: "6766977fd4843bfe"
       requires_auth: true
-      size_hint: "400MB"
+      size_hint: "315KB"
 
 specialty:
-  description: "IGME child mortality, AMR, local burden of disease"
-  manual_fallback: true
+  description: "AMR codebook and specialty datasets"
+  manual_fallback: false
   files:
-    - name: "IGME-2023-dataset.zip"
-      url: "https://childmortality.org/wp-content/uploads/2024/03/IGME-2023-dataset.zip"
-      sha256: null
-      requires_auth: false
-      size_hint: "15MB"
-    - name: "IHME-AMR-2019.zip"
-      url: "https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME-AMR-2019.zip"
-      sha256: null
+    - name: "IHME_GLOBAL_AMR_1990_2050_CODEBOOK_Y2024M08D29.CSV"
+      url: "https://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME_GLOBAL_AMR_1990_2050_CODEBOOK_Y2024M08D29.CSV"
+      sha256: "9e92d1e69023a136"
       requires_auth: true
-      size_hint: "200MB"
+      size_hint: "3KB"
