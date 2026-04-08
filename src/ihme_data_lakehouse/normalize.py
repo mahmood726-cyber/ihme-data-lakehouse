@@ -30,6 +30,13 @@ SDI_COLUMNS = {
 }
 
 POPULATION_COLUMNS = {
+    "location_id", "location_name", "sex_id",
+    "val", "upper", "lower",
+}
+# Accepts either "year" (GBD Results Tool) or "year_id" (legacy format)
+
+# Old-format population files use these columns
+POPULATION_COLUMNS_LEGACY = {
     "location_id", "location_name", "sex_id", "sex_name",
     "age_group_id", "age_group_name", "year_id",
     "val", "upper", "lower",

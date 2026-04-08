@@ -6,6 +6,7 @@ from ihme_data_lakehouse.normalize import (
     POPULATION_COLUMNS, add_provenance, coerce_types, validate_columns,
 )
 
+
 def promote_population(raw_dir: Path, bronze_dir: Path, silver_dir: Path, reference_dir: Path, skip_existing: bool = False) -> list[dict]:
     native_dir = silver_dir / "population" / "native"
     harmonized_dir = silver_dir / "population" / "harmonized"
@@ -48,6 +49,7 @@ def promote_population(raw_dir: Path, bronze_dir: Path, silver_dir: Path, refere
     combined.to_parquet(native_path, index=False)
     results.append({"native": "population", "rows": len(combined), "path": str(native_path)})
 
+    # Harmonized layer
     crosswalk_path = reference_dir / "location_to_iso3.parquet"
     if crosswalk_path.exists():
         crosswalk = pd.read_parquet(crosswalk_path)
@@ -58,16 +60,24 @@ def promote_population(raw_dir: Path, bronze_dir: Path, silver_dir: Path, refere
 
     if crosswalk is not None:
         merged = combined.merge(crosswalk[["location_id", "iso3c"]], on="location_id", how="left")
+
+        # Handle both GBD Results Tool format (age_id/age_name, year)
+        # and legacy format (age_group_id/age_group_name, year_id)
+        year_col = "year" if "year" in merged.columns else "year_id"
+        sex_col = "sex_name" if "sex_name" in merged.columns else merged.get("sex", "")
+        age_id_col = "age_id" if "age_id" in merged.columns else "age_group_id"
+        age_name_col = "age_name" if "age_name" in merged.columns else "age_group_name"
+
         harmonized = pd.DataFrame({
             "iso3c": merged["iso3c"],
-            "year": merged["year_id"],
-            "indicator_code": "pop_" + merged["sex_id"].astype(str) + "_" + merged["age_group_id"].astype(str),
-            "indicator_name": "Population — " + merged["sex_name"] + " — " + merged["age_group_name"],
+            "year": merged[year_col],
+            "indicator_code": "pop_" + merged["sex_id"].astype(str) + "_" + merged[age_id_col].astype(str),
+            "indicator_name": "Population — " + merged[sex_col].astype(str) + " — " + merged[age_name_col].astype(str),
             "value": merged["val"],
             "lower": merged["lower"],
             "upper": merged["upper"],
-            "sex": merged["sex_name"],
-            "age_group": merged["age_group_name"],
+            "sex": merged[sex_col] if isinstance(merged.get(sex_col), pd.Series) else sex_col,
+            "age_group": merged[age_name_col],
         })
         harm_path = harmonized_dir / "population.parquet"
         harmonized.to_parquet(harm_path, index=False)
