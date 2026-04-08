@@ -5,6 +5,13 @@ __pycache__/
 dist/
 build/
 .pytest_cache/
-data/
-manifests/
 .claude/
+
+# Pipeline intermediate layers (reproducible from raw)
+data/bronze/
+data/silver/
+data/reference/
+manifests/
+
+# Raw downloads (large ZIPs, regenerate via ihme-data fetch)
+data/raw/
