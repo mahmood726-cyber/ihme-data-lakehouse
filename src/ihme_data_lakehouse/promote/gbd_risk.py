@@ -1,0 +1,66 @@
+"""Promote raw GBD Risk Factor CSV to bronze + silver (native + harmonized)."""
+from __future__ import annotations
+from pathlib import Path
+import pandas as pd
+from ihme_data_lakehouse.normalize import (
+    GBD_RISK_COLUMNS, add_provenance, coerce_types, harmonize_gbd, validate_columns,
+)
+
+def promote_gbd_risk(raw_dir: Path, bronze_dir: Path, silver_dir: Path, reference_dir: Path, skip_existing: bool = False) -> list[dict]:
+    native_dir = silver_dir / "gbd_risk" / "native"
+    harmonized_dir = silver_dir / "gbd_risk" / "harmonized"
+    bronze_out = bronze_dir / "gbd_risk"
+    native_dir.mkdir(parents=True, exist_ok=True)
+    harmonized_dir.mkdir(parents=True, exist_ok=True)
+    bronze_out.mkdir(parents=True, exist_ok=True)
+
+    csv_files = sorted(raw_dir.rglob("*.csv"))
+    if not csv_files:
+        return [{"domain": "gbd_risk", "status": "no_csv_found"}]
+
+    results: list[dict] = []
+    all_frames: list[pd.DataFrame] = []
+
+    for csv_path in csv_files:
+        if skip_existing and (native_dir / "gbd_risk.parquet").exists():
+            results.append({"file": csv_path.name, "status": "skipped"})
+            continue
+
+        df = pd.read_csv(csv_path, low_memory=False)
+        missing = validate_columns(df, GBD_RISK_COLUMNS, "gbd_risk")
+        if missing:
+            results.append({"file": csv_path.name, "status": "rejected", "missing_columns": missing})
+            continue
+
+        df = coerce_types(df)
+        bronze_df = add_provenance(df, csv_path.name)
+        bronze_path = bronze_out / csv_path.name
+        bronze_df.to_csv(bronze_path, index=False)
+
+        all_frames.append(df)
+        results.append({"file": csv_path.name, "status": "promoted", "rows": len(df)})
+
+    if not all_frames:
+        return results
+
+    combined = pd.concat(all_frames, ignore_index=True)
+
+    native_path = native_dir / "gbd_risk.parquet"
+    combined.to_parquet(native_path, index=False)
+    results.append({"native": "gbd_risk", "rows": len(combined), "path": str(native_path)})
+
+    crosswalk_path = reference_dir / "location_to_iso3.parquet"
+    if crosswalk_path.exists():
+        crosswalk = pd.read_parquet(crosswalk_path)
+    elif (reference_dir / "location_to_iso3.csv").exists():
+        crosswalk = pd.read_csv(reference_dir / "location_to_iso3.csv")
+    else:
+        crosswalk = None
+
+    if crosswalk is not None:
+        harmonized = harmonize_gbd(combined, crosswalk, id_col="rei_id", name_col="rei_name")
+        harm_path = harmonized_dir / "gbd_risk.parquet"
+        harmonized.to_parquet(harm_path, index=False)
+        results.append({"harmonized": "gbd_risk", "rows": len(harmonized), "path": str(harm_path)})
+
+    return results
