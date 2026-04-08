@@ -33,6 +33,7 @@ See [`datasets/DATA_CATALOG.md`](datasets/DATA_CATALOG.md) for full documentatio
 | YLLs | 13,872 | 1990-2023 | 204 countries, all-cause |
 | YLDs | 13,872 | 1990-2023 | 204 countries, all-cause |
 | Population | 20,808 | 1990-2023 | 204 countries, M/F/Both |
+| CVD | 8,736 | 1980-2023 | 13 regions, deaths |
 | SDI | 52,992 | 1950-2021 | All GBD locations |
 | **Combined burden** | **55,488** | **1990-2023** | **All 4 measures** |
 

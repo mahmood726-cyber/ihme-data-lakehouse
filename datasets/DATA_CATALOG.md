@@ -38,6 +38,14 @@ burden = pd.read_parquet("datasets/gbd2023_all_burden_204countries_1990_2023.par
 
 **Columns:** `location_id`, `location`, `year`, `sex`, `age_group`, `metric`, `value`, `upper`, `lower`
 
+### Cardiovascular Diseases (CVD)
+
+| File | Rows | Description |
+|------|------|-------------|
+| `gbd2023_cvd_1980_2023` | 8,736 | CVD deaths by region, 1980-2023 (number + percent + rate) |
+
+**Columns:** `location_id`, `location`, `year`, `sex`, `age_group`, `cause`, `measure`, `metric`, `value`, `upper`, `lower`
+
 ### Socio-Demographic Index (SDI)
 
 | File | Rows | Description |
