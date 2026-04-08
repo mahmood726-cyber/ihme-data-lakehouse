@@ -1,0 +1,6 @@
+ISO3Code,CountryName,Indicator,Sex,Series Name,Year,Obs Value,Lower Bound,Upper Bound
+PAK,Pakistan,Under-five mortality rate,Total,UN IGME estimate,2019,67.2,55.1,82.3
+CHN,China,Under-five mortality rate,Total,UN IGME estimate,2019,7.9,6.8,9.2
+USA,United States of America,Under-five mortality rate,Total,UN IGME estimate,2019,6.5,6.2,6.9
+PAK,Pakistan,Neonatal mortality rate,Total,UN IGME estimate,2019,40.1,32.5,49.8
+CHN,China,Neonatal mortality rate,Total,UN IGME estimate,2019,3.1,2.6,3.7

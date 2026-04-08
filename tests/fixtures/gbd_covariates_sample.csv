@@ -1,0 +1,6 @@
+covariate_id,covariate_name,covariate_short_name,location_id,location_name,sex_id,sex_name,age_id,age_name,year_id,mean_value,upper_value,lower_value
+881,Socio-demographic Index,SDI,163,Pakistan,3,Both,22,All ages,2019,0.3847,0.3901,0.3793
+881,Socio-demographic Index,SDI,6,China,3,Both,22,All ages,2019,0.6875,0.6932,0.6818
+881,Socio-demographic Index,SDI,102,United States of America,3,Both,22,All ages,2019,0.9012,0.9045,0.8979
+1099,Healthcare Access and Quality Index,HAQ,163,Pakistan,3,Both,22,All ages,2019,37.2,38.1,36.3
+1099,Healthcare Access and Quality Index,HAQ,6,China,3,Both,22,All ages,2019,78.3,79.2,77.4

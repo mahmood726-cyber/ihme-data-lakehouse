@@ -1,0 +1,9 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,year,val,upper,lower,metric_id,metric_name
+1,Deaths,163,Pakistan,3,Both,22,All ages,294,Ischemic heart disease,2019,228945.12,265431.89,196723.45,1,Number
+1,Deaths,163,Pakistan,3,Both,22,All ages,294,Ischemic heart disease,2019,128.56,149.01,110.42,2,Rate
+2,DALYs (Disability-Adjusted Life Years),163,Pakistan,3,Both,22,All ages,294,Ischemic heart disease,2019,5765432.10,6890123.45,4812345.67,1,Number
+1,Deaths,6,China,1,Male,22,All ages,322,Stroke,2019,1423567.89,1567890.12,1298765.43,1,Number
+1,Deaths,6,China,2,Female,22,All ages,322,Stroke,2019,1198765.43,1345678.90,1067890.12,1,Number
+2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,508,Lung cancer,2019,3456789.01,3890123.45,3098765.43,1,Number
+1,Deaths,1,Global,3,Both,22,All ages,294,Ischemic heart disease,2021,9123456.78,10234567.89,8234567.90,1,Number
+1,Deaths,1,Global,3,Both,22,All ages,322,Stroke,2021,7234567.89,8123456.78,6456789.01,1,Number

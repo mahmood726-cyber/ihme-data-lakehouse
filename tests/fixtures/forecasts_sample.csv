@@ -1,0 +1,5 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,year,val,upper,lower,metric_id,metric_name,scenario
+1,Deaths,163,Pakistan,3,Both,22,All ages,294,Ischemic heart disease,2030,298765.43,356789.01,245678.90,1,Number,reference
+1,Deaths,163,Pakistan,3,Both,22,All ages,294,Ischemic heart disease,2030,265432.10,312345.67,223456.78,1,Number,better
+1,Deaths,163,Pakistan,3,Both,22,All ages,294,Ischemic heart disease,2050,412345.67,512345.67,332345.67,1,Number,reference
+1,Deaths,6,China,3,Both,22,All ages,322,Stroke,2030,1234567.89,1456789.01,1045678.90,1,Number,reference

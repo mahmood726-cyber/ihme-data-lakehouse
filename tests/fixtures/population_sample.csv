@@ -1,0 +1,6 @@
+location_id,location_name,sex_id,sex_name,age_group_id,age_group_name,year_id,val,upper,lower
+163,Pakistan,3,Both,22,All ages,2019,216565318,220123456,212987654
+6,China,3,Both,22,All ages,2019,1433783686,1440567890,1426987654
+102,United States of America,3,Both,22,All ages,2019,328239523,330456789,326012345
+163,Pakistan,1,Male,22,All ages,2019,111234567,113456789,109012345
+163,Pakistan,2,Female,22,All ages,2019,105330751,107234567,103426935

@@ -1,0 +1,5 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,rei_id,rei_name,year,val,upper,lower,metric_id,metric_name
+1,Deaths,163,Pakistan,3,Both,22,All ages,294,Ischemic heart disease,107,High systolic blood pressure,2019,98765.43,112345.67,87654.32,1,Number
+2,DALYs (Disability-Adjusted Life Years),163,Pakistan,3,Both,22,All ages,294,Ischemic heart disease,107,High systolic blood pressure,2019,2345678.90,2789012.34,1987654.32,1,Number
+1,Deaths,6,China,1,Male,22,All ages,322,Stroke,83,High body-mass index,2019,234567.89,278901.23,198765.43,1,Number
+1,Deaths,102,United States of America,3,Both,22,All ages,508,Lung cancer,99,Tobacco,2019,123456.78,145678.90,104567.89,1,Number
