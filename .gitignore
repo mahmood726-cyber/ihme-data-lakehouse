@@ -15,3 +15,15 @@ manifests/
 
 # Raw downloads (large ZIPs, regenerate via ihme-data fetch)
 data/raw/
+
+# Selenium browser profiles
+.selenium_*/
+
+# Auth cookies (secrets)
+registry/.cookie*.json
+registry/.cookie*.txt
+
+# Large scrape results (regenerate via scripts)
+registry/ghdx_files.json
+registry/ghdx_files_auth.json
+registry/download_progress.json

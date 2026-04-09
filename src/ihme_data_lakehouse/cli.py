@@ -28,16 +28,14 @@ def command_promote(args) -> dict:
     from ihme_data_lakehouse.promote.gbd_risk import promote_gbd_risk
     from ihme_data_lakehouse.promote.gbd_covariates import promote_gbd_covariates
     from ihme_data_lakehouse.promote.population import promote_population
-    from ihme_data_lakehouse.promote.forecasts import promote_forecasts
-    from ihme_data_lakehouse.promote.specialty import promote_specialty
+    from ihme_data_lakehouse.promote.generic import promote_domain
 
-    promoters = {
+    # Specialized promoters for domains with custom logic
+    specialized = {
         "gbd_results": promote_gbd_results,
         "gbd_risk": promote_gbd_risk,
         "gbd_covariates": promote_gbd_covariates,
         "population": promote_population,
-        "forecasts": promote_forecasts,
-        "specialty": promote_specialty,
     }
 
     if args.all:
@@ -48,8 +46,13 @@ def command_promote(args) -> dict:
     results = {}
     for domain in domains:
         raw_dir = RAW_DIR / domain
-        fn = promoters[domain]
-        results[domain] = fn(raw_dir, BRONZE_DIR, SILVER_DIR, REFERENCE_DIR, skip_existing=args.skip_existing)
+        if not raw_dir.exists():
+            results[domain] = [{"status": "no_raw_dir"}]
+            continue
+        if domain in specialized:
+            results[domain] = specialized[domain](raw_dir, BRONZE_DIR, SILVER_DIR, REFERENCE_DIR, skip_existing=args.skip_existing)
+        else:
+            results[domain] = promote_domain(domain, RAW_DIR, BRONZE_DIR, SILVER_DIR, REFERENCE_DIR, skip_existing=args.skip_existing)
     return results
 
 

@@ -1,0 +1,3778 @@
+[
+  {
+    "slug": "gbd-2023-cause-rei-and-location-hierarchies",
+    "title": "Global Burden of Disease Study 2023 (GBD 2023) Cause, REI, and Location Hierarchies",
+    "domain": "reference",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\reference\\gbd-2023-cause-rei-and-location-hierarchies",
+    "files": 2,
+    "size_mb": 0.2780141830444336
+  },
+  {
+    "slug": "gbd-2023-socio-demographic-index-sdi",
+    "title": "Global Burden of Disease Study 2023 (GBD 2023) Socio-Demographic Index (SDI) 1950–2023",
+    "domain": "gbd_covariates",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_covariates\\gbd-2023-socio-demographic-index-sdi",
+    "files": 5,
+    "size_mb": 6.1182756423950195
+  },
+  {
+    "slug": "global-burden-disease-study-2017-gbd-2017-reference-life-table",
+    "title": "Global Burden of Disease Study 2017 (GBD 2017) Reference Life Table",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\global-burden-disease-study-2017-gbd-2017-reference-life-table",
+    "files": 3,
+    "size_mb": 0.6723566055297852
+  },
+  {
+    "slug": "global-burden-disease-study-2019-gbd-2019-air-pollution-exposure-estimates-1990-2019",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Air Pollution Exposure Estimates 1990-2019",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\global-burden-disease-study-2019-gbd-2019-air-pollution-exposure-estimates-1990-2019",
+    "files": 13,
+    "size_mb": 801.0214376449585
+  },
+  {
+    "slug": "global-burden-disease-study-2019-gbd-2019-covariates-1980-2019",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Covariates 1980-2019",
+    "domain": "gbd_covariates",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_covariates\\global-burden-disease-study-2019-gbd-2019-covariates-1980-2019",
+    "files": 3,
+    "size_mb": 0.6173028945922852
+  },
+  {
+    "slug": "global-burden-disease-study-2019-gbd-2019-demographics-1950-2019",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Demographics 1950-2019",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\global-burden-disease-study-2019-gbd-2019-demographics-1950-2019",
+    "files": 3,
+    "size_mb": 2.272585868835449
+  },
+  {
+    "slug": "global-burden-disease-study-2021-gbd-2021-cause-rei-and-location-hierarchies",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Cause, REI, and Location Hierarchies",
+    "domain": "reference",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\reference\\global-burden-disease-study-2021-gbd-2021-cause-rei-and-location-hierarchies",
+    "files": 5,
+    "size_mb": 0.32988643646240234
+  },
+  {
+    "slug": "global-burden-disease-study-2021-gbd-2021-socio-demographic-index-sdi-1950%E2%80%932021",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Socio-Demographic Index (SDI) 1950–2021",
+    "domain": "gbd_covariates",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_covariates\\global-burden-disease-study-2021-gbd-2021-socio-demographic-index-sdi-1950%E2%80%932021",
+    "files": 6,
+    "size_mb": 7.811553955078125
+  },
+  {
+    "slug": "global-hivaids-spending-2000-2017",
+    "title": "Global HIV/AIDS Spending 2000-2017",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\global-hivaids-spending-2000-2017",
+    "files": 3,
+    "size_mb": 0.9478721618652344
+  },
+  {
+    "slug": "hepatitis-c-prevalence-1990-and-2005-all-gbd-regions",
+    "title": "Hepatitis C Prevalence 1990 and 2005 - All GBD Regions",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\hepatitis-c-prevalence-1990-and-2005-all-gbd-regions",
+    "files": 1,
+    "size_mb": 0.07072830200195312
+  },
+  {
+    "slug": "ihme-data/adult-mortality-estimates-country-1970-2010",
+    "title": "Adult Mortality Estimates by Country 1970-2010",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_adult-mortality-estimates-country-1970-2010",
+    "files": 1,
+    "size_mb": 0.6220703125
+  },
+  {
+    "slug": "ihme-data/africa-and-yemen-onchocerciasis-prevalence-geospatial-estimates-2000-2018",
+    "title": "Africa and Yemen Onchocerciasis Prevalence Geospatial Estimates 2000-2018",
+    "domain": "geospatial",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\geospatial\\ihme-data_africa-and-yemen-onchocerciasis-prevalence-geospatial-estimates-2000-2018",
+    "files": 8,
+    "size_mb": 232.1988763809204
+  },
+  {
+    "slug": "ihme-data/africa-child-growth-failure-geospatial-estimates-2000-2015",
+    "title": "Africa Child Growth Failure Geospatial Estimates 2000-2015",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_africa-child-growth-failure-geospatial-estimates-2000-2015",
+    "files": 15,
+    "size_mb": 674.7141132354736
+  },
+  {
+    "slug": "ihme-data/africa-diphtheria-pertussis-tetanus-vaccine-coverage-geospatial-estimates-2000-2016",
+    "title": "Africa Diphtheria-Pertussis-Tetanus Vaccine Coverage Geospatial Estimates 2000-2016",
+    "domain": "vaccination",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\vaccination\\ihme-data_africa-diphtheria-pertussis-tetanus-vaccine-coverage-geospatial-estimates-2000-2016",
+    "files": 20,
+    "size_mb": 1102.979058265686
+  },
+  {
+    "slug": "ihme-data/africa-educational-attainment-geospatial-estimates-2000-2015",
+    "title": "Africa Educational Attainment Geospatial Estimates 2000-2015",
+    "domain": "geospatial",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\geospatial\\ihme-data_africa-educational-attainment-geospatial-estimates-2000-2015",
+    "files": 30,
+    "size_mb": 2671.93456363678
+  },
+  {
+    "slug": "ihme-data/africa-exclusive-breastfeeding-prevalence-geospatial-estimates-2000-2017",
+    "title": "Africa Exclusive Breastfeeding Prevalence Geospatial Estimates 2000-2017",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_africa-exclusive-breastfeeding-prevalence-geospatial-estimates-2000-2017",
+    "files": 8,
+    "size_mb": 309.6982088088989
+  },
+  {
+    "slug": "ihme-data/africa-hiv-prevalence-geospatial-estimates-2000-2017",
+    "title": "Africa HIV Prevalence Geospatial Estimates 2000-2017",
+    "domain": "geospatial",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\geospatial\\ihme-data_africa-hiv-prevalence-geospatial-estimates-2000-2017",
+    "files": 19,
+    "size_mb": 1201.1978597640991
+  },
+  {
+    "slug": "ihme-data/africa-onchocerciasis-environmental-suitability-geospatial-estimates",
+    "title": "Africa Onchocerciasis Environmental Suitability Geospatial Estimates",
+    "domain": "geospatial",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\geospatial\\ihme-data_africa-onchocerciasis-environmental-suitability-geospatial-estimates",
+    "files": 5,
+    "size_mb": 10.788104057312012
+  },
+  {
+    "slug": "ihme-data/africa-under-5-and-neonatal-mortality-geospatial-estimates-2000-2015",
+    "title": "Africa Under-5 and Neonatal Mortality Geospatial Estimates 2000-2015",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_africa-under-5-and-neonatal-mortality-geospatial-estimates-2000-2015",
+    "files": 6,
+    "size_mb": 207.38820362091064
+  },
+  {
+    "slug": "ihme-data/africa-under-5-diarrhea-incidence-prevalence-and-mortality-geospatial-estimates-2000-2015",
+    "title": "Africa Under-5 Diarrhea Incidence, Prevalence, and Mortality Geospatial Estimates 2000-2015",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_africa-under-5-diarrhea-incidence-prevalence-and-mortality-geospatial-estimates-2000-2015",
+    "files": 24,
+    "size_mb": 1716.9856176376343
+  },
+  {
+    "slug": "ihme-data/africa-under-5-lri-incidence-prevalence-mortality-geospatial-estimates-2000-2017",
+    "title": "Africa Under-5 Lower Respiratory Infection Incidence, Prevalence, and Mortality Geospatial Estimates 2000-2017",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_africa-under-5-lri-incidence-prevalence-mortality-geospatial-estimates-2000-2017",
+    "files": 25,
+    "size_mb": 1388.6242427825928
+  },
+  {
+    "slug": "ihme-data/africa-viral-hemorrhagic-fever-pandemic-potential-estimates",
+    "title": "Africa Viral Hemorrhagic Fever Pandemic Potential Estimates",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_africa-viral-hemorrhagic-fever-pandemic-potential-estimates",
+    "files": 22,
+    "size_mb": 1066.9204092025757
+  },
+  {
+    "slug": "ihme-data/bangladesh-gavi-fce-health-facility-survey-2014",
+    "title": "Bangladesh Gavi FCE Health Facility Survey 2014",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_bangladesh-gavi-fce-health-facility-survey-2014",
+    "files": 3,
+    "size_mb": 2.7501440048217773
+  },
+  {
+    "slug": "ihme-data/bangladesh-gavi-fce-measles-rubella-pre-vaccine-campaign-household-survey-2013",
+    "title": "Bangladesh Gavi FCE Measles-Rubella Pre-Vaccine Campaign Household Survey 2013",
+    "domain": "vaccination",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\vaccination\\ihme-data_bangladesh-gavi-fce-measles-rubella-pre-vaccine-campaign-household-survey-2013",
+    "files": 3,
+    "size_mb": 3.1473045349121094
+  },
+  {
+    "slug": "ihme-data/bangladesh-gavi-fce-patient-exit-interview-survey-2014",
+    "title": "Bangladesh Gavi FCE Patient Exit Interview Survey 2014",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_bangladesh-gavi-fce-patient-exit-interview-survey-2014",
+    "files": 3,
+    "size_mb": 1.698068618774414
+  },
+  {
+    "slug": "ihme-data/belize-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2013",
+    "title": "Belize Salud Mesoamérica Initiative Baseline Health Facility Survey 2013",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_belize-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2013",
+    "files": 9,
+    "size_mb": 2.756564140319824
+  },
+  {
+    "slug": "ihme-data/belize-salud-mesoam%C3%A9rica-initiative-baseline-lqas-survey-2013",
+    "title": "Belize Salud Mesoamérica Initiative Baseline LQAS Survey 2013",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_belize-salud-mesoam%C3%A9rica-initiative-baseline-lqas-survey-2013",
+    "files": 3,
+    "size_mb": 1.139845848083496
+  },
+  {
+    "slug": "ihme-data/belize-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+    "title": "Belize Salud Mesoamérica Initiative First Follow-Up Health Facility Survey 2014",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_belize-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+    "files": 9,
+    "size_mb": 3.166886329650879
+  },
+  {
+    "slug": "ihme-data/belize-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2017",
+    "title": "Belize Salud Mesoamérica Initiative Second Follow-Up Health Facility Survey 2017",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_belize-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2017",
+    "files": 4,
+    "size_mb": 8.06395149230957
+  },
+  {
+    "slug": "ihme-data/belize-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2017",
+    "title": "Belize Salud Mesoamérica Initiative Second Follow-Up Household Survey 2017",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_belize-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2017",
+    "files": 4,
+    "size_mb": 2.781858444213867
+  },
+  {
+    "slug": "ihme-data/belize-salud-mesoam%C3%A9rica-initiative-third-follow-health-facility-survey-2022",
+    "title": "Belize Salud Mesoamérica Initiative Third Follow-Up Health Facility Survey 2022",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_belize-salud-mesoam%C3%A9rica-initiative-third-follow-health-facility-survey-2022",
+    "files": 4,
+    "size_mb": 7.4191694259643555
+  },
+  {
+    "slug": "ihme-data/belize-salud-mesoam%C3%A9rica-initiative-third-follow-household-survey-2022",
+    "title": "Belize Salud Mesoamérica Initiative Third Follow-Up Household Survey 2022",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_belize-salud-mesoam%C3%A9rica-initiative-third-follow-household-survey-2022",
+    "files": 4,
+    "size_mb": 3.2222843170166016
+  },
+  {
+    "slug": "ihme-data/brazil-healthrise-household-survey-2017",
+    "title": "Brazil HealthRise Household Survey 2017",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_brazil-healthrise-household-survey-2017",
+    "files": 4,
+    "size_mb": 2.415848731994629
+  },
+  {
+    "slug": "ihme-data/brazil-heartrescue-global-evaluation-baseline-health-facility-and-ems-survey-2019",
+    "title": "Brazil HeartRescue Global Evaluation Baseline Health Facility and EMS Survey 2019",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_brazil-heartrescue-global-evaluation-baseline-health-facility-and-ems-survey-2019",
+    "files": 3,
+    "size_mb": 2.29263973236084
+  },
+  {
+    "slug": "ihme-data/brazil-heartrescue-global-evaluation-baseline-household-survey-2019",
+    "title": "Brazil HeartRescue Global Evaluation Baseline Household Survey 2019",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_brazil-heartrescue-global-evaluation-baseline-household-survey-2019",
+    "files": 4,
+    "size_mb": 2.2415037155151367
+  },
+  {
+    "slug": "ihme-data/brazil-hiv-and-tuberculosis-mortality-rates-municipality-2001-2015",
+    "title": "Brazil HIV and Tuberculosis Mortality Rates by Municipality 2001-2015",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_brazil-hiv-and-tuberculosis-mortality-rates-municipality-2001-2015",
+    "files": 2,
+    "size_mb": 10.539836883544922
+  },
+  {
+    "slug": "ihme-data/brazil-mortality-relative-risks-excess-mortality-rate-estimates-smi-2000-2015",
+    "title": "Brazil Mortality, Relative Risks, and Excess Mortality Rate Estimates among People with Severe Mental Illness in the Public Health System 2000-2015",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_brazil-mortality-relative-risks-excess-mortality-rate-estimates-smi-2000-2015",
+    "files": 3,
+    "size_mb": 0.941655158996582
+  },
+  {
+    "slug": "ihme-data/breast-and-cervical-cancer-incidence-and-mortality-estimates-country-1980-2010",
+    "title": "Breast and Cervical Cancer Incidence and Mortality Estimates by Country 1980-2010",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_breast-and-cervical-cancer-incidence-and-mortality-estimates-country-1980-2010",
+    "files": 2,
+    "size_mb": 1.689103126525879
+  },
+  {
+    "slug": "ihme-data/burden-hivaids-country-1990-2010",
+    "title": "Burden of HIV/AIDS by country 1990-2010",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_burden-hivaids-country-1990-2010",
+    "files": 1,
+    "size_mb": 0.04525279998779297
+  },
+  {
+    "slug": "ihme-data/child-growth-failure-visualization-input-data",
+    "title": "Child Growth Failure Visualization - Input Data",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_child-growth-failure-visualization-input-data",
+    "files": 2,
+    "size_mb": 4.89094352722168
+  },
+  {
+    "slug": "ihme-data/child-mortality-estimates-and-mdg-4-attainment-country-1990-2011",
+    "title": "Child Mortality Estimates and MDG 4 Attainment by Country 1990-2011",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_child-mortality-estimates-and-mdg-4-attainment-country-1990-2011",
+    "files": 2,
+    "size_mb": 0.7953271865844727
+  },
+  {
+    "slug": "ihme-data/china-heartrescue-global-evaluation-baseline-health-facility-survey-2015",
+    "title": "China HeartRescue Global Evaluation Baseline Health Facility Survey 2015",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_china-heartrescue-global-evaluation-baseline-health-facility-survey-2015",
+    "files": 4,
+    "size_mb": 3.5972986221313477
+  },
+  {
+    "slug": "ihme-data/china-heartrescue-global-evaluation-baseline-household-survey-2015",
+    "title": "China HeartRescue Global Evaluation Baseline Household Survey 2015",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_china-heartrescue-global-evaluation-baseline-household-survey-2015",
+    "files": 4,
+    "size_mb": 5.614131927490234
+  },
+  {
+    "slug": "ihme-data/contraceptive-prevalence-estimates-1970-2019",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Contraceptive Prevalence Estimates 1970-2019",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_contraceptive-prevalence-estimates-1970-2019",
+    "files": 4,
+    "size_mb": 31.633874893188477
+  },
+  {
+    "slug": "ihme-data/costa-rica-salud-mesoam%C3%A9rica-initiative-baseline-school-survey-2013-2014",
+    "title": "Costa Rica Salud Mesoamérica Initiative Baseline School Survey 2013-2014",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_costa-rica-salud-mesoam%C3%A9rica-initiative-baseline-school-survey-2013-2014",
+    "files": 3,
+    "size_mb": 1.13623046875
+  },
+  {
+    "slug": "ihme-data/costa-rica-salud-mesoam%C3%A9rica-initiative-health-facility-survey-2015",
+    "title": "Costa Rica Salud Mesoamérica Initiative Health Facility Survey 2015",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_costa-rica-salud-mesoam%C3%A9rica-initiative-health-facility-survey-2015",
+    "files": 7,
+    "size_mb": 3.386958122253418
+  },
+  {
+    "slug": "ihme-data/costa-rica-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2018",
+    "title": "Costa Rica Salud Mesoamérica Initiative Second Follow-Up Household Survey 2018",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_costa-rica-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2018",
+    "files": 4,
+    "size_mb": 0.7198400497436523
+  },
+  {
+    "slug": "ihme-data/covid-19-estimates-december-16-2022",
+    "title": "Global COVID-19 Estimates December 16, 2022 Release",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_covid-19-estimates-december-16-2022",
+    "files": 5,
+    "size_mb": 358.4599552154541
+  },
+  {
+    "slug": "ihme-data/covid-19-resiliency-estimates-2020-2022",
+    "title": "United States COVID-19 Resiliency Estimates 2020-2022",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_covid-19-resiliency-estimates-2020-2022",
+    "files": 4,
+    "size_mb": 0.24492549896240234
+  },
+  {
+    "slug": "ihme-data/covid_19_cumulative_infections",
+    "title": "SARS-CoV-2 Daily and Cumulative Infection Estimates 2019-2021",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_covid_19_cumulative_infections",
+    "files": 10,
+    "size_mb": 17.72673225402832
+  },
+  {
+    "slug": "ihme-data/covid_19_excess_mortality",
+    "title": "COVID-19 Excess Mortality Estimates 2020-2021",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_covid_19_excess_mortality",
+    "files": 4,
+    "size_mb": 1.0882987976074219
+  },
+  {
+    "slug": "ihme-data/covid_19_gender_quality_impacts",
+    "title": "COVID-19 Gender Equality Impact Estimates 2020-2021",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_covid_19_gender_quality_impacts",
+    "files": 6,
+    "size_mb": 1.0233564376831055
+  },
+  {
+    "slug": "ihme-data/covid_19_infection_fatality_ratio",
+    "title": "Pre-Vaccine Era COVID-19 Infection Fatality Ratio Estimates by Age, Time, and Location 2020-2021",
+    "domain": "vaccination",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\vaccination\\ihme-data_covid_19_infection_fatality_ratio",
+    "files": 10,
+    "size_mb": 1.147592544555664
+  },
+  {
+    "slug": "ihme-data/covid_19_pandemic_preparedness",
+    "title": "COVID-19 Pandemic Preparedness - Infection Rate and Infection Fatality Ratio Estimates 2020-2021",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_covid_19_pandemic_preparedness",
+    "files": 4,
+    "size_mb": 0.6595144271850586
+  },
+  {
+    "slug": "ihme-data/cvd-1990-2021",
+    "title": "Global Burden of Disease (GBD) Cardiovascular Burden Estimates 1990 and 2021",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_cvd-1990-2021",
+    "files": 5,
+    "size_mb": 0.8164892196655273
+  },
+  {
+    "slug": "ihme-data/cvd-1990-2022",
+    "title": "Global Burden of Disease (GBD) Cardiovascular Burden Estimates 1990-2022",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_cvd-1990-2022",
+    "files": 4,
+    "size_mb": 34.15059947967529
+  },
+  {
+    "slug": "ihme-data/cvd-1990-2023",
+    "title": "Global Burden of Disease 2023 (GBD 2023) Cardiovascular Burden Estimates 1990-2023",
+    "domain": "gbd_results",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_results\\ihme-data_cvd-1990-2023",
+    "files": 3,
+    "size_mb": 0.3261871337890625
+  },
+  {
+    "slug": "ihme-data/dah-1990-2025-20251114",
+    "title": "Development Assistance for Health Database 1990-2025, 14 November 2025",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_dah-1990-2025-20251114",
+    "files": 5,
+    "size_mb": 238.78856563568115
+  },
+  {
+    "slug": "ihme-data/development-assistance-covid-vaccine-delivery-2020-2021",
+    "title": "Development Assistance for COVID-19 Vaccine Delivery 2020-2021",
+    "domain": "vaccination",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\vaccination\\ihme-data_development-assistance-covid-vaccine-delivery-2020-2021",
+    "files": 4,
+    "size_mb": 1.4916095733642578
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-country-and-regional-recipient-level-database-1990-2008",
+    "title": "Development Assistance for Health Country and Regional Recipient Level Database 1990-2008",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-country-and-regional-recipient-level-database-1990-2008",
+    "files": 3,
+    "size_mb": 42.610483169555664
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-country-and-regional-recipient-level-database-1990-2009",
+    "title": "Development Assistance for Health Country and Regional Recipient Level Database 1990-2009",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-country-and-regional-recipient-level-database-1990-2009",
+    "files": 4,
+    "size_mb": 22.46054172515869
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-country-and-regional-recipient-level-database-1990-2010",
+    "title": "Development Assistance for Health Country and Regional Recipient Level Database 1990-2010",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-country-and-regional-recipient-level-database-1990-2010",
+    "files": 4,
+    "size_mb": 24.29762840270996
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-covid-2020",
+    "title": "Development Assistance for Health on COVID-19 2020",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-covid-2020",
+    "files": 3,
+    "size_mb": 0.7397775650024414
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-covid-2020-2021",
+    "title": "Development Assistance for Health on COVID-19 2020-2021",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-covid-2020-2021",
+    "files": 3,
+    "size_mb": 0.2431621551513672
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-covid-2020-2022",
+    "title": "Development Assistance for Health on COVID-19 Database 2020-2022",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-covid-2020-2022",
+    "files": 3,
+    "size_mb": 0.1347484588623047
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-covid-2020-2023",
+    "title": "Development Assistance for Health on COVID-19 Database 2020-2023",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-covid-2020-2023",
+    "files": 3,
+    "size_mb": 0.2810373306274414
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-database-1990-2008",
+    "title": "Development Assistance for Health Database 1990-2008",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-database-1990-2008",
+    "files": 4,
+    "size_mb": 19.81880283355713
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-database-1990-2009",
+    "title": "Development Assistance for Health Database 1990-2009",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-database-1990-2009",
+    "files": 5,
+    "size_mb": 18.337242126464844
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-database-1990-2010",
+    "title": "Development Assistance for Health Database 1990-2010",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-database-1990-2010",
+    "files": 5,
+    "size_mb": 18.986416816711426
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-database-1990-2011",
+    "title": "Development Assistance for Health Database 1990-2011",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-database-1990-2011",
+    "files": 2,
+    "size_mb": 3.5860939025878906
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-database-1990-2014",
+    "title": "Development Assistance for Health Database 1990-2014",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-database-1990-2014",
+    "files": 1,
+    "size_mb": 10.400166511535645
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-database-1990-2015",
+    "title": "Development Assistance for Health Database 1990-2015",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-database-1990-2015",
+    "files": 4,
+    "size_mb": 22.30787467956543
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-database-1990-2016",
+    "title": "Development Assistance for Health Database 1990-2016",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-database-1990-2016",
+    "files": 4,
+    "size_mb": 26.314427375793457
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-database-1990-2017",
+    "title": "Development Assistance for Health Database 1990-2017",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-database-1990-2017",
+    "files": 4,
+    "size_mb": 26.384033203125
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-database-1990-2018",
+    "title": "Development Assistance for Health Database 1990-2018",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-database-1990-2018",
+    "files": 5,
+    "size_mb": 33.42657470703125
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-database-1990-2019",
+    "title": "Development Assistance for Health Database 1990-2019",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-database-1990-2019",
+    "files": 5,
+    "size_mb": 45.93698787689209
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-database-1990-2020",
+    "title": "Development Assistance for Health Database 1990-2020",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-database-1990-2020",
+    "files": 5,
+    "size_mb": 46.030540466308594
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-database-1990-2021",
+    "title": "Development Assistance for Health Database 1990-2021",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-database-1990-2021",
+    "files": 5,
+    "size_mb": 42.633222579956055
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-database-1990-2022",
+    "title": "Development Assistance for Health Database 1990-2022",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-database-1990-2022",
+    "files": 4,
+    "size_mb": 33.20199203491211
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-database-1990-2023",
+    "title": "Development Assistance for Health Database 1990-2023",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-database-1990-2023",
+    "files": 4,
+    "size_mb": 33.48659610748291
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-database-1990-2025",
+    "title": "Development Assistance for Health Database 1990-2025",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-database-1990-2025",
+    "files": 4,
+    "size_mb": 87.13777923583984
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-estimates-1990-2010-tables",
+    "title": "Development Assistance for Health Estimates 1990-2010 Tables",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-estimates-1990-2010-tables",
+    "files": 1,
+    "size_mb": 0.45263671875
+  },
+  {
+    "slug": "ihme-data/development-assistance-health-faith-based-organizations-1990-2013",
+    "title": "Development Assistance for Health for Faith-Based Organizations 1990-2013",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_development-assistance-health-faith-based-organizations-1990-2013",
+    "files": 1,
+    "size_mb": 0.12490653991699219
+  },
+  {
+    "slug": "ihme-data/development-assistance-human-resources-health-1990-2020",
+    "title": "Development Assistance for Human Resources for Health 1990-2020",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_development-assistance-human-resources-health-1990-2020",
+    "files": 3,
+    "size_mb": 1.2026586532592773
+  },
+  {
+    "slug": "ihme-data/diabetes-cascade-of-care-estimates-2000-2023",
+    "title": "Global Diabetes Care 2000-2023",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_diabetes-cascade-of-care-estimates-2000-2023",
+    "files": 2,
+    "size_mb": 99.0224142074585
+  },
+  {
+    "slug": "ihme-data/dtp-vaccines-zerodose-overlap",
+    "title": "Zero-Dose Diphtheria–Tetanus–Pertussis Vaccination Prevalence and Estimates of Overlap with Other Health Indicators",
+    "domain": "vaccination",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\vaccination\\ihme-data_dtp-vaccines-zerodose-overlap",
+    "files": 4,
+    "size_mb": 2.1277875900268555
+  },
+  {
+    "slug": "ihme-data/dtp3-immunization-coverage-country-1986-2006",
+    "title": "DTP3 Immunization Coverage by Country 1986-2006",
+    "domain": "vaccination",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\vaccination\\ihme-data_dtp3-immunization-coverage-country-1986-2006",
+    "files": 2,
+    "size_mb": 0.75048828125
+  },
+  {
+    "slug": "ihme-data/educational-attainment-and-child-mortality-estimates-country-1970-2009",
+    "title": "Educational Attainment and Child Mortality Estimates by Country 1970-2009",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_educational-attainment-and-child-mortality-estimates-country-1970-2009",
+    "files": 1,
+    "size_mb": 0.8547468185424805
+  },
+  {
+    "slug": "ihme-data/effect-education-adult-mortality-systematic-review-meta-analysis-estimates",
+    "title": "Effects of Education on Adult Mortality Systematic Review and Meta-Analysis Estimates",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_effect-education-adult-mortality-systematic-review-meta-analysis-estimates",
+    "files": 3,
+    "size_mb": 3.950047492980957
+  },
+  {
+    "slug": "ihme-data/efficiency-simulation-health-production-low-middle-income-countries",
+    "title": "Efficiency Simulation of Health Production in Low- to Middle-Income Countries",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_efficiency-simulation-health-production-low-middle-income-countries",
+    "files": 1,
+    "size_mb": 0.0167083740234375
+  },
+  {
+    "slug": "ihme-data/el-salvador-salud-mesoam%C3%A9rica-initiative-baseline-census-and-household-survey-2011",
+    "title": "El Salvador Salud Mesoamérica Initiative Baseline Census and Household Survey 2011",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_el-salvador-salud-mesoam%C3%A9rica-initiative-baseline-census-and-household-survey-2011",
+    "files": 8,
+    "size_mb": 6.875932693481445
+  },
+  {
+    "slug": "ihme-data/el-salvador-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2011",
+    "title": "El Salvador Salud Mesoamérica Initiative Baseline Health Facility Survey 2011",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_el-salvador-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2011",
+    "files": 3,
+    "size_mb": 1.4894580841064453
+  },
+  {
+    "slug": "ihme-data/el-salvador-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+    "title": "El Salvador Salud Mesoamérica Initiative First Follow-Up Health Facility Survey 2014",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_el-salvador-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+    "files": 6,
+    "size_mb": 2.8206605911254883
+  },
+  {
+    "slug": "ihme-data/el-salvador-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2017",
+    "title": "El Salvador Salud Mesoamérica Initiative Second Follow-Up Health Facility Survey 2017",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_el-salvador-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2017",
+    "files": 4,
+    "size_mb": 7.897418022155762
+  },
+  {
+    "slug": "ihme-data/el-salvador-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2017",
+    "title": "El Salvador Salud Mesoamérica Initiative Second Follow-Up Household Survey 2017",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_el-salvador-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2017",
+    "files": 4,
+    "size_mb": 13.831417083740234
+  },
+  {
+    "slug": "ihme-data/el-salvador-salud-mesoam%C3%A9rica-initiative-third-follow-health-facility-survey-2022",
+    "title": "El Salvador Salud Mesoamérica Initiative Third Follow-Up Health Facility Survey 2022",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_el-salvador-salud-mesoam%C3%A9rica-initiative-third-follow-health-facility-survey-2022",
+    "files": 4,
+    "size_mb": 8.753805160522461
+  },
+  {
+    "slug": "ihme-data/el-salvador-salud-mesoam%C3%A9rica-initiative-third-follow-household-survey-2022",
+    "title": "El Salvador Salud Mesoamérica Initiative Third Follow-Up Household Survey 2022",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_el-salvador-salud-mesoam%C3%A9rica-initiative-third-follow-household-survey-2022",
+    "files": 4,
+    "size_mb": 6.913728713989258
+  },
+  {
+    "slug": "ihme-data/ethiopia-measles-incidence-susceptibility-2013-2019",
+    "title": "Ethiopia Measles Incidence and Susceptibility by Zone and Age 2013-2019",
+    "domain": "vaccination",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\vaccination\\ihme-data_ethiopia-measles-incidence-susceptibility-2013-2019",
+    "files": 4,
+    "size_mb": 0.9809303283691406
+  },
+  {
+    "slug": "ihme-data/gbd-2010-ambient-air-pollution-risk-model-1990-2010",
+    "title": "Global Burden of Disease Study 2010 (GBD 2010) - Ambient Air Pollution Risk Model 1990 - 2010",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2010-ambient-air-pollution-risk-model-1990-2010",
+    "files": 9,
+    "size_mb": 9.414754867553711
+  },
+  {
+    "slug": "ihme-data/gbd-2010-disability-weights",
+    "title": "Global Burden of Disease Study 2010 (GBD 2010) Disability Weights",
+    "domain": "gbd_covariates",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_covariates\\ihme-data_gbd-2010-disability-weights",
+    "files": 1,
+    "size_mb": 0.017981529235839844
+  },
+  {
+    "slug": "ihme-data/gbd-2010-life-expectancy-and-healthy-life-expectancy-1970-2010",
+    "title": "Global Burden of Disease Study 2010 (GBD 2010) Life Expectancy and Healthy Life Expectancy 1970-2010",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2010-life-expectancy-and-healthy-life-expectancy-1970-2010",
+    "files": 4,
+    "size_mb": 3.830996513366699
+  },
+  {
+    "slug": "ihme-data/gbd-2010-mortality-results-1970-2010",
+    "title": "Global Burden of Disease Study 2010 (GBD 2010) Mortality Results 1970-2010",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2010-mortality-results-1970-2010",
+    "files": 6,
+    "size_mb": 6.086763381958008
+  },
+  {
+    "slug": "ihme-data/gbd-2010-population-estimates-1970-2010",
+    "title": "Global Burden of Disease Study 2010 (GBD 2010) Population Estimates 1970-2010",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2010-population-estimates-1970-2010",
+    "files": 2,
+    "size_mb": 1.7121238708496094
+  },
+  {
+    "slug": "ihme-data/gbd-2010-results-cause-1990-2010",
+    "title": "Global Burden of Disease Study 2010 (GBD 2010) Results by Cause 1990-2010",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2010-results-cause-1990-2010",
+    "files": 5,
+    "size_mb": 60.91919708251953
+  },
+  {
+    "slug": "ihme-data/gbd-2010-results-risk-factor-1990-2010",
+    "title": "Global Burden of Disease Study 2010 (GBD 2010) Results by Risk Factor 1990-2010",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2010-results-risk-factor-1990-2010",
+    "files": 5,
+    "size_mb": 20.136069297790527
+  },
+  {
+    "slug": "ihme-data/gbd-2010-united-kingdom-results-cause-and-risk-factor-1990-2010",
+    "title": "Global Burden of Disease Study 2010 (GBD 2010) United Kingdom Results by Cause and Risk Factor 1990-2010",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2010-united-kingdom-results-cause-and-risk-factor-1990-2010",
+    "files": 4,
+    "size_mb": 11.519675254821777
+  },
+  {
+    "slug": "ihme-data/gbd-2010-united-states-1990-2010",
+    "title": "United States Global Burden of Disease Results 1990-2010",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_gbd-2010-united-states-1990-2010",
+    "files": 2,
+    "size_mb": 24.805749893188477
+  },
+  {
+    "slug": "ihme-data/gbd-2013-all-cause-and-cause-specific-mortality-1990-2013",
+    "title": "Global Burden of Disease Study 2013 (GBD 2013) Age-Sex Specific All-Cause and Cause-Specific Mortality 1990-2013",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2013-all-cause-and-cause-specific-mortality-1990-2013",
+    "files": 1,
+    "size_mb": 6.4382524490356445
+  },
+  {
+    "slug": "ihme-data/gbd-2013-cancer-burden-1990-2013",
+    "title": "Global Burden of Disease Study 2013 (GBD 2013) Cancer Burden 1990-2013",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2013-cancer-burden-1990-2013",
+    "files": 1,
+    "size_mb": 7.3249921798706055
+  },
+  {
+    "slug": "ihme-data/gbd-2013-dalys-1990-2013",
+    "title": "Global Burden of Disease Study 2013 (GBD 2013) Disability-Adjusted Life Years 1990-2013",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2013-dalys-1990-2013",
+    "files": 11,
+    "size_mb": 11.358080863952637
+  },
+  {
+    "slug": "ihme-data/gbd-2013-hiv-tuberculosis-and-malaria-incidence-prevalence-and-mortality-1990-2013",
+    "title": "Global Burden of Disease Study 2013 (GBD 2013) HIV, Tuberculosis, and Malaria Incidence, Prevalence, and Mortality 1990-2013",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2013-hiv-tuberculosis-and-malaria-incidence-prevalence-and-mortality-1990-2013",
+    "files": 1,
+    "size_mb": 10.822490692138672
+  },
+  {
+    "slug": "ihme-data/gbd-2013-incidence-prevalence-and-ylds-1990-2013",
+    "title": "Global Burden of Disease Study 2013 (GBD 2013) Incidence, Prevalence, and Years Lived with Disability 1990-2013",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2013-incidence-prevalence-and-ylds-1990-2013",
+    "files": 1,
+    "size_mb": 6.476545333862305
+  },
+  {
+    "slug": "ihme-data/gbd-2013-maternal-mortality-levels-and-causes-1990-2013",
+    "title": "Global Burden of Disease Study 2013 (GBD 2013) Maternal Mortality Levels and Causes 1990-2013",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2013-maternal-mortality-levels-and-causes-1990-2013",
+    "files": 1,
+    "size_mb": 5.886991500854492
+  },
+  {
+    "slug": "ihme-data/gbd-2013-neonatal-infant-and-under-5-mortality-1990-2013",
+    "title": "Global Burden of Disease Study 2013 (GBD 2013) Neonatal, Infant, and Under-5 Mortality 1990-2013",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2013-neonatal-infant-and-under-5-mortality-1990-2013",
+    "files": 1,
+    "size_mb": 1.236032485961914
+  },
+  {
+    "slug": "ihme-data/gbd-2013-obesity-prevalence-1990-2013",
+    "title": "Global Burden of Disease Study 2013 (GBD 2013) Obesity Prevalence 1990-2013",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2013-obesity-prevalence-1990-2013",
+    "files": 1,
+    "size_mb": 5.84027099609375
+  },
+  {
+    "slug": "ihme-data/gbd-2013-risk-factor-results-1990-2013",
+    "title": "Global Burden of Disease Study 2013 (GBD 2013) Risk Factor Results 1990-2013",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2013-risk-factor-results-1990-2013",
+    "files": 1,
+    "size_mb": 1.194502830505371
+  },
+  {
+    "slug": "ihme-data/gbd-2015-cancer-incidence-mortality-ylls-ylds-dalys-1990-2015",
+    "title": "Global Burden of Disease Study 2015 (GBD 2015) Cancer Incidence, Mortality, Years of Life Lost, Years Lived with Disability, and Disability-Adjusted Life Years 1990-2015",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2015-cancer-incidence-mortality-ylls-ylds-dalys-1990-2015",
+    "files": 1,
+    "size_mb": 2.661684989929199
+  },
+  {
+    "slug": "ihme-data/gbd-2015-cause-icd-code-mappings",
+    "title": "Global Burden of Disease Study 2015 (GBD 2015) Causes of Death and Nonfatal Causes Mapped to ICD Codes",
+    "domain": "reference",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\reference\\ihme-data_gbd-2015-cause-icd-code-mappings",
+    "files": 1,
+    "size_mb": 0.06508922576904297
+  },
+  {
+    "slug": "ihme-data/gbd-2015-disability-weights",
+    "title": "Global Burden of Disease Study 2015 (GBD 2015) Disability Weights",
+    "domain": "gbd_covariates",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_covariates\\ihme-data_gbd-2015-disability-weights",
+    "files": 1,
+    "size_mb": 0.06356620788574219
+  },
+  {
+    "slug": "ihme-data/gbd-2015-health-related-sdgs-1990-2015",
+    "title": "Global Burden of Disease Study 2015 (GBD 2015) Health-related Sustainable Development Goals (SDG) Indicators 1990-2015",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2015-health-related-sdgs-1990-2015",
+    "files": 2,
+    "size_mb": 1.4418792724609375
+  },
+  {
+    "slug": "ihme-data/gbd-2015-healthcare-access-and-quality-index-1990-2015",
+    "title": "Global Burden of Disease Study 2015 (GBD 2015) Healthcare Access and Quality Index Based on Amenable Mortality 1990–2015",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2015-healthcare-access-and-quality-index-1990-2015",
+    "files": 2,
+    "size_mb": 0.8914089202880859
+  },
+  {
+    "slug": "ihme-data/gbd-2015-hiv-incidence-prevalence-and-mortality-1980-2015",
+    "title": "Global Burden of Disease Study 2015 (GBD 2015) HIV Incidence, Prevalence, and Mortality 1980-2015",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2015-hiv-incidence-prevalence-and-mortality-1980-2015",
+    "files": 1,
+    "size_mb": 0.16797542572021484
+  },
+  {
+    "slug": "ihme-data/gbd-2015-hypertension-and-high-systolic-blood-pressure-1990-2015",
+    "title": "Global Burden of Disease Study 2015 (GBD 2015) Hypertension and Systolic Blood Pressure of at Least 110 to 115 mm HG 1990-2015",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2015-hypertension-and-high-systolic-blood-pressure-1990-2015",
+    "files": 9,
+    "size_mb": 228.38321018218994
+  },
+  {
+    "slug": "ihme-data/gbd-2015-life-expectancy-all-cause-and-cause-specific-mortality-1980-2015",
+    "title": "Global Burden of Disease Study 2015 (GBD 2015) Life Expectancy, All-Cause and Cause-Specific Mortality 1980-2015",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2015-life-expectancy-all-cause-and-cause-specific-mortality-1980-2015",
+    "files": 1,
+    "size_mb": 0.1688680648803711
+  },
+  {
+    "slug": "ihme-data/gbd-2015-location-hierarchies",
+    "title": "Global Burden of Disease Study 2015 (GBD 2015) Location Hierarchies",
+    "domain": "reference",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\reference\\ihme-data_gbd-2015-location-hierarchies",
+    "files": 1,
+    "size_mb": 0.03175830841064453
+  },
+  {
+    "slug": "ihme-data/gbd-2015-maternal-mortality-1990-2015",
+    "title": "Global Burden of Disease Study 2015 (GBD 2015) Maternal Mortality 1990-2015",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2015-maternal-mortality-1990-2015",
+    "files": 1,
+    "size_mb": 1.9761133193969727
+  },
+  {
+    "slug": "ihme-data/gbd-2015-obesity-and-overweight-prevalence-1980-2015",
+    "title": "Global Burden of Disease Study 2015 (GBD 2015) Obesity and Overweight Prevalence 1980-2015",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2015-obesity-and-overweight-prevalence-1980-2015",
+    "files": 3,
+    "size_mb": 39.00524425506592
+  },
+  {
+    "slug": "ihme-data/gbd-2015-population-estimates-1970-2015",
+    "title": "Global Burden of Disease Study 2015 (GBD 2015) Population Estimates 1970-2015",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2015-population-estimates-1970-2015",
+    "files": 1,
+    "size_mb": 7.592005729675293
+  },
+  {
+    "slug": "ihme-data/gbd-2015-reference-life-table",
+    "title": "Global Burden of Disease Study 2015 (GBD 2015) Reference Life Table",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2015-reference-life-table",
+    "files": 1,
+    "size_mb": 0.0016765594482421875
+  },
+  {
+    "slug": "ihme-data/gbd-2015-risk-factor-results-1990-2015",
+    "title": "Global Burden of Disease Study 2015 (GBD 2015) Risk Factor Results 1990-2015",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2015-risk-factor-results-1990-2015",
+    "files": 1,
+    "size_mb": 0.3010215759277344
+  },
+  {
+    "slug": "ihme-data/gbd-2015-smoking-prevalence-1980-2015",
+    "title": "Global Burden of Disease Study 2015 (GBD 2015) Smoking Prevalence 1980-2015",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2015-smoking-prevalence-1980-2015",
+    "files": 1,
+    "size_mb": 14.843734741210938
+  },
+  {
+    "slug": "ihme-data/gbd-2015-socio-demographic-index-sdi-1980%E2%80%932015",
+    "title": "Global Burden of Disease Study 2015 (GBD 2015) Socio-Demographic Index (SDI) 1980–2015",
+    "domain": "gbd_covariates",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_covariates\\ihme-data_gbd-2015-socio-demographic-index-sdi-1980%E2%80%932015",
+    "files": 1,
+    "size_mb": 0.24896717071533203
+  },
+  {
+    "slug": "ihme-data/gbd-2015-stillbirths-neonatal-infant-and-under-5-mortality-1980-2015",
+    "title": "Global Burden of Disease Study 2015 (GBD 2015) Stillbirths, Neonatal, Infant, and Under-5 Mortality 1980-2015",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2015-stillbirths-neonatal-infant-and-under-5-mortality-1980-2015",
+    "files": 1,
+    "size_mb": 0.48244476318359375
+  },
+  {
+    "slug": "ihme-data/gbd-2016-45q15-death-distribution-methods-ddm-data-input",
+    "title": "Global Burden of Disease Study 2016 (GBD 2016) 45q15 Death Distribution Methods (DDM) Data Input Sources",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2016-45q15-death-distribution-methods-ddm-data-input",
+    "files": 1,
+    "size_mb": 0.1325225830078125
+  },
+  {
+    "slug": "ihme-data/gbd-2016-alcohol-use-estimates-1990-2016",
+    "title": "Global Burden of Disease Study 2016 (GBD 2016) Alcohol Use Estimates 1990-2016",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2016-alcohol-use-estimates-1990-2016",
+    "files": 2,
+    "size_mb": 3.250033378601074
+  },
+  {
+    "slug": "ihme-data/gbd-2016-all-cause-under-5-mortality-adult-mortality-and-life-expectancy-1970-2016",
+    "title": "Global Burden of Disease Study 2016 (GBD 2016) All-cause Under-5 Mortality, Adult Mortality, and Life Expectancy 1970-2016",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2016-all-cause-under-5-mortality-adult-mortality-and-life-expectancy-1970-2016",
+    "files": 1,
+    "size_mb": 1.1999521255493164
+  },
+  {
+    "slug": "ihme-data/gbd-2016-burden-risk-1990-2016",
+    "title": "Global Burden of Disease Study 2016 (GBD 2016) Burden by Risk 1990-2016",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2016-burden-risk-1990-2016",
+    "files": 1,
+    "size_mb": 0.47856712341308594
+  },
+  {
+    "slug": "ihme-data/gbd-2016-cancer-incidence-mortality-years-life-lost-years",
+    "title": "Global Burden of Disease Study 2016 (GBD 2016) Cancer Incidence, Mortality, Years of Life Lost, Years Lived with Disability, and Disability-Adjusted Life Years 1990-2016",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2016-cancer-incidence-mortality-years-life-lost-years",
+    "files": 2,
+    "size_mb": 22.978225708007812
+  },
+  {
+    "slug": "ihme-data/gbd-2016-cause-icd-code-mappings",
+    "title": "Global Burden of Disease Study 2016 (GBD 2016) Causes of Death and Nonfatal Causes Mapped to ICD Codes",
+    "domain": "reference",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\reference\\ihme-data_gbd-2016-cause-icd-code-mappings",
+    "files": 1,
+    "size_mb": 0.059477806091308594
+  },
+  {
+    "slug": "ihme-data/gbd-2016-cause-specific-mortality-1980-2016",
+    "title": "Global Burden of Disease Study 2016 (GBD 2016) Cause-Specific Mortality 1980-2016",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2016-cause-specific-mortality-1980-2016",
+    "files": 1,
+    "size_mb": 0.6568918228149414
+  },
+  {
+    "slug": "ihme-data/gbd-2016-dalys-and-hale-1990-2016",
+    "title": "Global Burden of Disease Study 2016 (GBD 2016) Disability-Adjusted Life Years and Healthy Life Expectancy 1990-2016",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2016-dalys-and-hale-1990-2016",
+    "files": 1,
+    "size_mb": 0.5107059478759766
+  },
+  {
+    "slug": "ihme-data/gbd-2016-disability-weights",
+    "title": "Global Burden of Disease Study 2016 (GBD 2016) Disability Weights",
+    "domain": "gbd_covariates",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_covariates\\ihme-data_gbd-2016-disability-weights",
+    "files": 1,
+    "size_mb": 0.10885429382324219
+  },
+  {
+    "slug": "ihme-data/gbd-2016-health-related-sdgs-1990-2030",
+    "title": "Global Burden of Disease Study 2016 (GBD 2016) Health-related Sustainable Development Goals (SDG) Indicators 1990-2030",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2016-health-related-sdgs-1990-2030",
+    "files": 2,
+    "size_mb": 6.396121025085449
+  },
+  {
+    "slug": "ihme-data/gbd-2016-healthcare-access-and-quality-index-1990-2016",
+    "title": "Global Burden of Disease Study 2016 (GBD 2016) Healthcare Access and Quality Index Based on Amenable Mortality 1990–2016",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2016-healthcare-access-and-quality-index-1990-2016",
+    "files": 4,
+    "size_mb": 2.9092893600463867
+  },
+  {
+    "slug": "ihme-data/gbd-2016-incidence-prevalence-and-ylds-1990-2016",
+    "title": "Global Burden of Disease Study 2016 (GBD 2016) Incidence, Prevalence, and Years Lived with Disability 1990-2016",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2016-incidence-prevalence-and-ylds-1990-2016",
+    "files": 1,
+    "size_mb": 0.4480123519897461
+  },
+  {
+    "slug": "ihme-data/gbd-2016-location-hierarchies",
+    "title": "Global Burden of Disease Study 2016 (GBD 2016) Location Hierarchies",
+    "domain": "reference",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\reference\\ihme-data_gbd-2016-location-hierarchies",
+    "files": 1,
+    "size_mb": 0.06990718841552734
+  },
+  {
+    "slug": "ihme-data/gbd-2016-population-estimates-1950-2016",
+    "title": "Global Burden of Disease Study 2016 (GBD 2016) Population Estimates 1950-2016",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2016-population-estimates-1950-2016",
+    "files": 1,
+    "size_mb": 9.767301559448242
+  },
+  {
+    "slug": "ihme-data/gbd-2016-reference-life-table",
+    "title": "Global Burden of Disease Study 2016 (GBD 2016) Reference Life Table",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2016-reference-life-table",
+    "files": 1,
+    "size_mb": 0.0016946792602539062
+  },
+  {
+    "slug": "ihme-data/gbd-2016-socio-demographic-index-sdi-1970%E2%80%932016",
+    "title": "Global Burden of Disease Study 2016 (GBD 2016) Socio-Demographic Index (SDI) 1970–2016",
+    "domain": "gbd_covariates",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_covariates\\ihme-data_gbd-2016-socio-demographic-index-sdi-1970%E2%80%932016",
+    "files": 1,
+    "size_mb": 0.48223400115966797
+  },
+  {
+    "slug": "ihme-data/gbd-2016-tuberculosis-burden-1990-2016",
+    "title": "Global Burden of Disease Study 2016 (GBD 2016) Tuberculosis Burden 1990-2016",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2016-tuberculosis-burden-1990-2016",
+    "files": 2,
+    "size_mb": 0.029539108276367188
+  },
+  {
+    "slug": "ihme-data/gbd-2017-all-cause-mortality-and-life-expectancy-1950-2017",
+    "title": "Global Burden of Disease Study 2017 (GBD 2017) All-cause Mortality and Life Expectancy 1950-2017",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2017-all-cause-mortality-and-life-expectancy-1950-2017",
+    "files": 3,
+    "size_mb": 2.871211051940918
+  },
+  {
+    "slug": "ihme-data/gbd-2017-burden-risk-1990-2017",
+    "title": "Global Burden of Disease Study 2017 (GBD 2017) Burden by Risk 1990-2017",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2017-burden-risk-1990-2017",
+    "files": 4,
+    "size_mb": 1.2940616607666016
+  },
+  {
+    "slug": "ihme-data/gbd-2017-cause-icd-code-mappings",
+    "title": "Global Burden of Disease Study 2017 (GBD 2017) Causes of Death and Nonfatal Causes Mapped to ICD Codes",
+    "domain": "reference",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\reference\\ihme-data_gbd-2017-cause-icd-code-mappings",
+    "files": 2,
+    "size_mb": 0.6609859466552734
+  },
+  {
+    "slug": "ihme-data/gbd-2017-cause-rei-and-location-hierarchies",
+    "title": "Global Burden of Disease Study 2017 (GBD 2017) Cause, REI, and Location Hierarchies",
+    "domain": "reference",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\reference\\ihme-data_gbd-2017-cause-rei-and-location-hierarchies",
+    "files": 2,
+    "size_mb": 0.6357765197753906
+  },
+  {
+    "slug": "ihme-data/gbd-2017-cause-specific-mortality-1980-2017",
+    "title": "Global Burden of Disease Study 2017 (GBD 2017) Cause-Specific Mortality 1980-2017",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2017-cause-specific-mortality-1980-2017",
+    "files": 3,
+    "size_mb": 1.6419057846069336
+  },
+  {
+    "slug": "ihme-data/gbd-2017-covariates-1980-2017",
+    "title": "Global Burden of Disease Study 2017 (GBD 2017) Covariates 1980-2017",
+    "domain": "gbd_covariates",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_covariates\\ihme-data_gbd-2017-covariates-1980-2017",
+    "files": 3,
+    "size_mb": 0.7401561737060547
+  },
+  {
+    "slug": "ihme-data/gbd-2017-dalys-and-hale-1990-2017",
+    "title": "Global Burden of Disease Study 2017 (GBD 2017) Disability-Adjusted Life Years and Healthy Life Expectancy 1990-2017",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2017-dalys-and-hale-1990-2017",
+    "files": 3,
+    "size_mb": 11.557038307189941
+  },
+  {
+    "slug": "ihme-data/gbd-2017-disability-weights",
+    "title": "Global Burden of Disease Study 2017 (GBD 2017) Disability Weights",
+    "domain": "gbd_covariates",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_covariates\\ihme-data_gbd-2017-disability-weights",
+    "files": 2,
+    "size_mb": 0.6795635223388672
+  },
+  {
+    "slug": "ihme-data/gbd-2017-fertility-estimates-1950-2017",
+    "title": "Global Burden of Disease Study 2017 (GBD 2017) Fertility Estimates 1950-2017",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2017-fertility-estimates-1950-2017",
+    "files": 3,
+    "size_mb": 7.552227020263672
+  },
+  {
+    "slug": "ihme-data/gbd-2017-health-related-sdgs-1990-2030",
+    "title": "Global Burden of Disease Study 2017 (GBD 2017) Health-related Sustainable Development Goals (SDG) Indicators 1990-2030",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2017-health-related-sdgs-1990-2030",
+    "files": 6,
+    "size_mb": 9.713701248168945
+  },
+  {
+    "slug": "ihme-data/gbd-2017-incidence-prevalence-and-ylds-1990-2017",
+    "title": "Global Burden of Disease Study 2017 (GBD 2017) Incidence, Prevalence, and Years Lived with Disability 1990-2017",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2017-incidence-prevalence-and-ylds-1990-2017",
+    "files": 3,
+    "size_mb": 0.8743762969970703
+  },
+  {
+    "slug": "ihme-data/gbd-2017-life-tables-1950-2017",
+    "title": "Global Burden of Disease Study 2017 (GBD 2017) Life Tables 1950-2017",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2017-life-tables-1950-2017",
+    "files": 3,
+    "size_mb": 0.7357139587402344
+  },
+  {
+    "slug": "ihme-data/gbd-2017-population-and-fertility-1950-2017",
+    "title": "Global Burden of Disease Study 2017 (GBD 2017) Population and Fertility 1950-2017",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2017-population-and-fertility-1950-2017",
+    "files": 3,
+    "size_mb": 12.49189567565918
+  },
+  {
+    "slug": "ihme-data/gbd-2017-population-estimates-1950-2017",
+    "title": "Global Burden of Disease Study 2017 (GBD 2017) Population Estimates 1950-2017",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2017-population-estimates-1950-2017",
+    "files": 16,
+    "size_mb": 381.7976064682007
+  },
+  {
+    "slug": "ihme-data/gbd-2017-socio-demographic-index-sdi-1950%E2%80%932017",
+    "title": "Global Burden of Disease Study 2017 (GBD 2017) Socio-Demographic Index (SDI) 1950–2017",
+    "domain": "gbd_covariates",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_covariates\\ihme-data_gbd-2017-socio-demographic-index-sdi-1950%E2%80%932017",
+    "files": 2,
+    "size_mb": 0.8162450790405273
+  },
+  {
+    "slug": "ihme-data/gbd-2019-burden-by-risk-1990-2019",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Burden by Risk 1990-2019",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2019-burden-by-risk-1990-2019",
+    "files": 3,
+    "size_mb": 1.002457618713379
+  },
+  {
+    "slug": "ihme-data/gbd-2019-cause-icd-code-mappings",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Cause List Mapped to ICD Codes",
+    "domain": "reference",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\reference\\ihme-data_gbd-2019-cause-icd-code-mappings",
+    "files": 3,
+    "size_mb": 0.255950927734375
+  },
+  {
+    "slug": "ihme-data/gbd-2019-cause-rei-and-location-hierarchies",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Cause, REI, and Location Hierarchies",
+    "domain": "reference",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\reference\\ihme-data_gbd-2019-cause-rei-and-location-hierarchies",
+    "files": 5,
+    "size_mb": 0.6548614501953125
+  },
+  {
+    "slug": "ihme-data/gbd-2019-chewing-tobacco-use-prevalence-1990-2019",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Chewing Tobacco Use Prevalence 1990-2019",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2019-chewing-tobacco-use-prevalence-1990-2019",
+    "files": 4,
+    "size_mb": 5.631103515625
+  },
+  {
+    "slug": "ihme-data/gbd-2019-dietary-risk-exposure-estimates-1990-2019",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Dietary Risk Exposure Estimates 1990-2019",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2019-dietary-risk-exposure-estimates-1990-2019",
+    "files": 3,
+    "size_mb": 152.72750282287598
+  },
+  {
+    "slug": "ihme-data/gbd-2019-disability-weights",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Disability Weights",
+    "domain": "gbd_covariates",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_covariates\\ihme-data_gbd-2019-disability-weights",
+    "files": 2,
+    "size_mb": 0.5900821685791016
+  },
+  {
+    "slug": "ihme-data/gbd-2019-disease-and-injury-burden-1990-2019",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Disease and Injury Burden 1990-2019",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2019-disease-and-injury-burden-1990-2019",
+    "files": 3,
+    "size_mb": 1.7763872146606445
+  },
+  {
+    "slug": "ihme-data/gbd-2019-fatal-police-violence-by-race-and-state-1980-2019",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) United States Fatal Police Violence by Race and State 1980-2019",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2019-fatal-police-violence-by-race-and-state-1980-2019",
+    "files": 4,
+    "size_mb": 20.50518226623535
+  },
+  {
+    "slug": "ihme-data/gbd-2019-fertility-estimates-1950-2019",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Fertility Estimates 1950-2019",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2019-fertility-estimates-1950-2019",
+    "files": 8,
+    "size_mb": 32.816802978515625
+  },
+  {
+    "slug": "ihme-data/gbd-2019-healthcare-access-and-quality-1990-2019",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Healthcare Access and Quality Index 1990-2019",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2019-healthcare-access-and-quality-1990-2019",
+    "files": 3,
+    "size_mb": 1.4155158996582031
+  },
+  {
+    "slug": "ihme-data/gbd-2019-human-resources-health-1990-2019",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Human Resources for Health 1990-2019",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2019-human-resources-health-1990-2019",
+    "files": 4,
+    "size_mb": 7.429853439331055
+  },
+  {
+    "slug": "ihme-data/gbd-2019-life-tables-1950-2019",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Life Tables 1950-2019",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2019-life-tables-1950-2019",
+    "files": 26,
+    "size_mb": 369.192232131958
+  },
+  {
+    "slug": "ihme-data/gbd-2019-migration-estimates-1950-2018",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Migration Estimates 1950-2018",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2019-migration-estimates-1950-2018",
+    "files": 9,
+    "size_mb": 56.50631332397461
+  },
+  {
+    "slug": "ihme-data/gbd-2019-mortality-estimates-1950-2019",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Under-5 Mortality and Adult Mortality 1950-2019",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2019-mortality-estimates-1950-2019",
+    "files": 6,
+    "size_mb": 16.190616607666016
+  },
+  {
+    "slug": "ihme-data/gbd-2019-population-estimates-1950-2019",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Population Estimates 1950-2019",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2019-population-estimates-1950-2019",
+    "files": 17,
+    "size_mb": 580.311411857605
+  },
+  {
+    "slug": "ihme-data/gbd-2019-relative-risks",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Relative Risks",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2019-relative-risks",
+    "files": 6,
+    "size_mb": 0.8588218688964844
+  },
+  {
+    "slug": "ihme-data/gbd-2019-risk-factors-attributable-cancer-burden-estimates",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Risk Factors-Attributable Cancer Burden Estimates 2010–2019",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2019-risk-factors-attributable-cancer-burden-estimates",
+    "files": 3,
+    "size_mb": 1.0541448593139648
+  },
+  {
+    "slug": "ihme-data/gbd-2019-smoking-tobacco-use-prevalence-1990-2019",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Smoking Tobacco Use Prevalence 1990-2019",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2019-smoking-tobacco-use-prevalence-1990-2019",
+    "files": 6,
+    "size_mb": 1.476698875427246
+  },
+  {
+    "slug": "ihme-data/gbd-2019-socio-demographic-index-sdi-1950-2019",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Socio-Demographic Index (SDI) 1950–2019",
+    "domain": "gbd_covariates",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_covariates\\ihme-data_gbd-2019-socio-demographic-index-sdi-1950-2019",
+    "files": 8,
+    "size_mb": 1.1928014755249023
+  },
+  {
+    "slug": "ihme-data/gbd-2019-uhc-effective-coverage-index-1990-2019",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) UHC Effective Coverage Index 1990-2019",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_gbd-2019-uhc-effective-coverage-index-1990-2019",
+    "files": 4,
+    "size_mb": 1.0018844604492188
+  },
+  {
+    "slug": "ihme-data/gbd-2020-routine-childhood-vaccination-coverage-1980-2019",
+    "title": "Global Burden of Disease Study 2020, Release 1 (GBD 2020 R1) Routine Childhood Vaccination Coverage 1980-2019",
+    "domain": "vaccination",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\vaccination\\ihme-data_gbd-2020-routine-childhood-vaccination-coverage-1980-2019",
+    "files": 4,
+    "size_mb": 1.4466314315795898
+  },
+  {
+    "slug": "ihme-data/gbd-2021-adult-obesity-overweight-prevalence-1990-2050",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Adult Overweight and Obesity Prevalence Estimates and Forecasts 1990-2050",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2021-adult-obesity-overweight-prevalence-1990-2050",
+    "files": 5,
+    "size_mb": 63.11677074432373
+  },
+  {
+    "slug": "ihme-data/gbd-2021-air-pollution-exposure-estimates-1990-2021",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Air Pollution Exposure Estimates and Risk Curves 1990-2021",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2021-air-pollution-exposure-estimates-1990-2021",
+    "files": 3,
+    "size_mb": 0.20589828491210938
+  },
+  {
+    "slug": "ihme-data/gbd-2021-anemia-prevalence-ylds",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Anemia Prevalence and Years Lived with Disability by Cause 1990-2021",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_gbd-2021-anemia-prevalence-ylds",
+    "files": 3,
+    "size_mb": 7.908429145812988
+  },
+  {
+    "slug": "ihme-data/gbd-2021-asean-smoking-prevalence-burden-1990-2021",
+    "title": "Global Burden of Disease (GBD 2021) Association of Southeast Asian Nations Smoking Prevalence and Burden Estimates 1990-2021",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2021-asean-smoking-prevalence-burden-1990-2021",
+    "files": 2,
+    "size_mb": 4.897707939147949
+  },
+  {
+    "slug": "ihme-data/gbd-2021-bacterial-amr-estimates-forecasts-1990-2050",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Bacterial Antimicrobial Resistance Burden Estimates 1990-2021 and Forecasts 2022-2050",
+    "domain": "forecasts",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\forecasts\\ihme-data_gbd-2021-bacterial-amr-estimates-forecasts-1990-2050",
+    "files": 2,
+    "size_mb": 0.08942985534667969
+  },
+  {
+    "slug": "ihme-data/gbd-2021-burden-by-risk-1990-2021",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Burden and Strength of Evidence by Risk Factor 1990-2021",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2021-burden-by-risk-1990-2021",
+    "files": 3,
+    "size_mb": 14.116262435913086
+  },
+  {
+    "slug": "ihme-data/gbd-2021-cause-icd-code-mappings",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Causes of Death and Nonfatal Causes Mapped to ICD Codes",
+    "domain": "reference",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\reference\\ihme-data_gbd-2021-cause-icd-code-mappings",
+    "files": 3,
+    "size_mb": 0.2465686798095703
+  },
+  {
+    "slug": "ihme-data/gbd-2021-cause-specific-mortality-1990-2021",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Cause-Specific Mortality 1990-2021",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_gbd-2021-cause-specific-mortality-1990-2021",
+    "files": 1,
+    "size_mb": 0.09738922119140625
+  },
+  {
+    "slug": "ihme-data/gbd-2021-child-adolescent-obesity-overweight-prevalence-1990-2050",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Child and Adolescent Overweight and Obesity Estimates and Forecasts 1990-2050",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2021-child-adolescent-obesity-overweight-prevalence-1990-2050",
+    "files": 5,
+    "size_mb": 48.041659355163574
+  },
+  {
+    "slug": "ihme-data/gbd-2021-dietary-risk-exposure-estimates-1990-2021",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Dietary Risk Exposure Estimates 1990-2021",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2021-dietary-risk-exposure-estimates-1990-2021",
+    "files": 3,
+    "size_mb": 155.91711711883545
+  },
+  {
+    "slug": "ihme-data/gbd-2021-disability-weights",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Disability Weights",
+    "domain": "gbd_covariates",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_covariates\\ihme-data_gbd-2021-disability-weights",
+    "files": 2,
+    "size_mb": 0.6007452011108398
+  },
+  {
+    "slug": "ihme-data/gbd-2021-europe-le-change-cause-1990-2021",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Europe Life Expectancy Change by Cause 1990-2021",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2021-europe-le-change-cause-1990-2021",
+    "files": 3,
+    "size_mb": 0.4033212661743164
+  },
+  {
+    "slug": "ihme-data/gbd-2021-gnt-estimates-forecasts-2012-2050",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Global Nutrition Targets Estimates and Forecasts 1990-2050",
+    "domain": "forecasts",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\forecasts\\ihme-data_gbd-2021-gnt-estimates-forecasts-2012-2050",
+    "files": 3,
+    "size_mb": 21.251968383789062
+  },
+  {
+    "slug": "ihme-data/gbd-2021-hiv-acquisition-viraemia-1990-2050",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) HIV Lifetime Probability of Acquisition and Prevalence of Unsuppressed Viraemia Estimates and Forecasts 1990-2050",
+    "domain": "forecasts",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\forecasts\\ihme-data_gbd-2021-hiv-acquisition-viraemia-1990-2050",
+    "files": 2,
+    "size_mb": 0.7997779846191406
+  },
+  {
+    "slug": "ihme-data/gbd-2021-hygiene-exposure-estimates-1990-2021",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Hygiene Exposure Estimates 1990-2021",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2021-hygiene-exposure-estimates-1990-2021",
+    "files": 3,
+    "size_mb": 185.01649856567383
+  },
+  {
+    "slug": "ihme-data/gbd-2021-lead-exposure-estimates-1990-2021",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Lead Exposure Estimates 1990-2021",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2021-lead-exposure-estimates-1990-2021",
+    "files": 7,
+    "size_mb": 494.80712890625
+  },
+  {
+    "slug": "ihme-data/gbd-2021-nervous-system-disorders-1990-2021",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Nervous System Disorders Estimates 1990-2021",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_gbd-2021-nervous-system-disorders-1990-2021",
+    "files": 3,
+    "size_mb": 0.5428924560546875
+  },
+  {
+    "slug": "ihme-data/gbd-2021-scd-birth-incidence-age-specific-prevalence-total-mortality",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Sickle Cell Disease Birth Incidence, Prevalence, and Mortality 2000-2021",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_gbd-2021-scd-birth-incidence-age-specific-prevalence-total-mortality",
+    "files": 9,
+    "size_mb": 54.63370132446289
+  },
+  {
+    "slug": "ihme-data/gbd-2021-smoking-mortality-prevalence-forecasts-2022-2050",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Smoking Mortality and Prevalence Forecasts 2022-2050",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2021-smoking-mortality-prevalence-forecasts-2022-2050",
+    "files": 4,
+    "size_mb": 0.2714719772338867
+  },
+  {
+    "slug": "ihme-data/gbd-2021-suicide-mortality-incidence-1990-2021",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Suicide Mortality and Incidence 1990-2021",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_gbd-2021-suicide-mortality-incidence-1990-2021",
+    "files": 5,
+    "size_mb": 8.970911979675293
+  },
+  {
+    "slug": "ihme-data/gbd-2021-tuberculosis-incidence-mortality-1990-2021",
+    "title": "Global Burden of Disease 2021 (GBD 2021) Tuberculosis Estimates 1990-2021",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_gbd-2021-tuberculosis-incidence-mortality-1990-2021",
+    "files": 4,
+    "size_mb": 1.398397445678711
+  },
+  {
+    "slug": "ihme-data/gbd-2021-unsafe-sanitation-exposure-estimates-1990-2021",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Unsafe Sanitation Exposure Estimates 1990-2021",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2021-unsafe-sanitation-exposure-estimates-1990-2021",
+    "files": 4,
+    "size_mb": 369.9723787307739
+  },
+  {
+    "slug": "ihme-data/gbd-2021-unsafe-water-exposure-estimates-1990-2021",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Unsafe Water Exposure Estimates 1990-2021",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2021-unsafe-water-exposure-estimates-1990-2021",
+    "files": 2,
+    "size_mb": 0.20450878143310547
+  },
+  {
+    "slug": "ihme-data/gbd-2021-us-bod-forecasts-2022-2050",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) United States Burden of Disease Forecasts 2022-2050",
+    "domain": "forecasts",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\forecasts\\ihme-data_gbd-2021-us-bod-forecasts-2022-2050",
+    "files": 2,
+    "size_mb": 0.11643028259277344
+  },
+  {
+    "slug": "ihme-data/gbd-2021-yld-daly-hale-1990-2021",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Years Lived with Disability, Disability-Adjusted Life Years, and Healthy Life Expectancy 1990-2021",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2021-yld-daly-hale-1990-2021",
+    "files": 1,
+    "size_mb": 0.14294147491455078
+  },
+  {
+    "slug": "ihme-data/gbd-2023-air-pollution-exposure-estimates-1990-2023",
+    "title": "Global Burden of Disease Study 2023 (GBD 2023) Air Pollution Exposure Estimates and Risk Curves 1990-2023",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2023-air-pollution-exposure-estimates-1990-2023",
+    "files": 7,
+    "size_mb": 347.9475612640381
+  },
+  {
+    "slug": "ihme-data/gbd-2023-breast-cancer-forecasts-2024-2050",
+    "title": "Global Burden of Disease Study 2023 (GBD 2023) Breast Cancer Forecasts 2024-2050",
+    "domain": "gbd_results",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_results\\ihme-data_gbd-2023-breast-cancer-forecasts-2024-2050",
+    "files": 3,
+    "size_mb": 0.4451007843017578
+  },
+  {
+    "slug": "ihme-data/gbd-2023-cause-icd-code-mappings",
+    "title": "Global Burden of Disease Study 2023 (GBD 2023) Causes of Death and Nonfatal Causes Mapped to ICD Codes",
+    "domain": "gbd_results",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_results\\ihme-data_gbd-2023-cause-icd-code-mappings",
+    "files": 3,
+    "size_mb": 0.2465686798095703
+  },
+  {
+    "slug": "ihme-data/gbd-2023-cause-specific-mortality-1990-2023",
+    "title": "Global Burden of Disease Study 2023 (GBD 2023) Cause-Specific Mortality 1990-2023",
+    "domain": "gbd_results",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_results\\ihme-data_gbd-2023-cause-specific-mortality-1990-2023",
+    "files": 3,
+    "size_mb": 42.901288986206055
+  },
+  {
+    "slug": "ihme-data/gbd-2023-ckd-1990-2023",
+    "title": "Global Burden of Disease Study 2023 (GBD 2023) Chronic Kidney Disease Mortality, Prevalence, and DALY Estimates 1990-2023",
+    "domain": "gbd_results",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_results\\ihme-data_gbd-2023-ckd-1990-2023",
+    "files": 3,
+    "size_mb": 0.3563375473022461
+  },
+  {
+    "slug": "ihme-data/gbd-2023-covariates-1980-2023",
+    "title": "Global Burden of Disease Study 2023 (GBD 2023) Covariates 1980-2023",
+    "domain": "gbd_covariates",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_covariates\\ihme-data_gbd-2023-covariates-1980-2023",
+    "files": 18,
+    "size_mb": 1940.0317115783691
+  },
+  {
+    "slug": "ihme-data/gbd-2023-demographics-1950-2023",
+    "title": "Global Burden of Disease Study 2023 (GBD 2023) Demographics 1950-2023",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_gbd-2023-demographics-1950-2023",
+    "files": 6,
+    "size_mb": 138.69069385528564
+  },
+  {
+    "slug": "ihme-data/gbd-2023-disability-weights",
+    "title": "Global Burden of Disease Study 2023 (GBD 2023) Disability Weights",
+    "domain": "gbd_covariates",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_covariates\\ihme-data_gbd-2023-disability-weights",
+    "files": 2,
+    "size_mb": 0.3232898712158203
+  },
+  {
+    "slug": "ihme-data/gbd-2023-global-cancer-forecasts-2024-2050",
+    "title": "Global Burden of Disease Study 2023 (GBD 2023) Cancer Forecasts 2024-2050",
+    "domain": "gbd_results",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_results\\ihme-data_gbd-2023-global-cancer-forecasts-2024-2050",
+    "files": 3,
+    "size_mb": 1.088623046875
+  },
+  {
+    "slug": "ihme-data/gbd-2023-headache-prevalence-1990-2023",
+    "title": "Global Burden of Disease Study 2023 (GBD 2023) Headache Estimates 1990-2023",
+    "domain": "gbd_results",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_results\\ihme-data_gbd-2023-headache-prevalence-1990-2023",
+    "files": 3,
+    "size_mb": 9.134561538696289
+  },
+  {
+    "slug": "ihme-data/gbd-2023-lead-exposure-estimates-1990-2023",
+    "title": "Global Burden of Disease Study 2023 (GBD 2023) Lead Exposure Estimates 1990-2023",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2023-lead-exposure-estimates-1990-2023",
+    "files": 7,
+    "size_mb": 584.0352792739868
+  },
+  {
+    "slug": "ihme-data/gbd-2023-lri-1990-2023",
+    "title": "Global Burden of Disease Study 2023 (GBD 2023) Lower Respiratory Infection Mortality and Incidence Estimates 1990-2023",
+    "domain": "gbd_results",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_results\\ihme-data_gbd-2023-lri-1990-2023",
+    "files": 3,
+    "size_mb": 0.33119773864746094
+  },
+  {
+    "slug": "ihme-data/gbd-2023-risk-exposure-estimates-1990-2023",
+    "title": "Global Burden of Disease Study 2023 (GBD 2023) Risk Exposure Estimates 1990-2023",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-2023-risk-exposure-estimates-1990-2023",
+    "files": 23,
+    "size_mb": 2710.846655845642
+  },
+  {
+    "slug": "ihme-data/gbd-2023-vaccination-coverage-1980-2030",
+    "title": "Global Burden of Disease Study 2023 (GBD 2023) Routine Childhood Vaccination Coverage Estimates and Forecasts 1980-2030",
+    "domain": "forecasts",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\forecasts\\ihme-data_gbd-2023-vaccination-coverage-1980-2030",
+    "files": 4,
+    "size_mb": 1.2992982864379883
+  },
+  {
+    "slug": "ihme-data/gbd-2023-yld-daly-hale-risk-1990-2023",
+    "title": "Global Burden of Disease Study 2023 (GBD 2023) Years Lived with Disability, Disability-Adjusted Life Years, Healthy Life Expectancy, and Risk-Attributable Burden 1990-2023",
+    "domain": "gbd_results",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_results\\ihme-data_gbd-2023-yld-daly-hale-risk-1990-2023",
+    "files": 6,
+    "size_mb": 266.4982280731201
+  },
+  {
+    "slug": "ihme-data/gbd-alcohol-ihd-bop-risk-outcome-scores",
+    "title": "Global Burden of Disease Study (GBD) Alcohol Consumption and Ischemic Heart Disease Burden of Proof and Risk-Outcome Scores",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-alcohol-ihd-bop-risk-outcome-scores",
+    "files": 2,
+    "size_mb": 0.2602720260620117
+  },
+  {
+    "slug": "ihme-data/gbd-risk-outcome-scores",
+    "title": "Global Burden of Disease Study (GBD) Burden of Proof and Risk-Outcome Scores",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbd-risk-outcome-scores",
+    "files": 2,
+    "size_mb": 0.7670698165893555
+  },
+  {
+    "slug": "ihme-data/gbv-health-effects-bop-risk-outcome-scores",
+    "title": "Global Health Effects of Gender-Based Violence Burden of Proof and Risk-Outcome Scores",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_gbv-health-effects-bop-risk-outcome-scores",
+    "files": 4,
+    "size_mb": 0.1531991958618164
+  },
+  {
+    "slug": "ihme-data/geopositioned-mers-cov-occurrences-database-1983-2017",
+    "title": "Geopositioned Middle East Respiratory Syndrome Coronavirus Occurrences Database 1983-2017",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_geopositioned-mers-cov-occurrences-database-1983-2017",
+    "files": 3,
+    "size_mb": 3.1519250869750977
+  },
+  {
+    "slug": "ihme-data/ghana-access-bottlenecks-costs-and-equity-project-2012",
+    "title": "Ghana Access, Bottlenecks, Costs, and Equity Project 2012",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_ghana-access-bottlenecks-costs-and-equity-project-2012",
+    "files": 3,
+    "size_mb": 8.107073783874512
+  },
+  {
+    "slug": "ihme-data/global-anemia-prevalence-geospatial-estimates-2000-2019",
+    "title": "Global Anemia Prevalence Geospatial Estimates 2000-2019",
+    "domain": "geospatial",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\geospatial\\ihme-data_global-anemia-prevalence-geospatial-estimates-2000-2019",
+    "files": 3,
+    "size_mb": 0.45371055603027344
+  },
+  {
+    "slug": "ihme-data/global-bacterial-antimicrobial-resistance-burden-estimates-2019",
+    "title": "Global Bacterial Antimicrobial Resistance Burden Estimates 2019",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_global-bacterial-antimicrobial-resistance-burden-estimates-2019",
+    "files": 5,
+    "size_mb": 36.080716133117676
+  },
+  {
+    "slug": "ihme-data/global-birth-registration-database-1948-2015",
+    "title": "Global Birth Registration Database 1948-2015",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_global-birth-registration-database-1948-2015",
+    "files": 2,
+    "size_mb": 1.5574121475219727
+  },
+  {
+    "slug": "ihme-data/global-brain-health-spending-2000-2019",
+    "title": "Global Brain Health Spending 2000-2019",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-brain-health-spending-2000-2019",
+    "files": 3,
+    "size_mb": 0.2891044616699219
+  },
+  {
+    "slug": "ihme-data/global-burden-85-pathogens-2019",
+    "title": "Global Burden of 85 Pathogens 1990-2019",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-burden-85-pathogens-2019",
+    "files": 4,
+    "size_mb": 0.3655128479003906
+  },
+  {
+    "slug": "ihme-data/global-burden-disease-study-2019-gbd-2019-particulate-matter-risk-curves",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Particulate Matter Risk Curves",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_global-burden-disease-study-2019-gbd-2019-particulate-matter-risk-curves",
+    "files": 8,
+    "size_mb": 106.14654636383057
+  },
+  {
+    "slug": "ihme-data/global-burden-disease-study-2019-gbd-2019-reference-life-table",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Reference Life Table",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_global-burden-disease-study-2019-gbd-2019-reference-life-table",
+    "files": 2,
+    "size_mb": 0.5980730056762695
+  },
+  {
+    "slug": "ihme-data/global-burden-disease-study-2019-gbd-2019-under-5-mortality-detailed-age-groups-1950-2019",
+    "title": "Global Burden of Disease Study 2019 (GBD 2019) Under-5 Mortality by Detailed Age Groups 1950-2019",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_global-burden-disease-study-2019-gbd-2019-under-5-mortality-detailed-age-groups-1950-2019",
+    "files": 16,
+    "size_mb": 88.83642578125
+  },
+  {
+    "slug": "ihme-data/global-burden-disease-study-2021-gbd-2021-covariates-1980-2021",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Covariates 1980-2021",
+    "domain": "gbd_covariates",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_covariates\\ihme-data_global-burden-disease-study-2021-gbd-2021-covariates-1980-2021",
+    "files": 1,
+    "size_mb": 0.21385478973388672
+  },
+  {
+    "slug": "ihme-data/global-burden-disease-study-2021-gbd-2021-demographics-1950-2021",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Demographics 1950-2021",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_global-burden-disease-study-2021-gbd-2021-demographics-1950-2021",
+    "files": 4,
+    "size_mb": 2.603714942932129
+  },
+  {
+    "slug": "ihme-data/global-burden-disease-study-2021-gbd-2021-fertility-1950-2100",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Fertility Estimates 1950-2021 and Forecasts 2022-2100",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_global-burden-disease-study-2021-gbd-2021-fertility-1950-2100",
+    "files": 5,
+    "size_mb": 33.753143310546875
+  },
+  {
+    "slug": "ihme-data/global-burden-disease-study-2021-gbd-2021-stillbirth-estimates-1990-2021",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Stillbirth Estimates 1990-2021",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-burden-disease-study-2021-gbd-2021-stillbirth-estimates-1990-2021",
+    "files": 3,
+    "size_mb": 3.4712467193603516
+  },
+  {
+    "slug": "ihme-data/global-burden-disease-study-2021-lower-respiratory-incidence-mortality-estimates-1990-2021",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Lower Respiratory Infections and Aetiologies Incidence and Mortality Estimates 1990-2021",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-burden-disease-study-2021-lower-respiratory-incidence-mortality-estimates-1990-2021",
+    "files": 3,
+    "size_mb": 7.245011329650879
+  },
+  {
+    "slug": "ihme-data/global-child-growth-failure-geospatial-estimates-2000-2019",
+    "title": "Global Child Growth Failure Geospatial Estimates 2000-2019",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_global-child-growth-failure-geospatial-estimates-2000-2019",
+    "files": 3,
+    "size_mb": 1.0095901489257812
+  },
+  {
+    "slug": "ihme-data/global-covid-19-routine-childhood-vaccination-disruption-2020",
+    "title": "Global COVID-19 Routine Childhood Vaccination Disruption 2020",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_global-covid-19-routine-childhood-vaccination-disruption-2020",
+    "files": 4,
+    "size_mb": 0.6739912033081055
+  },
+  {
+    "slug": "ihme-data/global-dementia-care-spending-and-future-spending-scenarios-2000-2050",
+    "title": "Global Dementia Care Spending and Future Spending Scenarios 2000-2050",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-dementia-care-spending-and-future-spending-scenarios-2000-2050",
+    "files": 4,
+    "size_mb": 2.2664804458618164
+  },
+  {
+    "slug": "ihme-data/global-educational-attainment-1970-2015",
+    "title": "Global Educational Attainment 1970-2015",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_global-educational-attainment-1970-2015",
+    "files": 1,
+    "size_mb": 2.4215335845947266
+  },
+  {
+    "slug": "ihme-data/global-educational-attainment-distributions-1970-2030",
+    "title": "Global Educational Attainment Distributions 1970-2030",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_global-educational-attainment-distributions-1970-2030",
+    "files": 3,
+    "size_mb": 7.636709213256836
+  },
+  {
+    "slug": "ihme-data/global-exclusive-breastfeeding-prevalence-geospatial-estimates-2000-2019",
+    "title": "Global Exclusive Breastfeeding Prevalence Geospatial Estimates 2000-2019",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_global-exclusive-breastfeeding-prevalence-geospatial-estimates-2000-2019",
+    "files": 3,
+    "size_mb": 0.8962526321411133
+  },
+  {
+    "slug": "ihme-data/global-expected-health-spending-2015-2040",
+    "title": "Global Expected Health Spending 2015-2040",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-expected-health-spending-2015-2040",
+    "files": 1,
+    "size_mb": 0.7840375900268555
+  },
+  {
+    "slug": "ihme-data/global-expected-health-spending-2016-2040",
+    "title": "Global Expected Health Spending 2016-2040",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-expected-health-spending-2016-2040",
+    "files": 2,
+    "size_mb": 1.1892766952514648
+  },
+  {
+    "slug": "ihme-data/global-expected-health-spending-2017-2050",
+    "title": "Global Expected Health Spending 2017-2050",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-expected-health-spending-2017-2050",
+    "files": 4,
+    "size_mb": 3.2847728729248047
+  },
+  {
+    "slug": "ihme-data/global-expected-health-spending-2018-2050",
+    "title": "Global Expected Health Spending 2018-2050",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-expected-health-spending-2018-2050",
+    "files": 4,
+    "size_mb": 3.2161169052124023
+  },
+  {
+    "slug": "ihme-data/global-expected-health-spending-2019-2050",
+    "title": "Global Expected Health Spending 2019-2050",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-expected-health-spending-2019-2050",
+    "files": 4,
+    "size_mb": 3.3587656021118164
+  },
+  {
+    "slug": "ihme-data/global-expected-health-spending-2020-2050",
+    "title": "Global Expected Health Spending 2020-2050",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-expected-health-spending-2020-2050",
+    "files": 3,
+    "size_mb": 1.3889093399047852
+  },
+  {
+    "slug": "ihme-data/global-expected-health-spending-2022-2050",
+    "title": "Global Expected Health Spending 2022-2050",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-expected-health-spending-2022-2050",
+    "files": 4,
+    "size_mb": 2.664914131164551
+  },
+  {
+    "slug": "ihme-data/global-expected-health-spending-2023-2050",
+    "title": "Global Expected Health Spending 2023-2050",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-expected-health-spending-2023-2050",
+    "files": 3,
+    "size_mb": 3.1087303161621094
+  },
+  {
+    "slug": "ihme-data/global-expected-health-spending-2023-2050-20251114",
+    "title": "Global Expected Health Spending 2023-2050, 14 November 2025",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-expected-health-spending-2023-2050-20251114",
+    "files": 3,
+    "size_mb": 1.343313217163086
+  },
+  {
+    "slug": "ihme-data/global-family-planning-estimates-2000-2020",
+    "title": "Burkina Faso, Kenya, and Nigeria Family Planning Indicator Estimates 2000-2020",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-family-planning-estimates-2000-2020",
+    "files": 3,
+    "size_mb": 0.34783077239990234
+  },
+  {
+    "slug": "ihme-data/global-fund-country-hiv-aids-malaria-syphilis-tuberculosis-intervention-cost-effectiveness-estimates",
+    "title": "Global Fund Country HIV/AIDS, Malaria, Syphilis, and Tuberculosis Intervention Cost Effectiveness Estimates",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-fund-country-hiv-aids-malaria-syphilis-tuberculosis-intervention-cost-effectiveness-estimates",
+    "files": 3,
+    "size_mb": 0.6058769226074219
+  },
+  {
+    "slug": "ihme-data/global-gdp-per-capita-1960-2050",
+    "title": "Gross Domestic Product Per Capita 1960-2050",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-gdp-per-capita-1960-2050",
+    "files": 4,
+    "size_mb": 3.693882942199707
+  },
+  {
+    "slug": "ihme-data/global-gdp-per-capita-1960-2050-fgh-2021",
+    "title": "Gross Domestic Product Per Capita 1960-2050 - FGH 2021",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-gdp-per-capita-1960-2050-fgh-2021",
+    "files": 3,
+    "size_mb": 0.886199951171875
+  },
+  {
+    "slug": "ihme-data/global-gdp-per-capita-1960-2050-fgh-2023",
+    "title": "Gross Domestic Product Per Capita 1960-2050 - FGH 2023",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-gdp-per-capita-1960-2050-fgh-2023",
+    "files": 4,
+    "size_mb": 2.432445526123047
+  },
+  {
+    "slug": "ihme-data/global-gdp-per-capita-1960-2050-fgh-2025",
+    "title": "Gross Domestic Product Per Capita 1960-2050 - FGH 2025",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-gdp-per-capita-1960-2050-fgh-2025",
+    "files": 3,
+    "size_mb": 2.6853628158569336
+  },
+  {
+    "slug": "ihme-data/global-geo-referenced-dengue-occurrence-database-1960-2015",
+    "title": "Global Geo-Referenced Dengue Occurrence Database 1960-2015",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-geo-referenced-dengue-occurrence-database-1960-2015",
+    "files": 2,
+    "size_mb": 0.8014545440673828
+  },
+  {
+    "slug": "ihme-data/global-health-care-spending-dementia-2000-2050",
+    "title": "Global Health Care Spending for Dementia Estimates and Projections 2000-2050",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-health-care-spending-dementia-2000-2050",
+    "files": 4,
+    "size_mb": 2.1716318130493164
+  },
+  {
+    "slug": "ihme-data/global-health-expenditures-services-and-providers-2000-2017",
+    "title": "Global Health Expenditures by Services and Providers 2000-2017",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-health-expenditures-services-and-providers-2000-2017",
+    "files": 5,
+    "size_mb": 71.98715591430664
+  },
+  {
+    "slug": "ihme-data/global-health-spending-1995-2014",
+    "title": "Global Health Spending 1995-2014",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-health-spending-1995-2014",
+    "files": 1,
+    "size_mb": 0.35152149200439453
+  },
+  {
+    "slug": "ihme-data/global-health-spending-1995-2015",
+    "title": "Global Health Spending 1995-2015",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-health-spending-1995-2015",
+    "files": 2,
+    "size_mb": 1.0739660263061523
+  },
+  {
+    "slug": "ihme-data/global-health-spending-1995-2016",
+    "title": "Global Health Spending 1995-2016",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-health-spending-1995-2016",
+    "files": 4,
+    "size_mb": 2.3167266845703125
+  },
+  {
+    "slug": "ihme-data/global-health-spending-1995-2017",
+    "title": "Global Health Spending 1995-2017",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-health-spending-1995-2017",
+    "files": 4,
+    "size_mb": 2.3417110443115234
+  },
+  {
+    "slug": "ihme-data/global-health-spending-1995-2018",
+    "title": "Global Health Spending 1995-2018",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-health-spending-1995-2018",
+    "files": 4,
+    "size_mb": 2.5916404724121094
+  },
+  {
+    "slug": "ihme-data/global-health-spending-1995-2019",
+    "title": "Global Health Spending 1995-2019",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-health-spending-1995-2019",
+    "files": 3,
+    "size_mb": 1.1081247329711914
+  },
+  {
+    "slug": "ihme-data/global-health-spending-1995-2021",
+    "title": "Global Health Spending 1995-2021",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-health-spending-1995-2021",
+    "files": 4,
+    "size_mb": 2.253140449523926
+  },
+  {
+    "slug": "ihme-data/global-health-spending-1995-2022",
+    "title": "Global Health Spending 1995-2022",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-health-spending-1995-2022",
+    "files": 3,
+    "size_mb": 2.8297204971313477
+  },
+  {
+    "slug": "ihme-data/global-health-spending-inefficiency-1995-2022",
+    "title": "Global Health Care Spending Inefficiency 1995-2022",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_global-health-spending-inefficiency-1995-2022",
+    "files": 3,
+    "size_mb": 1.4038658142089844
+  },
+  {
+    "slug": "ihme-data/global-hiv-mortality-children-adolescents-2000-2020",
+    "title": "Global HIV-Related Mortality in Children and Young Adolescents 2000-2020",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_global-hiv-mortality-children-adolescents-2000-2020",
+    "files": 4,
+    "size_mb": 2.0415849685668945
+  },
+  {
+    "slug": "ihme-data/global-hivaids-spending-2000-2015",
+    "title": "Global HIV/AIDS Spending 2000-2015",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-hivaids-spending-2000-2015",
+    "files": 2,
+    "size_mb": 1.0272903442382812
+  },
+  {
+    "slug": "ihme-data/global-hivaids-spending-2000-2016",
+    "title": "Global HIV/AIDS Spending 2000-2016",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-hivaids-spending-2000-2016",
+    "files": 2,
+    "size_mb": 0.997279167175293
+  },
+  {
+    "slug": "ihme-data/global-human-capital-estimates-1990-2016",
+    "title": "Global Human Capital Estimates 1990-2016",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_global-human-capital-estimates-1990-2016",
+    "files": 6,
+    "size_mb": 6.973512649536133
+  },
+  {
+    "slug": "ihme-data/global-inefficiency-maternal-health-breast-gyn-cancers-1990-2023",
+    "title": "Global Health Care Inefficiencies in Maternal Health, Breast, and Gynecological Cancers 1990-2023",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_global-inefficiency-maternal-health-breast-gyn-cancers-1990-2023",
+    "files": 3,
+    "size_mb": 1.3881206512451172
+  },
+  {
+    "slug": "ihme-data/global-life-expectancy-all-cause-mortality-and-cause-specific-mortality-forecasts-2016-2040",
+    "title": "Global Life Expectancy, All-Cause Mortality, and Cause-Specific Mortality Forecasts 2016-2040",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_global-life-expectancy-all-cause-mortality-and-cause-specific-mortality-forecasts-2016-2040",
+    "files": 3,
+    "size_mb": 11.28549861907959
+  },
+  {
+    "slug": "ihme-data/global-life-expectancy-all-cause-mortality-and-cause-specific-mortality-forecasts-2022-2050",
+    "title": "Global Burden of Disease Study 2021 (GBD 2021) Mortality and Life Expectancy Forecasts 2022-2050",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_global-life-expectancy-all-cause-mortality-and-cause-specific-mortality-forecasts-2022-2050",
+    "files": 3,
+    "size_mb": 0.540440559387207
+  },
+  {
+    "slug": "ihme-data/global-lymphatic-filariasis-prevalence-geospatial-estimates-2000-2018",
+    "title": "Global Lymphatic Filariasis Prevalence Geospatial Estimates 2000-2018",
+    "domain": "geospatial",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\geospatial\\ihme-data_global-lymphatic-filariasis-prevalence-geospatial-estimates-2000-2018",
+    "files": 12,
+    "size_mb": 448.4714574813843
+  },
+  {
+    "slug": "ihme-data/global-malaria-incidence-prevalence-mortality-geospatial-estimates-2000-2019",
+    "title": "Global Malaria Incidence, Prevalence, and Mortality Geospatial Estimates 2000-2019",
+    "domain": "geospatial",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\geospatial\\ihme-data_global-malaria-incidence-prevalence-mortality-geospatial-estimates-2000-2019",
+    "files": 4,
+    "size_mb": 5.190762519836426
+  },
+  {
+    "slug": "ihme-data/global-malaria-spending-2000-2016",
+    "title": "Global Malaria Spending 2000-2016",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-malaria-spending-2000-2016",
+    "files": 2,
+    "size_mb": 1.0638389587402344
+  },
+  {
+    "slug": "ihme-data/global-malaria-spending-2000-2017",
+    "title": "Global Malaria Spending 2000-2017",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-malaria-spending-2000-2017",
+    "files": 3,
+    "size_mb": 0.9247264862060547
+  },
+  {
+    "slug": "ihme-data/global-malaria-spending-2000-2020",
+    "title": "Global Malaria Spending by Program Area 2000-2020",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-malaria-spending-2000-2020",
+    "files": 4,
+    "size_mb": 0.7384681701660156
+  },
+  {
+    "slug": "ihme-data/global-mortality-33-bacterial-pathogens-estimates-2019",
+    "title": "Global Mortality from 33 Bacterial Pathogens Estimates 2019",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-mortality-33-bacterial-pathogens-estimates-2019",
+    "files": 4,
+    "size_mb": 25.664432525634766
+  },
+  {
+    "slug": "ihme-data/global-population-forecasts-2017-2100",
+    "title": "Global Fertility, Mortality, Migration, and Population Forecasts 2017-2100",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_global-population-forecasts-2017-2100",
+    "files": 21,
+    "size_mb": 210.33792972564697
+  },
+  {
+    "slug": "ihme-data/global-rhdei-estimates-forecasts-1990-2041",
+    "title": "Global Rheumatic Heart Disease Endemicity Index (RHDEI) Estimates and Forecasts 1990-2041",
+    "domain": "forecasts",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\forecasts\\ihme-data_global-rhdei-estimates-forecasts-1990-2041",
+    "files": 2,
+    "size_mb": 1.013620376586914
+  },
+  {
+    "slug": "ihme-data/global-smoking-prevalence-and-cigarette-consumption-1980-2012",
+    "title": "Global Smoking Prevalence and Cigarette Consumption 1980-2012",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_global-smoking-prevalence-and-cigarette-consumption-1980-2012",
+    "files": 1,
+    "size_mb": 1.4228401184082031
+  },
+  {
+    "slug": "ihme-data/global-snakebite-envenoming-vulnerability-estimates",
+    "title": "Global Snakebite Envenoming Vulnerability Estimates",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-snakebite-envenoming-vulnerability-estimates",
+    "files": 1,
+    "size_mb": 0.775700569152832
+  },
+  {
+    "slug": "ihme-data/global-sustainable-development-goals-sdg-intimate-partner-violence-indicator-1990-2019",
+    "title": "Global Sustainable Development Goals (SDG) Intimate Partner Violence Indicator 1990-2019",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-sustainable-development-goals-sdg-intimate-partner-violence-indicator-1990-2019",
+    "files": 4,
+    "size_mb": 0.6809597015380859
+  },
+  {
+    "slug": "ihme-data/global-sustainable-development-goals-sdg-intimate-partner-violence-indicator-1990-2021",
+    "title": "Global Sustainable Development Goals (SDG) Intimate Partner Violence Indicator 1990-2021",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-sustainable-development-goals-sdg-intimate-partner-violence-indicator-1990-2021",
+    "files": 4,
+    "size_mb": 0.35291290283203125
+  },
+  {
+    "slug": "ihme-data/global-svac-prevalence-1990-2023",
+    "title": "Global Sexual Violence Against Children Prevalence Estimates 1990-2023",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_global-svac-prevalence-1990-2023",
+    "files": 3,
+    "size_mb": 1.6579608917236328
+  },
+  {
+    "slug": "ihme-data/global-tobacco-control-and-smoking-prevalence-scenarios-2017",
+    "title": "Global Tobacco Control and Smoking Prevalence Scenarios 2017",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_global-tobacco-control-and-smoking-prevalence-scenarios-2017",
+    "files": 5,
+    "size_mb": 1.4961357116699219
+  },
+  {
+    "slug": "ihme-data/global-tuberculosis-molecular-epidemiology-systematic-review-dataset",
+    "title": "Global Tuberculosis Molecular Epidemiology Systematic Review Dataset",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-tuberculosis-molecular-epidemiology-systematic-review-dataset",
+    "files": 5,
+    "size_mb": 3.831188201904297
+  },
+  {
+    "slug": "ihme-data/global-tuberculosis-spending-2000-2017",
+    "title": "Global Tuberculosis Spending 2000-2017",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_global-tuberculosis-spending-2000-2017",
+    "files": 3,
+    "size_mb": 1.5187034606933594
+  },
+  {
+    "slug": "ihme-data/global-under-5-diarrhea-incidence-prevalence-mortality-geospatial-estimates-2000-2019",
+    "title": "Global Under-5 Diarrhea Incidence, Prevalence, and Mortality Geospatial Estimates 2000-2019",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_global-under-5-diarrhea-incidence-prevalence-mortality-geospatial-estimates-2000-2019",
+    "files": 3,
+    "size_mb": 0.9574356079101562
+  },
+  {
+    "slug": "ihme-data/global-under-5-overweight-prevalence-geospatial-estimates-2000-2019",
+    "title": "Global Under-5 Overweight Prevalence Geospatial Estimates 2000-2019",
+    "domain": "geospatial",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\geospatial\\ihme-data_global-under-5-overweight-prevalence-geospatial-estimates-2000-2019",
+    "files": 3,
+    "size_mb": 1.0422792434692383
+  },
+  {
+    "slug": "ihme-data/global-young-people-smoking-prevalence-and-initiation-age-1990-2019",
+    "title": "Global Young People Smoking Prevalence and Initiation Age 1990-2019",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_global-young-people-smoking-prevalence-and-initiation-age-1990-2019",
+    "files": 4,
+    "size_mb": 0.6769294738769531
+  },
+  {
+    "slug": "ihme-data/gross-domestic-product-gdp-estimates-country-1950-2015",
+    "title": "Gross Domestic Product (GDP) Estimates by Country 1950-2015",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_gross-domestic-product-gdp-estimates-country-1950-2015",
+    "files": 2,
+    "size_mb": 2.270282745361328
+  },
+  {
+    "slug": "ihme-data/guatemala-salud-mesoam%C3%A9rica-initiative-baseline-census-and-household-survey-2013",
+    "title": "Guatemala Salud Mesoamérica Initiative Baseline Census and Household Survey 2013",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_guatemala-salud-mesoam%C3%A9rica-initiative-baseline-census-and-household-survey-2013",
+    "files": 6,
+    "size_mb": 12.764433860778809
+  },
+  {
+    "slug": "ihme-data/guatemala-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2013",
+    "title": "Guatemala Salud Mesoamérica Initiative Baseline Health Facility Survey 2013",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_guatemala-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2013",
+    "files": 5,
+    "size_mb": 2.2576675415039062
+  },
+  {
+    "slug": "ihme-data/guatemala-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+    "title": "Guatemala Salud Mesoamérica Initiative First Follow-up Health Facility Survey 2014",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_guatemala-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+    "files": 5,
+    "size_mb": 3.1203651428222656
+  },
+  {
+    "slug": "ihme-data/guatemala-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2018",
+    "title": "Guatemala Salud Mesoamérica Initiative Second Follow-Up Health Facility Survey 2018",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_guatemala-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2018",
+    "files": 4,
+    "size_mb": 21.993264198303223
+  },
+  {
+    "slug": "ihme-data/guatemala-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2018",
+    "title": "Guatemala Salud Mesoamérica Initiative Second Follow-Up Household Survey 2018",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_guatemala-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2018",
+    "files": 4,
+    "size_mb": 19.51085090637207
+  },
+  {
+    "slug": "ihme-data/haq-index-by-age-1990-2016",
+    "title": "Healthcare Access and Quality Index by Age 1990-2016",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_haq-index-by-age-1990-2016",
+    "files": 6,
+    "size_mb": 0.3432779312133789
+  },
+  {
+    "slug": "ihme-data/health-effects-vac-bop-ros",
+    "title": "Health Effects of Violence Against Children Burden of Proof and Risk-Outcome Scores",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_health-effects-vac-bop-ros",
+    "files": 4,
+    "size_mb": 0.22371768951416016
+  },
+  {
+    "slug": "ihme-data/high-cholesterol-survey-review-8-countries",
+    "title": "High Cholesterol Survey Review for 8 Countries",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_high-cholesterol-survey-review-8-countries",
+    "files": 1,
+    "size_mb": 0.02734375
+  },
+  {
+    "slug": "ihme-data/hmic-rsv-hospitalizations-2014-2023",
+    "title": "High- and Middle-Income Country Respiratory Syncytial Virus (RSV) Hospitalization Estimates 2014-2023",
+    "domain": "vaccination",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\vaccination\\ihme-data_hmic-rsv-hospitalizations-2014-2023",
+    "files": 2,
+    "size_mb": 0.7694969177246094
+  },
+  {
+    "slug": "ihme-data/honduras-salud-mesoam%C3%A9rica-initiative-baseline-census-and-household-survey-2013",
+    "title": "Honduras Salud Mesoamérica Initiative Baseline Census and Household Survey 2013",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_honduras-salud-mesoam%C3%A9rica-initiative-baseline-census-and-household-survey-2013",
+    "files": 7,
+    "size_mb": 9.116852760314941
+  },
+  {
+    "slug": "ihme-data/honduras-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2013",
+    "title": "Honduras Salud Mesoamérica Initiative Baseline Health Facility Survey 2013",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_honduras-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2013",
+    "files": 6,
+    "size_mb": 2.3591318130493164
+  },
+  {
+    "slug": "ihme-data/honduras-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+    "title": "Honduras Salud Mesoamérica Initiative First Follow-Up Health Facility Survey 2014",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_honduras-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+    "files": 6,
+    "size_mb": 2.942267417907715
+  },
+  {
+    "slug": "ihme-data/honduras-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2017",
+    "title": "Honduras Salud Mesoamérica Initiative Second Follow-Up Health Facility Survey 2017",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_honduras-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2017",
+    "files": 4,
+    "size_mb": 15.213444709777832
+  },
+  {
+    "slug": "ihme-data/honduras-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2017",
+    "title": "Honduras Salud Mesoamérica Initiative Second Follow-Up Household Survey 2017",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_honduras-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2017",
+    "files": 4,
+    "size_mb": 20.489648818969727
+  },
+  {
+    "slug": "ihme-data/honduras-salud-mesoam%C3%A9rica-initiative-third-follow-health-facility-survey-2022",
+    "title": "Honduras Salud Mesoamérica Initiative Third Follow-Up Health Facility Survey 2022",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_honduras-salud-mesoam%C3%A9rica-initiative-third-follow-health-facility-survey-2022",
+    "files": 4,
+    "size_mb": 9.688260078430176
+  },
+  {
+    "slug": "ihme-data/honduras-salud-mesoam%C3%A9rica-initiative-third-follow-household-survey-2022",
+    "title": "Honduras Salud Mesoamérica Initiative Third Follow-Up Household Survey 2022",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_honduras-salud-mesoam%C3%A9rica-initiative-third-follow-household-survey-2022",
+    "files": 4,
+    "size_mb": 9.294276237487793
+  },
+  {
+    "slug": "ihme-data/hpv-cost-effectiveness",
+    "title": "HPV Vaccination Cost Effectiveness Estimates",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_hpv-cost-effectiveness",
+    "files": 3,
+    "size_mb": 0.2701864242553711
+  },
+  {
+    "slug": "ihme-data/ihme-formatted-usaid-volag-database-1990-2007",
+    "title": "IHME Formatted USAID VolAg Database 1990-2007",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_ihme-formatted-usaid-volag-database-1990-2007",
+    "files": 3,
+    "size_mb": 1.1530723571777344
+  },
+  {
+    "slug": "ihme-data/ihme-formatted-usaid-volag-database-1990-2008",
+    "title": "IHME Formatted USAID VolAg Database 1990-2008",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_ihme-formatted-usaid-volag-database-1990-2008",
+    "files": 3,
+    "size_mb": 1.218247413635254
+  },
+  {
+    "slug": "ihme-data/IMMCMC-gold-standard-verbal-autopsy-data-2011-2014",
+    "title": "Improving Methods to Measure Comparable Mortality by Cause - Gold Standard Verbal Autopsy Data 2011-2014",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_IMMCMC-gold-standard-verbal-autopsy-data-2011-2014",
+    "files": 3,
+    "size_mb": 1.8865489959716797
+  },
+  {
+    "slug": "ihme-data/immcmc-project-phmrc-shortened-questionnaire-open-and-closed-response-sections-2013",
+    "title": "Improving Methods to Measure Comparable Mortality by Cause - PHMRC Shortened Questionnaire Open and Closed Response Sections 2013",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_immcmc-project-phmrc-shortened-questionnaire-open-and-closed-response-sections-2013",
+    "files": 2,
+    "size_mb": 0.12350940704345703
+  },
+  {
+    "slug": "ihme-data/immcmc-project-verbal-autopsy-timing-data-2010-2013",
+    "title": "Improving Methods to Measure Comparable Mortality by Cause - Verbal Autopsy Timing Data 2010-2013",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_immcmc-project-verbal-autopsy-timing-data-2010-2013",
+    "files": 3,
+    "size_mb": 0.13207149505615234
+  },
+  {
+    "slug": "ihme-data/india-andhra-pradesh-and-telangana-access-bottlenecks-costs-and-equity-project-2013",
+    "title": "India - Andhra Pradesh and Telangana Access, Bottlenecks, Costs, and Equity Project 2013",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_india-andhra-pradesh-and-telangana-access-bottlenecks-costs-and-equity-project-2013",
+    "files": 5,
+    "size_mb": 5.561819076538086
+  },
+  {
+    "slug": "ihme-data/india-gujarat-access-bottlenecks-costs-and-equity-project-2015-2016",
+    "title": "India - Gujarat Access, Bottlenecks, Costs, and Equity Project 2015-2016",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_india-gujarat-access-bottlenecks-costs-and-equity-project-2015-2016",
+    "files": 5,
+    "size_mb": 8.171232223510742
+  },
+  {
+    "slug": "ihme-data/india-healthrise-baseline-health-facility-survey-2014-2015",
+    "title": "India HealthRise Baseline Health Facility Survey 2014-2015",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_india-healthrise-baseline-health-facility-survey-2014-2015",
+    "files": 4,
+    "size_mb": 5.028351783752441
+  },
+  {
+    "slug": "ihme-data/india-healthrise-endline-health-facility-survey-2018",
+    "title": "India HealthRise Endline Health Facility Survey 2018",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_india-healthrise-endline-health-facility-survey-2018",
+    "files": 5,
+    "size_mb": 11.37794017791748
+  },
+  {
+    "slug": "ihme-data/india-heartrescue-global-evaluation-baseline-emergency-medical-service-survey-2015",
+    "title": "India HeartRescue Global Evaluation Baseline Emergency Medical Service Survey 2015",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_india-heartrescue-global-evaluation-baseline-emergency-medical-service-survey-2015",
+    "files": 4,
+    "size_mb": 3.636532783508301
+  },
+  {
+    "slug": "ihme-data/india-heartrescue-global-evaluation-baseline-household-survey-2015",
+    "title": "India HeartRescue Global Evaluation Baseline Household Survey 2015",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_india-heartrescue-global-evaluation-baseline-household-survey-2015",
+    "files": 4,
+    "size_mb": 6.007401466369629
+  },
+  {
+    "slug": "ihme-data/india-madhya-pradesh-access-bottlenecks-costs-and-equity-project-2014",
+    "title": "India - Madhya Pradesh Access, Bottlenecks, Costs, and Equity Project 2014",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_india-madhya-pradesh-access-bottlenecks-costs-and-equity-project-2014",
+    "files": 5,
+    "size_mb": 7.747067451477051
+  },
+  {
+    "slug": "ihme-data/india-odisha-access-bottlenecks-costs-and-equity-project-2014-2015",
+    "title": "India - Odisha Access, Bottlenecks, Costs, and Equity Project 2014-2015",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_india-odisha-access-bottlenecks-costs-and-equity-project-2014-2015",
+    "files": 5,
+    "size_mb": 7.290284156799316
+  },
+  {
+    "slug": "ihme-data/india-tamil-nadu-access-bottlenecks-costs-and-equity-project-2012-2013",
+    "title": "India - Tamil Nadu Access, Bottlenecks, Costs, and Equity Project 2012-2013",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_india-tamil-nadu-access-bottlenecks-costs-and-equity-project-2012-2013",
+    "files": 5,
+    "size_mb": 6.7364654541015625
+  },
+  {
+    "slug": "ihme-data/infant-and-child-mortality-estimates-country-1970-2010",
+    "title": "Infant and Child Mortality Estimates by Country 1970-2010",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_infant-and-child-mortality-estimates-country-1970-2010",
+    "files": 1,
+    "size_mb": 1.1650390625
+  },
+  {
+    "slug": "ihme-data/ipsos-general-population-covid-19-health-services-disruption-survey-2020",
+    "title": "Ipsos General Population COVID-19 Health Services Disruption Survey 2020",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_ipsos-general-population-covid-19-health-services-disruption-survey-2020",
+    "files": 3,
+    "size_mb": 0.8746366500854492
+  },
+  {
+    "slug": "ihme-data/japan-systolic-blood-pressure-1986-2002",
+    "title": "Japan Systolic Blood Pressure 1986-2002",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_japan-systolic-blood-pressure-1986-2002",
+    "files": 1,
+    "size_mb": 0.080078125
+  },
+  {
+    "slug": "ihme-data/kenya-access-bottlenecks-costs-and-equity-project-2012",
+    "title": "Kenya Access, Bottlenecks, Costs, and Equity Project 2012",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_kenya-access-bottlenecks-costs-and-equity-project-2012",
+    "files": 5,
+    "size_mb": 41.621697425842285
+  },
+  {
+    "slug": "ihme-data/latin-america-hiv-mortality-geospatial-estimates-2000-2017",
+    "title": "Latin American Country HIV Mortality Geospatial Estimates by Age and Sex 2000-2017",
+    "domain": "geospatial",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\geospatial\\ihme-data_latin-america-hiv-mortality-geospatial-estimates-2000-2017",
+    "files": 12,
+    "size_mb": 673.009388923645
+  },
+  {
+    "slug": "ihme-data/lmic-child-growth-failure-geospatial-estimates-2000-2017",
+    "title": "Low- and Middle-Income Country Child Growth Failure Geospatial Estimates 2000-2017",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_lmic-child-growth-failure-geospatial-estimates-2000-2017",
+    "files": 4,
+    "size_mb": 0.9108896255493164
+  },
+  {
+    "slug": "ihme-data/lmic-delivery-location-1995-2023",
+    "title": "Low- and Middle-Income Country Delivery Location by Facility Type Estimates 1995-2023",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_lmic-delivery-location-1995-2023",
+    "files": 4,
+    "size_mb": 1.9545822143554688
+  },
+  {
+    "slug": "ihme-data/lmic-double-burden-of-malnutrition-geospatial-estimates-2000-2017",
+    "title": "Low- and Middle-Income Country Childhood Overweight and Wasting Geospatial Estimates 2000-2017",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_lmic-double-burden-of-malnutrition-geospatial-estimates-2000-2017",
+    "files": 4,
+    "size_mb": 0.71319580078125
+  },
+  {
+    "slug": "ihme-data/lmic-education-geospatial-estimates-2000-2017",
+    "title": "Low- and Middle-Income Country Educational Attainment Geospatial Estimates 2000-2017",
+    "domain": "geospatial",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\geospatial\\ihme-data_lmic-education-geospatial-estimates-2000-2017",
+    "files": 3,
+    "size_mb": 1.0765647888183594
+  },
+  {
+    "slug": "ihme-data/lmic-mcv1-coverage-geospatial-estimates-2000-2019",
+    "title": "Low- and Middle-Income Country MCV1 Coverage Geospatial Estimates 2000-2019",
+    "domain": "vaccination",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\vaccination\\ihme-data_lmic-mcv1-coverage-geospatial-estimates-2000-2019",
+    "files": 5,
+    "size_mb": 11.998401641845703
+  },
+  {
+    "slug": "ihme-data/lmic-oral-rehydration-therapy-coverage-geospatial-estimates-2000-2017",
+    "title": "Low- and Middle-Income Country Oral Rehydration Therapy Coverage Geospatial Estimates 2000-2017",
+    "domain": "geospatial",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\geospatial\\ihme-data_lmic-oral-rehydration-therapy-coverage-geospatial-estimates-2000-2017",
+    "files": 25,
+    "size_mb": 1689.1892185211182
+  },
+  {
+    "slug": "ihme-data/lmic-under-5-diarrhea-incidence-prevalence-and-mortality-geospatial-estimates-2000-2017",
+    "title": "Low- and Middle-Income Country Under-5 Diarrhea Incidence, Prevalence, and Mortality Geospatial Estimates 2000-2017",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_lmic-under-5-diarrhea-incidence-prevalence-and-mortality-geospatial-estimates-2000-2017",
+    "files": 3,
+    "size_mb": 1.6350069046020508
+  },
+  {
+    "slug": "ihme-data/lmic-under5-mortality-rate-geospatial-estimates-2000-2017",
+    "title": "Low- and Middle-Income Country Neonatal, Infant, and Under-5 Mortality Geospatial Estimates 2000-2017",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_lmic-under5-mortality-rate-geospatial-estimates-2000-2017",
+    "files": 24,
+    "size_mb": 2524.2834482192993
+  },
+  {
+    "slug": "ihme-data/lmic-wash-access-geospatial-estimates-2000-2017",
+    "title": "Low- and Middle-Income Country Drinking Water and Sanitation Facilities Access Geospatial Estimates 2000-2017",
+    "domain": "geospatial",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\geospatial\\ihme-data_lmic-wash-access-geospatial-estimates-2000-2017",
+    "files": 4,
+    "size_mb": 1.221867561340332
+  },
+  {
+    "slug": "ihme-data/low-and-middle-income-country-immunization-spending-estimates-2000-2017",
+    "title": "Low- and Middle-Income Country Immunization Spending Estimates 2000-2017",
+    "domain": "vaccination",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\vaccination\\ihme-data_low-and-middle-income-country-immunization-spending-estimates-2000-2017",
+    "files": 3,
+    "size_mb": 1.2083330154418945
+  },
+  {
+    "slug": "ihme-data/low-and-middle-income-country-primary-health-care-expenditures-2000-2017",
+    "title": "Low- and Middle-Income Country Primary Health Care Expenditures 2000-2017",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_low-and-middle-income-country-primary-health-care-expenditures-2000-2017",
+    "files": 3,
+    "size_mb": 1.638519287109375
+  },
+  {
+    "slug": "ihme-data/malaria-mortality-estimates-country-1980-2010",
+    "title": "Malaria Mortality Estimates by Country 1980-2010",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_malaria-mortality-estimates-country-1980-2010",
+    "files": 2,
+    "size_mb": 0.9723777770996094
+  },
+  {
+    "slug": "ihme-data/malnutrition-orofacial-clefts-estimates-2000-2020",
+    "title": "Burden of Malnutrition in Children with Orofacial Clefts Estimates 2000–2020",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_malnutrition-orofacial-clefts-estimates-2000-2020",
+    "files": 9,
+    "size_mb": 242.3015651702881
+  },
+  {
+    "slug": "ihme-data/maternal-mortality-estimates-and-mdg-5-attainment-country-1990-2011",
+    "title": "Maternal Mortality Estimates and MDG 5 Attainment by Country 1990-2011",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_maternal-mortality-estimates-and-mdg-5-attainment-country-1990-2011",
+    "files": 2,
+    "size_mb": 0.41738033294677734
+  },
+  {
+    "slug": "ihme-data/maternal-mortality-estimates-country-1980-2008",
+    "title": "Maternal Mortality Estimates by Country 1980-2008",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_maternal-mortality-estimates-country-1980-2008",
+    "files": 1,
+    "size_mb": 1.21337890625
+  },
+  {
+    "slug": "ihme-data/measles-serosurvey-bias-systematic-review",
+    "title": "Measles Seroprevalence Systematic Review and Bias Assessment 1962-2019",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_measles-serosurvey-bias-systematic-review",
+    "files": 2,
+    "size_mb": 0.5899295806884766
+  },
+  {
+    "slug": "ihme-data/mexico-salud-mesoam%C3%A9rica-initiative-baseline-census-and-household-survey-2013",
+    "title": "Mexico Salud Mesoamérica Initiative Baseline Census and Household Survey 2013",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_mexico-salud-mesoam%C3%A9rica-initiative-baseline-census-and-household-survey-2013",
+    "files": 8,
+    "size_mb": 15.667098999023438
+  },
+  {
+    "slug": "ihme-data/mexico-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2013",
+    "title": "Mexico Salud Mesoamérica Initiative Baseline Health Facility Survey 2013",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_mexico-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2013",
+    "files": 5,
+    "size_mb": 2.9121036529541016
+  },
+  {
+    "slug": "ihme-data/mexico-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+    "title": "Mexico Salud Mesoamérica Initiative First Follow-Up Health Facility Survey 2014",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_mexico-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+    "files": 5,
+    "size_mb": 3.4766101837158203
+  },
+  {
+    "slug": "ihme-data/mexico-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2018",
+    "title": "Mexico Salud Mesoamérica Initiative Second Follow-Up Health Facility Survey 2018",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_mexico-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2018",
+    "files": 4,
+    "size_mb": 39.334877014160156
+  },
+  {
+    "slug": "ihme-data/mexico-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2018",
+    "title": "Mexico Salud Mesoamérica Initiative Second Follow-Up Household Survey 2018",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_mexico-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2018",
+    "files": 4,
+    "size_mb": 34.69913673400879
+  },
+  {
+    "slug": "ihme-data/mexico-yucat%C3%A1n-under-5-baseline-household-survey-2020",
+    "title": "Mexico - Yucatán Under-5 Baseline Household Survey 2020",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_mexico-yucat%C3%A1n-under-5-baseline-household-survey-2020",
+    "files": 4,
+    "size_mb": 1.4231443405151367
+  },
+  {
+    "slug": "ihme-data/mexico-yucat%C3%A1n-under-5-endline-household-survey-2020",
+    "title": "Mexico - Yucatán Under-5 Endline Household Survey 2020",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_mexico-yucat%C3%A1n-under-5-endline-household-survey-2020",
+    "files": 5,
+    "size_mb": 1.4031171798706055
+  },
+  {
+    "slug": "ihme-data/mexico-yucatan-under-5-verbal-autopsy-medical-record-review-survey-2017",
+    "title": "Mexico - Yucatán Under 5 Verbal Autopsy and Medical Record Review Survey 2017",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_mexico-yucatan-under-5-verbal-autopsy-medical-record-review-survey-2017",
+    "files": 4,
+    "size_mb": 2.527073860168457
+  },
+  {
+    "slug": "ihme-data/mortality-burden-attributable-non-optimal-temperature-1990-2019",
+    "title": "Mortality Burden Attributable to Non-Optimal Temperature 1990-2019",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_mortality-burden-attributable-non-optimal-temperature-1990-2019",
+    "files": 3,
+    "size_mb": 0.9182281494140625
+  },
+  {
+    "slug": "ihme-data/mortality-iraq-associated-2003-2011-invasion-and-occupation",
+    "title": "Mortality in Iraq Associated with the 2003-2011 Invasion and Occupation",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_mortality-iraq-associated-2003-2011-invasion-and-occupation",
+    "files": 6,
+    "size_mb": 1.5062751770019531
+  },
+  {
+    "slug": "ihme-data/nicaragua-salud-mesoam%C3%A9rica-initiative-baseline-census-and-household-survey-2013",
+    "title": "Nicaragua Salud Mesoamérica Initiative Baseline Census and Household Survey 2013",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_nicaragua-salud-mesoam%C3%A9rica-initiative-baseline-census-and-household-survey-2013",
+    "files": 7,
+    "size_mb": 8.354549407958984
+  },
+  {
+    "slug": "ihme-data/nicaragua-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2013",
+    "title": "Nicaragua Salud Mesoamérica Initiative Baseline Health Facility Survey 2013",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_nicaragua-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2013",
+    "files": 5,
+    "size_mb": 2.8076114654541016
+  },
+  {
+    "slug": "ihme-data/nicaragua-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+    "title": "Nicaragua Salud Mesoamérica Initiative First Follow-Up Health Facility Survey 2014",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_nicaragua-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+    "files": 5,
+    "size_mb": 2.916788101196289
+  },
+  {
+    "slug": "ihme-data/nicaragua-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2017",
+    "title": "Nicaragua Salud Mesoamérica Initiative Second Follow-Up Health Facility Survey 2017",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_nicaragua-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2017",
+    "files": 4,
+    "size_mb": 11.799254417419434
+  },
+  {
+    "slug": "ihme-data/nicaragua-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2017",
+    "title": "Nicaragua Salud Mesoamérica Initiative Second Follow-Up Household Survey 2017",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_nicaragua-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2017",
+    "files": 4,
+    "size_mb": 19.64342498779297
+  },
+  {
+    "slug": "ihme-data/nicaragua-salud-mesoam%C3%A9rica-initiative-third-follow-health-facility-survey-2022",
+    "title": "Nicaragua Salud Mesoamérica Initiative Third Follow-Up Health Facility Survey 2022",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_nicaragua-salud-mesoam%C3%A9rica-initiative-third-follow-health-facility-survey-2022",
+    "files": 4,
+    "size_mb": 8.993237495422363
+  },
+  {
+    "slug": "ihme-data/nicaragua-salud-mesoam%C3%A9rica-initiative-third-follow-household-survey-2022",
+    "title": "Nicaragua Salud Mesoamérica Initiative Third Follow-Up Household Survey 2022",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_nicaragua-salud-mesoam%C3%A9rica-initiative-third-follow-household-survey-2022",
+    "files": 4,
+    "size_mb": 11.116129875183105
+  },
+  {
+    "slug": "ihme-data/nigeria-dtp-vaccine-coverage-estimates-2000-2018",
+    "title": "Nigeria DTP Vaccine Coverage Estimates 2000-2018",
+    "domain": "vaccination",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\vaccination\\ihme-data_nigeria-dtp-vaccine-coverage-estimates-2000-2018",
+    "files": 7,
+    "size_mb": 1.2007207870483398
+  },
+  {
+    "slug": "ihme-data/nigeria-maternal-and-child-health-results-2000-2013",
+    "title": "Nigeria Maternal and Child Health Results 2000-2013",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_nigeria-maternal-and-child-health-results-2000-2013",
+    "files": 4,
+    "size_mb": 0.3338451385498047
+  },
+  {
+    "slug": "ihme-data/onchocerciasis-prevalence-geopositioned-database",
+    "title": "Onchocerciasis Prevalence Geopositioned Database",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_onchocerciasis-prevalence-geopositioned-database",
+    "files": 4,
+    "size_mb": 4.143979072570801
+  },
+  {
+    "slug": "ihme-data/orb-general-population-covid-19-health-services-disruption-survey-2020",
+    "title": "ORB General Population COVID-19 Health Services Disruption Survey 2020",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_orb-general-population-covid-19-health-services-disruption-survey-2020",
+    "files": 4,
+    "size_mb": 1.5489072799682617
+  },
+  {
+    "slug": "ihme-data/panama-salud-mesoam%C3%A9rica-initiative-baseline-census-and-household-survey-2013",
+    "title": "Panama Salud Mesoamérica Initiative Baseline Census and Household Survey 2013",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_panama-salud-mesoam%C3%A9rica-initiative-baseline-census-and-household-survey-2013",
+    "files": 7,
+    "size_mb": 8.892725944519043
+  },
+  {
+    "slug": "ihme-data/panama-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2013",
+    "title": "Panama Salud Mesoamérica Initiative Baseline Health Facility Survey 2013",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_panama-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2013",
+    "files": 4,
+    "size_mb": 2.0558128356933594
+  },
+  {
+    "slug": "ihme-data/panama-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+    "title": "Panama Salud Mesoamérica Initiative First Follow-Up Health Facility Survey 2014",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_panama-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+    "files": 4,
+    "size_mb": 2.0558128356933594
+  },
+  {
+    "slug": "ihme-data/panama-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2018",
+    "title": "Panama Salud Mesoamérica Initiative Second Follow-Up Health Facility Survey 2018",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_panama-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2018",
+    "files": 4,
+    "size_mb": 5.93803596496582
+  },
+  {
+    "slug": "ihme-data/panama-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2018",
+    "title": "Panama Salud Mesoamérica Initiative Second Follow-Up Household Survey 2018",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_panama-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2018",
+    "files": 4,
+    "size_mb": 26.399209022521973
+  },
+  {
+    "slug": "ihme-data/pandemic-recovery-survey-indicators-2023",
+    "title": "Pandemic Recovery Survey Indicators 2023",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_pandemic-recovery-survey-indicators-2023",
+    "files": 3,
+    "size_mb": 0.25447559356689453
+  },
+  {
+    "slug": "ihme-data/past-sars-cov-2-infection-protection-against-reinfection-systematic-review-meta-analysis-estimates",
+    "title": "Past SARS-CoV-2 Infection Protection Against Reinfection Systematic Review and Meta-Analysis Estimates",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_past-sars-cov-2-infection-protection-against-reinfection-systematic-review-meta-analysis-estimates",
+    "files": 9,
+    "size_mb": 2.0909690856933594
+  },
+  {
+    "slug": "ihme-data/population-health-metrics-research-consortium-gold-standard-verbal-autopsy-data-2005-2011",
+    "title": "Population Health Metrics Research Consortium Gold Standard Verbal Autopsy Data 2005-2011",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_population-health-metrics-research-consortium-gold-standard-verbal-autopsy-data-2005-2011",
+    "files": 11,
+    "size_mb": 45.13869380950928
+  },
+  {
+    "slug": "ihme-data/premise-child-health-covid-19-health-services-disruption-survey-2020",
+    "title": "Premise Child Health COVID-19 Health Services Disruption Survey 2020",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_premise-child-health-covid-19-health-services-disruption-survey-2020",
+    "files": 4,
+    "size_mb": 1.1571321487426758
+  },
+  {
+    "slug": "ihme-data/premise-child-health-covid-19-health-services-disruption-survey-2021",
+    "title": "Premise Child Health COVID-19 Health Services Disruption Survey 2021",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_premise-child-health-covid-19-health-services-disruption-survey-2021",
+    "files": 4,
+    "size_mb": 1.2180747985839844
+  },
+  {
+    "slug": "ihme-data/premise-education-covid-19-health-services-disruption-survey-2021",
+    "title": "Premise Education COVID-19 Health Services Disruption Survey 2021",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_premise-education-covid-19-health-services-disruption-survey-2021",
+    "files": 4,
+    "size_mb": 2.330242156982422
+  },
+  {
+    "slug": "ihme-data/premise-general-population-covid-19-health-services-disruption-survey-2020",
+    "title": "Premise General Population COVID-19 Health Services Disruption Survey 2020",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_premise-general-population-covid-19-health-services-disruption-survey-2020",
+    "files": 4,
+    "size_mb": 3.8097829818725586
+  },
+  {
+    "slug": "ihme-data/premise-general-population-covid-19-health-services-disruption-survey-2021",
+    "title": "Premise General Population COVID-19 Health Services Disruption Survey 2021",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_premise-general-population-covid-19-health-services-disruption-survey-2021",
+    "files": 4,
+    "size_mb": 2.307821273803711
+  },
+  {
+    "slug": "ihme-data/premise-infant-and-maternal-health-covid-19-health-services-disruption-survey-2020",
+    "title": "Premise Infant and Maternal Health COVID-19 Health Services Disruption Survey 2020",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_premise-infant-and-maternal-health-covid-19-health-services-disruption-survey-2020",
+    "files": 4,
+    "size_mb": 0.8581142425537109
+  },
+  {
+    "slug": "ihme-data/premise-infant-health-covid-19-health-services-disruption-survey-2021",
+    "title": "Premise Infant and Maternal Health COVID-19 Health Services Disruption Survey 2021",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_premise-infant-health-covid-19-health-services-disruption-survey-2021",
+    "files": 4,
+    "size_mb": 0.8762578964233398
+  },
+  {
+    "slug": "ihme-data/premise-malaria-covid-19-health-services-disruption-survey-2020",
+    "title": "Premise Malaria COVID-19 Health Services Disruption Survey 2020",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_premise-malaria-covid-19-health-services-disruption-survey-2020",
+    "files": 4,
+    "size_mb": 1.3864898681640625
+  },
+  {
+    "slug": "ihme-data/premise-malaria-covid-19-health-services-disruption-survey-2021",
+    "title": "Premise Malaria COVID-19 Health Services Disruption Survey 2021",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_premise-malaria-covid-19-health-services-disruption-survey-2021",
+    "files": 4,
+    "size_mb": 0.9901199340820312
+  },
+  {
+    "slug": "ihme-data/premise-women%E2%80%99s-health-covid-19-health-services-disruption-survey-2020",
+    "title": "Premise Women’s Health COVID-19 Health Services Disruption Survey 2020",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_premise-women%E2%80%99s-health-covid-19-health-services-disruption-survey-2020",
+    "files": 4,
+    "size_mb": 1.3588647842407227
+  },
+  {
+    "slug": "ihme-data/premise-womens-health-covid-19-health-services-disruption-survey-2021",
+    "title": "Premise Women's Health COVID-19 Health Services Disruption Survey 2021",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_premise-womens-health-covid-19-health-services-disruption-survey-2021",
+    "files": 4,
+    "size_mb": 1.0530309677124023
+  },
+  {
+    "slug": "ihme-data/processed-foods-bop-2025",
+    "title": "Health Effects of Processed Foods Burden of Proof and Risk-Outcome Scores",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_processed-foods-bop-2025",
+    "files": 2,
+    "size_mb": 0.22258377075195312
+  },
+  {
+    "slug": "ihme-data/public-financing-health-developing-country-estimates-1995-2006",
+    "title": "Public Financing of Health (Developing Country) Estimates 1995-2006",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_public-financing-health-developing-country-estimates-1995-2006",
+    "files": 1,
+    "size_mb": 0.34619140625
+  },
+  {
+    "slug": "ihme-data/rotavirus-cost-effectiveness",
+    "title": "Rotavirus Vaccination Cost Effectiveness Estimates 2017",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_rotavirus-cost-effectiveness",
+    "files": 3,
+    "size_mb": 0.25368499755859375
+  },
+  {
+    "slug": "ihme-data/rvf-environmental-suitability-and-spillover-potential-geospatial-estimates",
+    "title": "Rift Valley Fever Environmental Suitability and Spillover Potential Geospatial Estimates",
+    "domain": "geospatial",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\geospatial\\ihme-data_rvf-environmental-suitability-and-spillover-potential-geospatial-estimates",
+    "files": 10,
+    "size_mb": 476.4168300628662
+  },
+  {
+    "slug": "ihme-data/senegal-mali-and-sierra-leone-oral-rehydration-therapy-geospatial-estimates-2000-2018",
+    "title": "Senegal, Mali, and Sierra Leone Oral Rehydration Therapy Geospatial Estimates 2000-2018",
+    "domain": "geospatial",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\geospatial\\ihme-data_senegal-mali-and-sierra-leone-oral-rehydration-therapy-geospatial-estimates-2000-2018",
+    "files": 6,
+    "size_mb": 1.0438528060913086
+  },
+  {
+    "slug": "ihme-data/south-africa-healthrise-endline-health-facility-survey-2018",
+    "title": "South Africa HealthRise Endline Health Facility Survey 2018",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_south-africa-healthrise-endline-health-facility-survey-2018",
+    "files": 5,
+    "size_mb": 8.410407066345215
+  },
+  {
+    "slug": "ihme-data/south-africa-healthrise-health-facility-survey-2015",
+    "title": "South Africa HealthRise Baseline Health Facility Survey 2015",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_south-africa-healthrise-health-facility-survey-2015",
+    "files": 5,
+    "size_mb": 7.402420997619629
+  },
+  {
+    "slug": "ihme-data/sub-saharan-africa-hiv-incidence-mortality-geospatial-estimates-2000-2018",
+    "title": "Sub-Saharan Africa HIV Incidence and Mortality Geospatial Estimates 2000-2018",
+    "domain": "geospatial",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\geospatial\\ihme-data_sub-saharan-africa-hiv-incidence-mortality-geospatial-estimates-2000-2018",
+    "files": 5,
+    "size_mb": 11.068155288696289
+  },
+  {
+    "slug": "ihme-data/sub-saharan-africa-hiv-prevalence-geospatial-estimates-2000-2018",
+    "title": "Sub-Saharan Africa HIV Prevalence Geospatial Estimates 2000-2018",
+    "domain": "geospatial",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\geospatial\\ihme-data_sub-saharan-africa-hiv-prevalence-geospatial-estimates-2000-2018",
+    "files": 5,
+    "size_mb": 0.7655811309814453
+  },
+  {
+    "slug": "ihme-data/sub-saharan-africa-insecticide-treated-bed-nets-1999-2008",
+    "title": "Sub-Saharan Africa Insecticide-Treated Bed Nets 1999-2008",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_sub-saharan-africa-insecticide-treated-bed-nets-1999-2008",
+    "files": 1,
+    "size_mb": 0.14794921875
+  },
+  {
+    "slug": "ihme-data/sub-saharan-africa-male-circumcision-geospatial-estimates-2000-2017",
+    "title": "Sub-Saharan Africa Male Circumcision Geospatial Estimates 2000-2017",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_sub-saharan-africa-male-circumcision-geospatial-estimates-2000-2017",
+    "files": 14,
+    "size_mb": 637.8133382797241
+  },
+  {
+    "slug": "ihme-data/sub-saharan-africa-menafrivac-estimates-2010-2021",
+    "title": "Sub-Saharan Africa MenAfriVac Coverage Estimates 2010-2021",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_sub-saharan-africa-menafrivac-estimates-2010-2021",
+    "files": 3,
+    "size_mb": 0.3088703155517578
+  },
+  {
+    "slug": "ihme-data/travel-time-health-facilities-vhf-outbreak-preparedness-africa",
+    "title": "Africa – Travel Time to Health Facilities and Viral Hemorrhagic Fever Outbreak Preparedness",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_travel-time-health-facilities-vhf-outbreak-preparedness-africa",
+    "files": 3,
+    "size_mb": 3.4140853881835938
+  },
+  {
+    "slug": "ihme-data/tuberculosis-household-risk-exposure-estimates-2019",
+    "title": "Tuberculosis Household Risk Exposure Estimates 2019",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_tuberculosis-household-risk-exposure-estimates-2019",
+    "files": 4,
+    "size_mb": 0.6428871154785156
+  },
+  {
+    "slug": "ihme-data/uganda-access-bottlenecks-costs-and-equity-project-2012",
+    "title": "Uganda Access, Bottlenecks, Costs, and Equity Project 2012",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_uganda-access-bottlenecks-costs-and-equity-project-2012",
+    "files": 5,
+    "size_mb": 40.32078170776367
+  },
+  {
+    "slug": "ihme-data/uganda-gavi-fce-health-facility-survey-2014-2015",
+    "title": "Uganda Gavi FCE Health Facility Survey 2014-2015",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_uganda-gavi-fce-health-facility-survey-2014-2015",
+    "files": 3,
+    "size_mb": 2.548161506652832
+  },
+  {
+    "slug": "ihme-data/uganda-gavi-fce-household-survey-2015",
+    "title": "Uganda Gavi FCE Household Survey 2015",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_uganda-gavi-fce-household-survey-2015",
+    "files": 3,
+    "size_mb": 2.9613189697265625
+  },
+  {
+    "slug": "ihme-data/uganda-malaria-control-policy-assessment-results-1990-2011",
+    "title": "Uganda Malaria Control Policy Assessment Results 1990-2011",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_uganda-malaria-control-policy-assessment-results-1990-2011",
+    "files": 4,
+    "size_mb": 0.7291545867919922
+  },
+  {
+    "slug": "ihme-data/UHC-cost-and-services-2016",
+    "title": "Global Inpatient and Outpatient Health Care Utilization, Unit Costs, and Costs and Services Needed to Achieve Universal Health Coverage 1990-2016",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_UHC-cost-and-services-2016",
+    "files": 6,
+    "size_mb": 12.34138011932373
+  },
+  {
+    "slug": "ihme-data/united-kingdom-england-gbd-2013-results-1990-2013",
+    "title": "United Kingdom - England Global Burden of Disease Study 2013 (GBD 2013) Results 1990-2013",
+    "domain": "gbd_legacy",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_legacy\\ihme-data_united-kingdom-england-gbd-2013-results-1990-2013",
+    "files": 1,
+    "size_mb": 0.34946346282958984
+  },
+  {
+    "slug": "ihme-data/united-states-adult-life-expectancy-county-1987-2007",
+    "title": "United States Adult Life Expectancy by County 1987-2007",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_united-states-adult-life-expectancy-county-1987-2007",
+    "files": 1,
+    "size_mb": 10.091813087463379
+  },
+  {
+    "slug": "ihme-data/united-states-alcohol-use-prevalence-county-2002-2012",
+    "title": "United States Alcohol Use Prevalence by County 2002-2012",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_united-states-alcohol-use-prevalence-county-2002-2012",
+    "files": 2,
+    "size_mb": 3.2234020233154297
+  },
+  {
+    "slug": "ihme-data/united-states-cancer-mortality-rates-county-1980-2014",
+    "title": "United States Cancer Mortality Rates by County 1980-2014",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_united-states-cancer-mortality-rates-county-1980-2014",
+    "files": 11,
+    "size_mb": 305.9124879837036
+  },
+  {
+    "slug": "ihme-data/united-states-cardiovascular-disease-mortality-rates-county-1980-2014",
+    "title": "United States Cardiovascular Disease Mortality Rates by County 1980-2014",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_united-states-cardiovascular-disease-mortality-rates-county-1980-2014",
+    "files": 10,
+    "size_mb": 124.80848979949951
+  },
+  {
+    "slug": "ihme-data/united-states-causes-death-life-expectancy-by-county-race-ethnicity-2000-2019",
+    "title": "United States Mortality Rates by Causes of Death and Life Expectancy by County, Race, and Ethnicity 2000-2019",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_united-states-causes-death-life-expectancy-by-county-race-ethnicity-2000-2019",
+    "files": 76,
+    "size_mb": 10693.046153068542
+  },
+  {
+    "slug": "ihme-data/united-states-chronic-respiratory-disease-mortality-rates-county-1980-2014",
+    "title": "United States Chronic Respiratory Disease Mortality Rates by County 1980-2014",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_united-states-chronic-respiratory-disease-mortality-rates-county-1980-2014",
+    "files": 11,
+    "size_mb": 99.61731243133545
+  },
+  {
+    "slug": "ihme-data/united-states-covid-19-scenarios-2020-2021",
+    "title": "United States COVID-19 Scenarios 2020-2021",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_united-states-covid-19-scenarios-2020-2021",
+    "files": 10,
+    "size_mb": 26.631558418273926
+  },
+  {
+    "slug": "ihme-data/united-states-dementia-care-spending-by-state-2010-2050",
+    "title": "United States Dementia Care Spending by State Estimates and Projections 2010-2050",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_united-states-dementia-care-spending-by-state-2010-2050",
+    "files": 4,
+    "size_mb": 0.22749710083007812
+  },
+  {
+    "slug": "ihme-data/united-states-diabetes-prevalence-county-1999-2012",
+    "title": "United States Diabetes Prevalence by County 1999-2012",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_united-states-diabetes-prevalence-county-1999-2012",
+    "files": 1,
+    "size_mb": 4.36065673828125
+  },
+  {
+    "slug": "ihme-data/united-states-diabetes-prevalence-county-2008",
+    "title": "United States Diabetes Prevalence by County 2008",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_united-states-diabetes-prevalence-county-2008",
+    "files": 1,
+    "size_mb": 0.54248046875
+  },
+  {
+    "slug": "ihme-data/united-states-estimates-weight-change-and-obesity-prevalence-2008-2009",
+    "title": "United States Estimates of Weight Change and Obesity Prevalence 2008-2009",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_united-states-estimates-weight-change-and-obesity-prevalence-2008-2009",
+    "files": 1,
+    "size_mb": 0.025651931762695312
+  },
+  {
+    "slug": "ihme-data/united-states-health-care-spending-attributable-modifiable-risk-factors-2016",
+    "title": "United States Health-Care Spending Attributable to Modifiable Risk Factors 2016",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_united-states-health-care-spending-attributable-modifiable-risk-factors-2016",
+    "files": 3,
+    "size_mb": 0.8054752349853516
+  },
+  {
+    "slug": "ihme-data/united-states-health-care-spending-effectiveness-1996-2016",
+    "title": "United States Health Care Spending Effectiveness 1996-2016",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_united-states-health-care-spending-effectiveness-1996-2016",
+    "files": 3,
+    "size_mb": 0.3832817077636719
+  },
+  {
+    "slug": "ihme-data/united-states-health-care-spending-payer-and-health-condition-1996-2016",
+    "title": "United States Health Care Spending by Payer and Health Condition 1996-2016",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_united-states-health-care-spending-payer-and-health-condition-1996-2016",
+    "files": 3,
+    "size_mb": 7.779972076416016
+  },
+  {
+    "slug": "ihme-data/united-states-health-spending-by-state-payer-type-service-2003-2019",
+    "title": "United States Health Expenditure by State, Payer, and Type of Care, 2003-2019",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_united-states-health-spending-by-state-payer-type-service-2003-2019",
+    "files": 5,
+    "size_mb": 0.8578329086303711
+  },
+  {
+    "slug": "ihme-data/united-states-healthcare-spending-emergency-departments-health-condition-2006-2016",
+    "title": "United States Healthcare Spending in Emergency Departments by Health Condition 2006-2016",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_united-states-healthcare-spending-emergency-departments-health-condition-2006-2016",
+    "files": 3,
+    "size_mb": 1.2877044677734375
+  },
+  {
+    "slug": "ihme-data/united-states-healthcare-spending-race-and-ethnicity-2002-2016",
+    "title": "United States Healthcare Spending by Race and Ethnicity 2002-2016",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_united-states-healthcare-spending-race-and-ethnicity-2002-2016",
+    "files": 3,
+    "size_mb": 6.751291275024414
+  },
+  {
+    "slug": "ihme-data/united-states-hearing-loss-prevalence-1976-2006",
+    "title": "United States Hearing Loss Prevalence 1976-2006",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_united-states-hearing-loss-prevalence-1976-2006",
+    "files": 1,
+    "size_mb": 0.05419921875
+  },
+  {
+    "slug": "ihme-data/united-states-hypertension-estimates-county-2001-2009",
+    "title": "United States Hypertension Estimates by County 2001-2009",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_united-states-hypertension-estimates-county-2001-2009",
+    "files": 1,
+    "size_mb": 1.0748729705810547
+  },
+  {
+    "slug": "ihme-data/united-states-infectious-disease-mortality-rates-county-1980-2014",
+    "title": "United States Infectious Disease Mortality Rates by County 1980-2014",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_united-states-infectious-disease-mortality-rates-county-1980-2014",
+    "files": 11,
+    "size_mb": 60.72292232513428
+  },
+  {
+    "slug": "ihme-data/united-states-king-county-washington-census-tract-life-expectancy-cause-specific-mortality-1989-2014",
+    "title": "United States - King County, Washington Life Expectancy and Cause-Specific Mortality by Census Tract 1990-2014",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_united-states-king-county-washington-census-tract-life-expectancy-cause-specific-mortality-1989-2014",
+    "files": 12,
+    "size_mb": 503.29729652404785
+  },
+  {
+    "slug": "ihme-data/united-states-life-expectancy-and-age-specific-mortality-risk-county-1980-2014",
+    "title": "United States Life Expectancy and Age-specific Mortality Risk by County 1980-2014",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_united-states-life-expectancy-and-age-specific-mortality-risk-county-1980-2014",
+    "files": 4,
+    "size_mb": 3.336045265197754
+  },
+  {
+    "slug": "ihme-data/united-states-life-expectancy-by-county-race-ethnicity-2000-2019",
+    "title": "United States Mortality Rates and Life Expectancy by County, Race, and Ethnicity 2000-2019",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_united-states-life-expectancy-by-county-race-ethnicity-2000-2019",
+    "files": 11,
+    "size_mb": 820.8260316848755
+  },
+  {
+    "slug": "ihme-data/united-states-life-expectancy-by-state-white-black-hispanic-race-ethnicity-1990-2019",
+    "title": "United States Mortality Rates and Life Expectancy by State, Race, and Ethnicity 1990-2019",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_united-states-life-expectancy-by-state-white-black-hispanic-race-ethnicity-1990-2019",
+    "files": 4,
+    "size_mb": 9.223215103149414
+  },
+  {
+    "slug": "ihme-data/united-states-life-expectancy-estimates-county-1985-2010",
+    "title": "United States Life Expectancy Estimates by County 1985-2010",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_united-states-life-expectancy-estimates-county-1985-2010",
+    "files": 1,
+    "size_mb": 5.609148979187012
+  },
+  {
+    "slug": "ihme-data/united-states-liver-cancer-mortality-by-county-race-ethnicity-2000-2019",
+    "title": "United States Liver Cancer Mortality Rates by County, Race, and Ethnicity 2000-2019",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_united-states-liver-cancer-mortality-by-county-race-ethnicity-2000-2019",
+    "files": 6,
+    "size_mb": 453.72381019592285
+  },
+  {
+    "slug": "ihme-data/united-states-maternal-mortality-by-state-race-ethnicity-1999-2019",
+    "title": "United States Maternal Mortality Ratio Estimates by Race and Ethnicity 1999-2019",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_united-states-maternal-mortality-by-state-race-ethnicity-1999-2019",
+    "files": 4,
+    "size_mb": 0.3789024353027344
+  },
+  {
+    "slug": "ihme-data/united-states-mortality-rates-county-1980-2014",
+    "title": "United States Mortality Rates by County 1980-2014",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_united-states-mortality-rates-county-1980-2014",
+    "files": 11,
+    "size_mb": 246.00369834899902
+  },
+  {
+    "slug": "ihme-data/united-states-physical-activity-and-obesity-prevalence-county-2001-2011",
+    "title": "United States Physical Activity and Obesity Prevalence by County 2001-2011",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_united-states-physical-activity-and-obesity-prevalence-county-2001-2011",
+    "files": 1,
+    "size_mb": 4.520499229431152
+  },
+  {
+    "slug": "ihme-data/united-states-smoking-prevalence-county-1996-2012",
+    "title": "United States Smoking Prevalence by County 1996-2012",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_united-states-smoking-prevalence-county-1996-2012",
+    "files": 1,
+    "size_mb": 2.872488021850586
+  },
+  {
+    "slug": "ihme-data/united-states-stomach-cancer-mortality-by-county-race-ethnicity-2000-2019",
+    "title": "United States Stomach Cancer Mortality Rates by County, Race, and Ethnicity 2000-2019",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_united-states-stomach-cancer-mortality-by-county-race-ethnicity-2000-2019",
+    "files": 6,
+    "size_mb": 393.9939956665039
+  },
+  {
+    "slug": "ihme-data/united-states-substance-use-disorders-intentional-injuries-mortality-rates-county-1980-2014",
+    "title": "United States Substance Use Disorders and Intentional Injuries Mortality Rates by County 1980-2014",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_united-states-substance-use-disorders-intentional-injuries-mortality-rates-county-1980-2014",
+    "files": 11,
+    "size_mb": 40.705894470214844
+  },
+  {
+    "slug": "ihme-data/us-cirrhosis-county-race-ethnicity-2000-2019",
+    "title": "United States Cirrhosis Mortality by County, Race, and Ethnicity 2000-2019",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_us-cirrhosis-county-race-ethnicity-2000-2019",
+    "files": 5,
+    "size_mb": 515.2318286895752
+  },
+  {
+    "slug": "ihme-data/us-diabetes-county-race-ethnicity-2000-2019",
+    "title": "United States Diabetes Mortality by County, Race, and Ethnicity 2000-2019",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_us-diabetes-county-race-ethnicity-2000-2019",
+    "files": 6,
+    "size_mb": 455.6150255203247
+  },
+  {
+    "slug": "ihme-data/us-falls-county-age-race-ethnicity-2000-2019",
+    "title": "United States Mortality Due to Falls by County, Age, Race, and Ethnicity 2000-2019",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_us-falls-county-age-race-ethnicity-2000-2019",
+    "files": 6,
+    "size_mb": 538.8692378997803
+  },
+  {
+    "slug": "ihme-data/us-hale-county-race-ethnicity-2009-2019",
+    "title": "United States Healthy Life Expectancy by County, Race, and Ethnicity 2009-2019",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_us-hale-county-race-ethnicity-2009-2019",
+    "files": 6,
+    "size_mb": 239.15854167938232
+  },
+  {
+    "slug": "ihme-data/us-hdi-estimates-2008-2021",
+    "title": "United States Human Development Index Estimates 2008-2021",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_us-hdi-estimates-2008-2021",
+    "files": 1,
+    "size_mb": 0.16593265533447266
+  },
+  {
+    "slug": "ihme-data/us-health-care-performance-county-2014-2019",
+    "title": "United States Health Care System Performance by County 2014-2019",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_us-health-care-performance-county-2014-2019",
+    "files": 4,
+    "size_mb": 1.1159448623657227
+  },
+  {
+    "slug": "ihme-data/us-health-care-spending-cause-county-2010-2019",
+    "title": "United States Health Care Spending by Health Condition and County 2010-2019",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_us-health-care-spending-cause-county-2010-2019",
+    "files": 5,
+    "size_mb": 290.5101308822632
+  },
+  {
+    "slug": "ihme-data/us-health-care-spending-variation-cause-county-2019",
+    "title": "United States Health Care Spending Variation 2019",
+    "domain": "health_financing",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\health_financing\\ihme-data_us-health-care-spending-variation-cause-county-2019",
+    "files": 4,
+    "size_mb": 0.16413116455078125
+  },
+  {
+    "slug": "ihme-data/us-homicide-county-race-ethnicity-age-sex-2000-2019",
+    "title": "United States Homicide Rates by County, Race, Ethnicity, Age, and Sex 2000-2019",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_us-homicide-county-race-ethnicity-age-sex-2000-2019",
+    "files": 9,
+    "size_mb": 929.6305809020996
+  },
+  {
+    "slug": "ihme-data/us-le-county-education-2000-2019",
+    "title": "United States Life Expectancy by County and Educational Attainment 2000-2019",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_us-le-county-education-2000-2019",
+    "files": 3,
+    "size_mb": 0.29169273376464844
+  },
+  {
+    "slug": "ihme-data/us-lung-cancer-county-race-ethnicity-2000-2019",
+    "title": "United States Lung Cancer Mortality by County, Race, and Ethnicity 2000-2019",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_us-lung-cancer-county-race-ethnicity-2000-2019",
+    "files": 5,
+    "size_mb": 454.40289306640625
+  },
+  {
+    "slug": "ihme-data/us-malnutrition-mortality-2000-2019",
+    "title": "United States Malnutrition Mortality by County, Race, and Ethnicity 2000-2019",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_us-malnutrition-mortality-2000-2019",
+    "files": 5,
+    "size_mb": 537.7758083343506
+  },
+  {
+    "slug": "ihme-data/us-obesity-overweight-prevalence-1990-2050",
+    "title": "United States Overweight and Obesity Prevalence Estimates and Forecasts 1990-2050",
+    "domain": "gbd_risk",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\gbd_risk\\ihme-data_us-obesity-overweight-prevalence-1990-2050",
+    "files": 3,
+    "size_mb": 21.26255512237549
+  },
+  {
+    "slug": "ihme-data/us-pregnancy-related-mortality-2000-2019",
+    "title": "United States Pregnancy-Related Mortality by County, Race, and Ethnicity 2000-2019",
+    "domain": "us_subnational",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\us_subnational\\ihme-data_us-pregnancy-related-mortality-2000-2019",
+    "files": 6,
+    "size_mb": 113.8650016784668
+  },
+  {
+    "slug": "ihme-data/us-ten-americas-life-expectancy-disparities-2000-2021",
+    "title": "United States Life Expectancy Disparities Among Ten Americas by Sex and Age Group 2000-2021",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\ihme-data_us-ten-americas-life-expectancy-disparities-2000-2021",
+    "files": 4,
+    "size_mb": 1.9831037521362305
+  },
+  {
+    "slug": "ihme-data/who-european-region-bacterial-antimicrobial-resistance-burden-estimates-2019",
+    "title": "WHO European Region Bacterial Antimicrobial Resistance Burden Estimates 2019",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_who-european-region-bacterial-antimicrobial-resistance-burden-estimates-2019",
+    "files": 8,
+    "size_mb": 62.983951568603516
+  },
+  {
+    "slug": "ihme-data/who-region-africa-amr-2019",
+    "title": "WHO Africa Region Bacterial Antimicrobial Resistance Burden Estimates 2019",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_who-region-africa-amr-2019",
+    "files": 7,
+    "size_mb": 112.35266590118408
+  },
+  {
+    "slug": "ihme-data/who-region-americas-amr-2019",
+    "title": "WHO Americas Region Bacterial Antimicrobial Resistance Burden Estimates 2019",
+    "domain": "specialty",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\specialty\\ihme-data_who-region-americas-amr-2019",
+    "files": 7,
+    "size_mb": 84.71767330169678
+  },
+  {
+    "slug": "ihme-data/zambia-access-bottlenecks-costs-and-equity-project-2011-2012",
+    "title": "Zambia Access, Bottlenecks, Costs, and Equity Project 2011-2012",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_zambia-access-bottlenecks-costs-and-equity-project-2011-2012",
+    "files": 5,
+    "size_mb": 12.964696884155273
+  },
+  {
+    "slug": "ihme-data/zambia-gavi-fce-health-facility-survey-2014",
+    "title": "Zambia Gavi FCE Health Facility Survey 2014",
+    "domain": "surveys",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\surveys\\ihme-data_zambia-gavi-fce-health-facility-survey-2014",
+    "files": 3,
+    "size_mb": 2.5398921966552734
+  },
+  {
+    "slug": "ihme-data/zambia-malaria-control-policy-assessment-results-1990-2010",
+    "title": "Zambia Malaria Control Policy Assessment Results 1990-2010",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\ihme-data_zambia-malaria-control-policy-assessment-results-1990-2010",
+    "files": 4,
+    "size_mb": 2.277250289916992
+  },
+  {
+    "slug": "potential-expand-antiretroviral-therapy-improving-health-facility-efficiency-evidence-kenya",
+    "title": "The Potential to Expand Antiretroviral Therapy by Improving Health Facility Efficiency: Evidence From Kenya, Uganda, And Zambia",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\potential-expand-antiretroviral-therapy-improving-health-facility-efficiency-evidence-kenya",
+    "files": 2,
+    "size_mb": 0.06954479217529297
+  },
+  {
+    "slug": "united-states-adult-congenital-heart-disease-estimates-1970-2050",
+    "title": "United States Adult Congenital Heart Disease Estimates 1970-2050",
+    "domain": "unclassified",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\unclassified\\united-states-adult-congenital-heart-disease-estimates-1970-2050",
+    "files": 1,
+    "size_mb": 1.3847761154174805
+  },
+  {
+    "slug": "united-states-adult-life-expectancy-state-and-county-1987-2009",
+    "title": "United States Adult Life Expectancy by State and County 1987-2009",
+    "domain": "population",
+    "target": "C:\\Projects\\ihme-data-lakehouse\\data\\raw\\population\\united-states-adult-life-expectancy-state-and-county-1987-2009",
+    "files": 5,
+    "size_mb": 8.303919792175293
+  }
+]

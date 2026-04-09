@@ -60,18 +60,27 @@ def validate_columns(df: pd.DataFrame, required: set[str], domain: str) -> list[
     return sorted(missing)
 
 
+_KNOWN_INT_COLS = {
+    "location_id", "sex_id", "age_id", "age_group_id", "cause_id",
+    "rei_id", "measure_id", "metric_id", "year", "year_id",
+    "covariate_id",
+}
+
+_KNOWN_FLOAT_COLS = {
+    "val", "upper", "lower", "mean_value", "upper_value", "lower_value",
+    "mean", "rate", "percent", "se",
+}
+
+
 def coerce_types(df: pd.DataFrame) -> pd.DataFrame:
-    """Coerce IHME standard columns to correct types."""
+    """Coerce known IHME columns to correct types. Leaves unknown columns untouched."""
     out = df.copy()
 
-    int_cols = [c for c in out.columns if c.endswith("_id") or c in ("year", "year_id")]
-    for col in int_cols:
-        if col in out.columns:
+    for col in out.columns:
+        if col in _KNOWN_INT_COLS:
             out[col] = pd.to_numeric(out[col], errors="coerce").astype("Int64")
-
-    float_cols = [c for c in ("val", "upper", "lower", "mean_value", "upper_value", "lower_value") if c in out.columns]
-    for col in float_cols:
-        out[col] = pd.to_numeric(out[col], errors="coerce")
+        elif col in _KNOWN_FLOAT_COLS:
+            out[col] = pd.to_numeric(out[col], errors="coerce")
 
     return out
 

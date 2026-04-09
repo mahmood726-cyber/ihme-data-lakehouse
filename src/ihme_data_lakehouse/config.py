@@ -20,6 +20,14 @@ DOMAINS = (
     "population",
     "forecasts",
     "specialty",
+    "health_financing",
+    "vaccination",
+    "us_subnational",
+    "reference",
+    "surveys",
+    "geospatial",
+    "gbd_legacy",
+    "unclassified",
 )
 
 

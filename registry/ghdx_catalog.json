@@ -1,0 +1,3862 @@
+{
+  "scraped_at": "2026-04-08T20:18:49Z",
+  "total_datasets": 482,
+  "datasets": [
+    {
+      "title": "High- and Middle-Income Country Respiratory Syncytial Virus (RSV) Hospitalization Estimates 2014-2023",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/hmic-rsv-hospitalizations-2014-2023",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2023 (GBD 2023) Breast Cancer Forecasts 2024-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2023-breast-cancer-forecasts-2024-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Low- and Middle-Income Country Delivery Location by Facility Type Estimates 1995-2023",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/lmic-delivery-location-1995-2023",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2023 (GBD 2023) Air Pollution Exposure Estimates and Risk Curves 1990-2023",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2023-air-pollution-exposure-estimates-1990-2023",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2023 (GBD 2023) Lower Respiratory Infection Mortality and Incidence Estimates 1990-2023",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2023-lri-1990-2023",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2023 (GBD 2023) Covariates 1980-2023",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2023-covariates-1980-2023",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "United States Pregnancy-Related Mortality by County, Race, and Ethnicity 2000-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/us-pregnancy-related-mortality-2000-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Expected Health Spending 2023-2050, 14 November 2025",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-expected-health-spending-2023-2050-20251114",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Development Assistance for Health Database 1990-2025, 14 November 2025",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/dah-1990-2025-20251114",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2023 (GBD 2023) Chronic Kidney Disease Mortality, Prevalence, and DALY Estimates 1990-2023",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2023-ckd-1990-2023",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2023 (GBD 2023) Headache Estimates 1990-2023",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2023-headache-prevalence-1990-2023",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2023 (GBD 2023) Lead Exposure Estimates 1990-2023",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2023-lead-exposure-estimates-1990-2023",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2023 (GBD 2023) Cause, REI, and Location Hierarchies",
+      "record_url": "https://ghdx.healthdata.org/record/gbd-2023-cause-rei-and-location-hierarchies",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2023 (GBD 2023) Risk Exposure Estimates 1990-2023",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2023-risk-exposure-estimates-1990-2023",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2023 (GBD 2023) Cause-Specific Mortality 1990-2023",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2023-cause-specific-mortality-1990-2023",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2023 (GBD 2023) Demographics 1950-2023",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2023-demographics-1950-2023",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2023 (GBD 2023) Years Lived with Disability, Disability-Adjusted Life Years, Healthy Life Expectancy, and Risk-Attributable Burden 1990-2023",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2023-yld-daly-hale-risk-1990-2023",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2023 (GBD 2023) Disability Weights",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2023-disability-weights",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2023 (GBD 2023) Socio-Demographic Index (SDI) 1950–2023",
+      "record_url": "https://ghdx.healthdata.org/record/gbd-2023-socio-demographic-index-sdi",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2023 (GBD 2023) Causes of Death and Nonfatal Causes Mapped to ICD Codes",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2023-cause-icd-code-mappings",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease 2023 (GBD 2023) Cardiovascular Burden Estimates 1990-2023",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/cvd-1990-2023",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2023 (GBD 2023) Cancer Forecasts 2024-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2023-global-cancer-forecasts-2024-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "United States Malnutrition Mortality by County, Race, and Ethnicity 2000-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/us-malnutrition-mortality-2000-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global HIV-Related Mortality in Children and Young Adolescents 2000-2020",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-hiv-mortality-children-adolescents-2000-2020",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "United States Health Care System Performance by County 2014-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/us-health-care-performance-county-2014-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Health Care Inefficiencies in Maternal Health, Breast, and Gynecological Cancers 1990-2023",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-inefficiency-maternal-health-breast-gyn-cancers-1990-2023",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Health Care Spending Inefficiency 1995-2022",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-health-spending-inefficiency-1995-2022",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Development Assistance for Health Database 1990-2025",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-database-1990-2025",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Gross Domestic Product Per Capita 1960-2050 - FGH 2025",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-gdp-per-capita-1960-2050-fgh-2025",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Health Spending 1995-2022",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-health-spending-1995-2022",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Expected Health Spending 2023-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-expected-health-spending-2023-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Diabetes Care 2000-2023",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/diabetes-cascade-of-care-estimates-2000-2023",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Health Effects of Processed Foods Burden of Proof and Risk-Outcome Scores",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/processed-foods-bop-2025",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "United States Lung Cancer Mortality by County, Race, and Ethnicity 2000-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/us-lung-cancer-county-race-ethnicity-2000-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Rheumatic Heart Disease Endemicity Index (RHDEI) Estimates and Forecasts 1990-2041",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-rhdei-estimates-forecasts-1990-2041",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease (GBD 2021) Association of Southeast Asian Nations Smoking Prevalence and Burden Estimates 1990-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-asean-smoking-prevalence-burden-1990-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Sexual Violence Against Children Prevalence Estimates 1990-2023",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-svac-prevalence-1990-2023",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2023 (GBD 2023) Routine Childhood Vaccination Coverage Estimates and Forecasts 1980-2030",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2023-vaccination-coverage-1980-2030",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Brain Health Spending 2000-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-brain-health-spending-2000-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Ethiopia Measles Incidence and Susceptibility by Zone and Age 2013-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/ethiopia-measles-incidence-susceptibility-2013-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "United States Healthy Life Expectancy by County, Race, and Ethnicity 2009-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/us-hale-county-race-ethnicity-2009-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Health Effects of Violence Against Children Burden of Proof and Risk-Outcome Scores",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/health-effects-vac-bop-ros",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Health Effects of Gender-Based Violence Burden of Proof and Risk-Outcome Scores",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbv-health-effects-bop-risk-outcome-scores",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Unsafe Water Exposure Estimates 1990-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-unsafe-water-exposure-estimates-1990-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Unsafe Sanitation Exposure Estimates 1990-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-unsafe-sanitation-exposure-estimates-1990-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Hygiene Exposure Estimates 1990-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-hygiene-exposure-estimates-1990-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Child and Adolescent Overweight and Obesity Estimates and Forecasts 1990-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-child-adolescent-obesity-overweight-prevalence-1990-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Adult Overweight and Obesity Prevalence Estimates and Forecasts 1990-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-adult-obesity-overweight-prevalence-1990-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "United States Homicide Rates by County, Race, Ethnicity, Age, and Sex 2000-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/us-homicide-county-race-ethnicity-age-sex-2000-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Suicide Mortality and Incidence 1990-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-suicide-mortality-incidence-1990-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 1
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Europe Life Expectancy Change by Cause 1990-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-europe-le-change-cause-1990-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "United States Health Care Spending Variation 2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/us-health-care-spending-variation-cause-county-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "United States Health Care Spending by Health Condition and County 2010-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/us-health-care-spending-cause-county-2010-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "United States Diabetes Mortality by County, Race, and Ethnicity 2000-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/us-diabetes-county-race-ethnicity-2000-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "United States Life Expectancy by County and Educational Attainment 2000-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/us-le-county-education-2000-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Global Nutrition Targets Estimates and Forecasts 1990-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-gnt-estimates-forecasts-2012-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) United States Burden of Disease Forecasts 2022-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-us-bod-forecasts-2022-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) HIV Lifetime Probability of Acquisition and Prevalence of Unsuppressed Viraemia Estimates and Forecasts 1990-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-hiv-acquisition-viraemia-1990-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Malaria Spending by Program Area 2000-2020",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-malaria-spending-2000-2020",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "United States Life Expectancy Disparities Among Ten Americas by Sex and Age Group 2000-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/us-ten-americas-life-expectancy-disparities-2000-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "United States Overweight and Obesity Prevalence Estimates and Forecasts 1990-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/us-obesity-overweight-prevalence-1990-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "United States Human Development Index Estimates 2008-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/us-hdi-estimates-2008-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Smoking Mortality and Prevalence Forecasts 2022-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-smoking-mortality-prevalence-forecasts-2022-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Bacterial Antimicrobial Resistance Burden Estimates 1990-2021 and Forecasts 2022-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-bacterial-amr-estimates-forecasts-1990-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Health Care Spending for Dementia Estimates and Projections 2000-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-health-care-spending-dementia-2000-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "United States Mortality Due to Falls by County, Age, Race, and Ethnicity 2000-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/us-falls-county-age-race-ethnicity-2000-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "United States Cirrhosis Mortality by County, Race, and Ethnicity 2000-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/us-cirrhosis-county-race-ethnicity-2000-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Fund Country HIV/AIDS, Malaria, Syphilis, and Tuberculosis Intervention Cost Effectiveness Estimates",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-fund-country-hiv-aids-malaria-syphilis-tuberculosis-intervention-cost-effectiveness-estimates",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Air Pollution Exposure Estimates and Risk Curves 1990-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-air-pollution-exposure-estimates-1990-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Lead Exposure Estimates 1990-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-lead-exposure-estimates-1990-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Dietary Risk Exposure Estimates 1990-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-dietary-risk-exposure-estimates-1990-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Measles Seroprevalence Systematic Review and Bias Assessment 1962-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/measles-serosurvey-bias-systematic-review",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Mortality and Life Expectancy Forecasts 2022-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-life-expectancy-all-cause-mortality-and-cause-specific-mortality-forecasts-2022-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Covariates 1980-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-burden-disease-study-2021-gbd-2021-covariates-1980-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Burden and Strength of Evidence by Risk Factor 1990-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-burden-by-risk-1990-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Socio-Demographic Index (SDI) 1950–2021",
+      "record_url": "https://ghdx.healthdata.org/record/global-burden-disease-study-2021-gbd-2021-socio-demographic-index-sdi-1950%E2%80%932021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Development Assistance for Health Database 1990-2023",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-database-1990-2023",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Development Assistance for Health on COVID-19 Database 2020-2023",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-covid-2020-2023",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Gross Domestic Product Per Capita 1960-2050 - FGH 2023",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-gdp-per-capita-1960-2050-fgh-2023",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Health Spending 1995-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-health-spending-1995-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Expected Health Spending 2022-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-expected-health-spending-2022-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Disability Weights",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-disability-weights",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Causes of Death and Nonfatal Causes Mapped to ICD Codes",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-cause-icd-code-mappings",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Cause, REI, and Location Hierarchies",
+      "record_url": "https://ghdx.healthdata.org/record/global-burden-disease-study-2021-gbd-2021-cause-rei-and-location-hierarchies",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Years Lived with Disability, Disability-Adjusted Life Years, and Healthy Life Expectancy 1990-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-yld-daly-hale-1990-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of 85 Pathogens 1990-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-burden-85-pathogens-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Lower Respiratory Infections and Aetiologies Incidence and Mortality Estimates 1990-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-burden-disease-study-2021-lower-respiratory-incidence-mortality-estimates-1990-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "United States Dementia Care Spending by State Estimates and Projections 2010-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-dementia-care-spending-by-state-2010-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Cause-Specific Mortality 1990-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-cause-specific-mortality-1990-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Fertility Estimates 1950-2021 and Forecasts 2022-2100",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-burden-disease-study-2021-gbd-2021-fertility-1950-2100",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease 2021 (GBD 2021) Tuberculosis Estimates 1990-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-tuberculosis-incidence-mortality-1990-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Nervous System Disorders Estimates 1990-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-nervous-system-disorders-1990-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Stillbirth Estimates 1990-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-burden-disease-study-2021-gbd-2021-stillbirth-estimates-1990-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Demographics 1950-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-burden-disease-study-2021-gbd-2021-demographics-1950-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "United States Liver Cancer Mortality Rates by County, Race, and Ethnicity 2000-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-liver-cancer-mortality-by-county-race-ethnicity-2000-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Global Burden of Disease Study (GBD) Alcohol Consumption and Ischemic Heart Disease Burden of Proof and Risk-Outcome Scores",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-alcohol-ihd-bop-risk-outcome-scores",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Burkina Faso, Kenya, and Nigeria Family Planning Indicator Estimates 2000-2020",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-family-planning-estimates-2000-2020",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Effects of Education on Adult Mortality Systematic Review and Meta-Analysis Estimates",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/effect-education-adult-mortality-systematic-review-meta-analysis-estimates",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Development Assistance for Health on COVID-19 Database 2020-2022",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-covid-2020-2022",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "Development Assistance for Health Database 1990-2022",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-database-1990-2022",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 2
+    },
+    {
+      "title": "WHO Africa Region Bacterial Antimicrobial Resistance Burden Estimates 2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/who-region-africa-amr-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Global Burden of Disease (GBD) Cardiovascular Burden Estimates 1990-2022",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/cvd-1990-2022",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Nicaragua Salud Mesoamérica Initiative Third Follow-Up Health Facility Survey 2022",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/nicaragua-salud-mesoam%C3%A9rica-initiative-third-follow-health-facility-survey-2022",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Honduras Salud Mesoamérica Initiative Third Follow-Up Health Facility Survey 2022",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/honduras-salud-mesoam%C3%A9rica-initiative-third-follow-health-facility-survey-2022",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "El Salvador Salud Mesoamérica Initiative Third Follow-Up Health Facility Survey 2022",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/el-salvador-salud-mesoam%C3%A9rica-initiative-third-follow-health-facility-survey-2022",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Belize Salud Mesoamérica Initiative Third Follow-Up Health Facility Survey 2022",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/belize-salud-mesoam%C3%A9rica-initiative-third-follow-health-facility-survey-2022",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Nicaragua Salud Mesoamérica Initiative Third Follow-Up Household Survey 2022",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/nicaragua-salud-mesoam%C3%A9rica-initiative-third-follow-household-survey-2022",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Honduras Salud Mesoamérica Initiative Third Follow-Up Household Survey 2022",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/honduras-salud-mesoam%C3%A9rica-initiative-third-follow-household-survey-2022",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "El Salvador Salud Mesoamérica Initiative Third Follow-Up Household Survey 2022",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/el-salvador-salud-mesoam%C3%A9rica-initiative-third-follow-household-survey-2022",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Belize Salud Mesoamérica Initiative Third Follow-Up Household Survey 2022",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/belize-salud-mesoam%C3%A9rica-initiative-third-follow-household-survey-2022",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Panama Salud Mesoamérica Initiative Second Follow-Up Health Facility Survey 2018",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/panama-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2018",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Nicaragua Salud Mesoamérica Initiative Second Follow-Up Health Facility Survey 2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/nicaragua-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Mexico Salud Mesoamérica Initiative Second Follow-Up Health Facility Survey 2018",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/mexico-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2018",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Honduras Salud Mesoamérica Initiative Second Follow-Up Health Facility Survey 2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/honduras-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Guatemala Salud Mesoamérica Initiative Second Follow-Up Health Facility Survey 2018",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/guatemala-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2018",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "El Salvador Salud Mesoamérica Initiative Second Follow-Up Health Facility Survey 2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/el-salvador-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Belize Salud Mesoamérica Initiative Second Follow-Up Health Facility Survey 2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/belize-salud-mesoam%C3%A9rica-initiative-second-follow-health-facility-survey-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Panama Salud Mesoamérica Initiative Second Follow-Up Household Survey 2018",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/panama-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2018",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Nicaragua Salud Mesoamérica Initiative Second Follow-Up Household Survey 2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/nicaragua-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Mexico Salud Mesoamérica Initiative Second Follow-Up Household Survey 2018",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/mexico-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2018",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Honduras Salud Mesoamérica Initiative Second Follow-Up Household Survey 2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/honduras-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Guatemala Salud Mesoamérica Initiative Second Follow-Up Household Survey 2018",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/guatemala-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2018",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "El Salvador Salud Mesoamérica Initiative Second Follow-Up Household Survey 2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/el-salvador-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Costa Rica Salud Mesoamérica Initiative Second Follow-Up Household Survey 2018",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/costa-rica-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2018",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Belize Salud Mesoamérica Initiative Second Follow-Up Household Survey 2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/belize-salud-mesoam%C3%A9rica-initiative-second-follow-household-survey-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Pandemic Recovery Survey Indicators 2023",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/pandemic-recovery-survey-indicators-2023",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Anemia Prevalence and Years Lived with Disability by Cause 1990-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-anemia-prevalence-ylds",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "WHO Americas Region Bacterial Antimicrobial Resistance Burden Estimates 2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/who-region-americas-amr-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "United States Stomach Cancer Mortality Rates by County, Race, and Ethnicity 2000-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-stomach-cancer-mortality-by-county-race-ethnicity-2000-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "United States Mortality Rates by Causes of Death and Life Expectancy by County, Race, and Ethnicity 2000-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-causes-death-life-expectancy-by-county-race-ethnicity-2000-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Global Sustainable Development Goals (SDG) Intimate Partner Violence Indicator 1990-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-sustainable-development-goals-sdg-intimate-partner-violence-indicator-1990-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Nigeria DTP Vaccine Coverage Estimates 2000-2018",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/nigeria-dtp-vaccine-coverage-estimates-2000-2018",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "United States Maternal Mortality Ratio Estimates by Race and Ethnicity 1999-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-maternal-mortality-by-state-race-ethnicity-1999-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Global Burden of Disease Study 2021 (GBD 2021) Sickle Cell Disease Birth Incidence, Prevalence, and Mortality 2000-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-scd-birth-incidence-age-specific-prevalence-total-mortality",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Zero-Dose Diphtheria–Tetanus–Pertussis Vaccination Prevalence and Estimates of Overlap with Other Health Indicators",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/dtp-vaccines-zerodose-overlap",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "United States COVID-19 Resiliency Estimates 2020-2022",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/covid-19-resiliency-estimates-2020-2022",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Past SARS-CoV-2 Infection Protection Against Reinfection Systematic Review and Meta-Analysis Estimates",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/past-sars-cov-2-infection-protection-against-reinfection-systematic-review-meta-analysis-estimates",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Gross Domestic Product Per Capita 1960-2050 - FGH 2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-gdp-per-capita-1960-2050-fgh-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Global Expected Health Spending 2020-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-expected-health-spending-2020-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Global Health Spending 1995-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-health-spending-1995-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Development Assistance for Health Database 1990-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-database-1990-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Development Assistance for Health on COVID-19 2020-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-covid-2020-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Sub-Saharan Africa MenAfriVac Coverage Estimates 2010-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/sub-saharan-africa-menafrivac-estimates-2010-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Development Assistance for COVID-19 Vaccine Delivery 2020-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-covid-vaccine-delivery-2020-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Healthcare Access and Quality Index 1990-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2019-healthcare-access-and-quality-1990-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Sub-Saharan Africa HIV Prevalence Geospatial Estimates 2000-2018",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/sub-saharan-africa-hiv-prevalence-geospatial-estimates-2000-2018",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Global COVID-19 Estimates December 16, 2022 Release",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/covid-19-estimates-december-16-2022",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Global Burden of Disease (GBD) Cardiovascular Burden Estimates 1990 and 2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/cvd-1990-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Global Mortality from 33 Bacterial Pathogens Estimates 2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-mortality-33-bacterial-pathogens-estimates-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Risk Factors-Attributable Cancer Burden Estimates 2010–2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2019-risk-factors-attributable-cancer-burden-estimates",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 3
+    },
+    {
+      "title": "WHO European Region Bacterial Antimicrobial Resistance Burden Estimates 2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/who-european-region-bacterial-antimicrobial-resistance-burden-estimates-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Global Burden of Disease Study (GBD) Burden of Proof and Risk-Outcome Scores",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-risk-outcome-scores",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Burden of Malnutrition in Children with Orofacial Clefts Estimates 2000–2020",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/malnutrition-orofacial-clefts-estimates-2000-2020",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Africa and Yemen Onchocerciasis Prevalence Geospatial Estimates 2000-2018",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/africa-and-yemen-onchocerciasis-prevalence-geospatial-estimates-2000-2018",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Brazil Mortality, Relative Risks, and Excess Mortality Rate Estimates among People with Severe Mental Illness in the Public Health System 2000-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/brazil-mortality-relative-risks-excess-mortality-rate-estimates-smi-2000-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Contraceptive Prevalence Estimates 1970-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/contraceptive-prevalence-estimates-1970-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "United States Health Expenditure by State, Payer, and Type of Care, 2003-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-health-spending-by-state-payer-type-service-2003-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "United States Health Care Spending Effectiveness 1996-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-health-care-spending-effectiveness-1996-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "United States Mortality Rates and Life Expectancy by State, Race, and Ethnicity 1990-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-life-expectancy-by-state-white-black-hispanic-race-ethnicity-1990-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Rotavirus Vaccination Cost Effectiveness Estimates 2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/rotavirus-cost-effectiveness",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "United States Mortality Rates and Life Expectancy by County, Race, and Ethnicity 2000-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-life-expectancy-by-county-race-ethnicity-2000-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Global Dementia Care Spending and Future Spending Scenarios 2000-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-dementia-care-spending-and-future-spending-scenarios-2000-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Development Assistance for Human Resources for Health 1990-2020",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-human-resources-health-1990-2020",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Human Resources for Health 1990-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2019-human-resources-health-1990-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "SARS-CoV-2 Daily and Cumulative Infection Estimates 2019-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/covid_19_cumulative_infections",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "COVID-19 Excess Mortality Estimates 2020-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/covid_19_excess_mortality",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Low- and Middle-Income Country Vaccine Coverage Geospatial Estimates 2000-2020",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/lmic-vaccine-coverage-geospatial-estimates-2000-2020",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "COVID-19 Gender Equality Impact Estimates 2020-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/covid_19_gender_quality_impacts",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Pre-Vaccine Era COVID-19 Infection Fatality Ratio Estimates by Age, Time, and Location 2020-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/covid_19_infection_fatality_ratio",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Healthcare Access and Quality Index by Age 1990-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/haq-index-by-age-1990-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "COVID-19 Pandemic Preparedness - Infection Rate and Infection Fatality Ratio Estimates 2020-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/covid_19_pandemic_preparedness",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Global Bacterial Antimicrobial Resistance Burden Estimates 2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-bacterial-antimicrobial-resistance-burden-estimates-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "HPV Vaccination Cost Effectiveness Estimates",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/hpv-cost-effectiveness",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Tuberculosis Household Risk Exposure Estimates 2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/tuberculosis-household-risk-exposure-estimates-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Ipsos General Population COVID-19 Health Services Disruption Survey 2020",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/ipsos-general-population-covid-19-health-services-disruption-survey-2020",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Low- and Middle-Income Country Immunization Spending Estimates 2000-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/low-and-middle-income-country-immunization-spending-estimates-2000-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "United States Healthcare Spending in Emergency Departments by Health Condition 2006-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-healthcare-spending-emergency-departments-health-condition-2006-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Global Anemia Prevalence Geospatial Estimates 2000-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-anemia-prevalence-geospatial-estimates-2000-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Air Pollution Exposure Estimates 1990-2019",
+      "record_url": "https://ghdx.healthdata.org/record/global-burden-disease-study-2019-gbd-2019-air-pollution-exposure-estimates-1990-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) United States Fatal Police Violence by Race and State 1980-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2019-fatal-police-violence-by-race-and-state-1980-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Dietary Risk Exposure Estimates 1990-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2019-dietary-risk-exposure-estimates-1990-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Mortality Burden Attributable to Non-Optimal Temperature 1990-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/mortality-burden-attributable-non-optimal-temperature-1990-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Development Assistance for Health Database 1990-2020",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-database-1990-2020",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Gross Domestic Product Per Capita 1960-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-gdp-per-capita-1960-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Development Assistance for Health on COVID-19 2020",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-covid-2020",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Global Health Spending 1995-2018",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-health-spending-1995-2018",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Global Expected Health Spending 2019-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-expected-health-spending-2019-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Premise Women's Health COVID-19 Health Services Disruption Survey 2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/premise-womens-health-covid-19-health-services-disruption-survey-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Premise Malaria COVID-19 Health Services Disruption Survey 2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/premise-malaria-covid-19-health-services-disruption-survey-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Premise Infant and Maternal Health COVID-19 Health Services Disruption Survey 2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/premise-infant-health-covid-19-health-services-disruption-survey-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Premise General Population COVID-19 Health Services Disruption Survey 2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/premise-general-population-covid-19-health-services-disruption-survey-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Premise Education COVID-19 Health Services Disruption Survey 2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/premise-education-covid-19-health-services-disruption-survey-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Premise Child Health COVID-19 Health Services Disruption Survey 2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/premise-child-health-covid-19-health-services-disruption-survey-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "United States Healthcare Spending by Race and Ethnicity 2002-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-healthcare-spending-race-and-ethnicity-2002-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Low- and Middle-Income Country Primary Health Care Expenditures 2000-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/low-and-middle-income-country-primary-health-care-expenditures-2000-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Global Health Expenditures by Services and Providers 2000-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-health-expenditures-services-and-providers-2000-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Africa Onchocerciasis Environmental Suitability Geospatial Estimates",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/africa-onchocerciasis-environmental-suitability-geospatial-estimates",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Global COVID-19 Routine Childhood Vaccination Disruption 2020",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-covid-19-routine-childhood-vaccination-disruption-2020",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Global Burden of Disease Study 2020, Release 1 (GBD 2020 R1) Routine Childhood Vaccination Coverage 1980-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2020-routine-childhood-vaccination-coverage-1980-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Global Exclusive Breastfeeding Prevalence Geospatial Estimates 2000-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-exclusive-breastfeeding-prevalence-geospatial-estimates-2000-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 4
+    },
+    {
+      "title": "Sub-Saharan Africa HIV Incidence and Mortality Geospatial Estimates 2000-2018",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/sub-saharan-africa-hiv-incidence-mortality-geospatial-estimates-2000-2018",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Young People Smoking Prevalence and Initiation Age 1990-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-young-people-smoking-prevalence-and-initiation-age-1990-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Chewing Tobacco Use Prevalence 1990-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2019-chewing-tobacco-use-prevalence-1990-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Smoking Tobacco Use Prevalence 1990-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2019-smoking-tobacco-use-prevalence-1990-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Sustainable Development Goals (SDG) Intimate Partner Violence Indicator 1990-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-sustainable-development-goals-sdg-intimate-partner-violence-indicator-1990-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Mexico - Yucatán Under-5 Endline Household Survey 2020",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/mexico-yucat%C3%A1n-under-5-endline-household-survey-2020",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Mexico - Yucatán Under-5 Baseline Household Survey 2020",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/mexico-yucat%C3%A1n-under-5-baseline-household-survey-2020",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Tobacco Control and Smoking Prevalence Scenarios 2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-tobacco-control-and-smoking-prevalence-scenarios-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Latin American Country HIV Mortality Geospatial Estimates by Age and Sex 2000-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/latin-america-hiv-mortality-geospatial-estimates-2000-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Senegal, Mali, and Sierra Leone Oral Rehydration Therapy Geospatial Estimates 2000-2018",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/senegal-mali-and-sierra-leone-oral-rehydration-therapy-geospatial-estimates-2000-2018",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Under-5 Mortality by Detailed Age Groups 1950-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-burden-disease-study-2019-gbd-2019-under-5-mortality-detailed-age-groups-1950-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Low- and Middle-Income Country MCV1 Coverage Geospatial Estimates 2000-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/lmic-mcv1-coverage-geospatial-estimates-2000-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "ORB General Population COVID-19 Health Services Disruption Survey 2020",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/orb-general-population-covid-19-health-services-disruption-survey-2020",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Premise Malaria COVID-19 Health Services Disruption Survey 2020",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/premise-malaria-covid-19-health-services-disruption-survey-2020",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Premise Women’s Health COVID-19 Health Services Disruption Survey 2020",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/premise-women%E2%80%99s-health-covid-19-health-services-disruption-survey-2020",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Premise Infant and Maternal Health COVID-19 Health Services Disruption Survey 2020",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/premise-infant-and-maternal-health-covid-19-health-services-disruption-survey-2020",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Premise Child Health COVID-19 Health Services Disruption Survey 2020",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/premise-child-health-covid-19-health-services-disruption-survey-2020",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Premise General Population COVID-19 Health Services Disruption Survey 2020",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/premise-general-population-covid-19-health-services-disruption-survey-2020",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Improving Methods to Measure Comparable Mortality by Cause - Gold Standard Verbal Autopsy Data 2011-2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/IMMCMC-gold-standard-verbal-autopsy-data-2011-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Demographics 1950-2019",
+      "record_url": "https://ghdx.healthdata.org/record/global-burden-disease-study-2019-gbd-2019-demographics-1950-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Disease and Injury Burden 1990-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2019-disease-and-injury-burden-1990-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Burden by Risk 1990-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2019-burden-by-risk-1990-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Particulate Matter Risk Curves",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-burden-disease-study-2019-gbd-2019-particulate-matter-risk-curves",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Reference Life Table",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-burden-disease-study-2019-gbd-2019-reference-life-table",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Life Expectancy and Healthy Life Expectancy 1990-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihmde-data/gbd-2019-life-expectancy-HALE-1990-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Population Estimates 1950-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2019-population-estimates-1950-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Fertility Estimates 1950-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2019-fertility-estimates-1950-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Migration Estimates 1950-2018",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2019-migration-estimates-1950-2018",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "United States COVID-19 Scenarios 2020-2021",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-covid-19-scenarios-2020-2021",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Under-5 Mortality and Adult Mortality 1950-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2019-mortality-estimates-1950-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Life Tables 1950-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2019-life-tables-1950-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Socio-Demographic Index (SDI) 1950–2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2019-socio-demographic-index-sdi-1950-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Cause List Mapped to ICD Codes",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2019-cause-icd-code-mappings",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Disability Weights",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2019-disability-weights",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Relative Risks",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2019-relative-risks",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Cause, REI, and Location Hierarchies",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2019-cause-rei-and-location-hierarchies",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) Covariates 1980-2019",
+      "record_url": "https://ghdx.healthdata.org/record/global-burden-disease-study-2019-gbd-2019-covariates-1980-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "United States Health-Care Spending Attributable to Modifiable Risk Factors 2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-health-care-spending-attributable-modifiable-risk-factors-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Child Growth Failure Geospatial Estimates 2000-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-child-growth-failure-geospatial-estimates-2000-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Malaria Incidence, Prevalence, and Mortality Geospatial Estimates 2000-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-malaria-incidence-prevalence-mortality-geospatial-estimates-2000-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Under-5 Diarrhea Incidence, Prevalence, and Mortality Geospatial Estimates 2000-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-under-5-diarrhea-incidence-prevalence-mortality-geospatial-estimates-2000-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Under-5 Overweight Prevalence Geospatial Estimates 2000-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-under-5-overweight-prevalence-geospatial-estimates-2000-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Burden of Disease Study 2019 (GBD 2019) UHC Effective Coverage Index 1990-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2019-uhc-effective-coverage-index-1990-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Lymphatic Filariasis Prevalence Geospatial Estimates 2000-2018",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-lymphatic-filariasis-prevalence-geospatial-estimates-2000-2018",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Low- and Middle-Income Country Drinking Water and Sanitation Facilities Access Geospatial Estimates 2000-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/lmic-wash-access-geospatial-estimates-2000-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Rift Valley Fever Environmental Suitability and Spillover Potential Geospatial Estimates",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/rvf-environmental-suitability-and-spillover-potential-geospatial-estimates",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Low- and Middle-Income Country Oral Rehydration Therapy Coverage Geospatial Estimates 2000-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/lmic-oral-rehydration-therapy-coverage-geospatial-estimates-2000-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Fertility, Mortality, Migration, and Population Forecasts 2017-2100",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-population-forecasts-2017-2100",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Sub-Saharan Africa Male Circumcision Geospatial Estimates 2000-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/sub-saharan-africa-male-circumcision-geospatial-estimates-2000-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Low- and Middle-Income Country Under-5 Diarrhea Incidence, Prevalence, and Mortality Geospatial Estimates 2000-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/lmic-under-5-diarrhea-incidence-prevalence-and-mortality-geospatial-estimates-2000-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 5
+    },
+    {
+      "title": "Global Tuberculosis Spending 2000-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-tuberculosis-spending-2000-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Global Malaria Spending 2000-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-malaria-spending-2000-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Global HIV/AIDS Spending 2000-2017",
+      "record_url": "https://ghdx.healthdata.org/record/global-hivaids-spending-2000-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Global Health Spending 1995-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-health-spending-1995-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Global Expected Health Spending 2018-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-expected-health-spending-2018-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Development Assistance for Health Database 1990-2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-database-1990-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Low- and Middle-Income Country Childhood Overweight and Wasting Geospatial Estimates 2000-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/lmic-double-burden-of-malnutrition-geospatial-estimates-2000-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Global Educational Attainment Distributions 1970-2030",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-educational-attainment-distributions-1970-2030",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "European Economic Area COVID-19 Hospital Needs and Death Projections 2020-2022",
+      "record_url": "https://ghdx.healthdata.org/record/european-economic-area-covid-19-hospital-needs-and-death-projections-2020-2022",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "United States COVID-19 Hospital Needs and Death Projections 2020-2022",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-covid-19-hospital-needs-and-death-projections",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "China HeartRescue Global Evaluation Baseline Health Facility Survey 2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/china-heartrescue-global-evaluation-baseline-health-facility-survey-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "China HeartRescue Global Evaluation Baseline Household Survey 2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/china-heartrescue-global-evaluation-baseline-household-survey-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "India HeartRescue Global Evaluation Baseline Household Survey 2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/india-heartrescue-global-evaluation-baseline-household-survey-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "India HeartRescue Global Evaluation Baseline Emergency Medical Service Survey 2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/india-heartrescue-global-evaluation-baseline-emergency-medical-service-survey-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Brazil HeartRescue Global Evaluation Baseline Health Facility and EMS Survey 2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/brazil-heartrescue-global-evaluation-baseline-health-facility-and-ems-survey-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Brazil HeartRescue Global Evaluation Baseline Household Survey 2019",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/brazil-heartrescue-global-evaluation-baseline-household-survey-2019",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "United States Health Care Spending by Payer and Health Condition 1996-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-health-care-spending-payer-and-health-condition-1996-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Mexico - Yucatán Under 5 Verbal Autopsy and Medical Record Review Survey 2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/mexico-yucatan-under-5-verbal-autopsy-medical-record-review-survey-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Brazil HealthRise Household Survey 2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/brazil-healthrise-household-survey-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "India HealthRise Baseline Health Facility Survey 2014-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/india-healthrise-baseline-health-facility-survey-2014-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Low- and Middle-Income Country Child Growth Failure Geospatial Estimates 2000-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/lmic-child-growth-failure-geospatial-estimates-2000-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Low- and Middle-Income Country Educational Attainment Geospatial Estimates 2000-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/lmic-education-geospatial-estimates-2000-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "South Africa HealthRise Endline Health Facility Survey 2018",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/south-africa-healthrise-endline-health-facility-survey-2018",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "India HealthRise Endline Health Facility Survey 2018",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/india-healthrise-endline-health-facility-survey-2018",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Low- and Middle-Income Country Neonatal, Infant, and Under-5 Mortality Geospatial Estimates 2000-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/lmic-under5-mortality-rate-geospatial-estimates-2000-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Africa Under-5 Lower Respiratory Infection Incidence, Prevalence, and Mortality Geospatial Estimates 2000-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/africa-under-5-lri-incidence-prevalence-mortality-geospatial-estimates-2000-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Africa – Travel Time to Health Facilities and Viral Hemorrhagic Fever Outbreak Preparedness",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/travel-time-health-facilities-vhf-outbreak-preparedness-africa",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Africa Exclusive Breastfeeding Prevalence Geospatial Estimates 2000-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/africa-exclusive-breastfeeding-prevalence-geospatial-estimates-2000-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Geopositioned Middle East Respiratory Syndrome Coronavirus Occurrences Database 1983-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/geopositioned-mers-cov-occurrences-database-1983-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Global Geo-Referenced Dengue Occurrence Database 1960-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-geo-referenced-dengue-occurrence-database-1960-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Onchocerciasis Prevalence Geopositioned Database",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/onchocerciasis-prevalence-geopositioned-database",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Africa HIV Prevalence Geospatial Estimates 2000-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/africa-hiv-prevalence-geospatial-estimates-2000-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Global HIV/AIDS Spending 2000-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-hivaids-spending-2000-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Global Expected Health Spending 2017-2050",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-expected-health-spending-2017-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Global Health Spending 1995-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-health-spending-1995-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Development Assistance for Health Database 1990-2018",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-database-1990-2018",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Global Malaria Spending 2000-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-malaria-spending-2000-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Africa Diphtheria-Pertussis-Tetanus Vaccine Coverage Geospatial Estimates 2000-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/africa-diphtheria-pertussis-tetanus-vaccine-coverage-geospatial-estimates-2000-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Panama Salud Mesoamérica Initiative First Follow-Up Health Facility Survey 2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/panama-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Nicaragua Salud Mesoamérica Initiative First Follow-Up Health Facility Survey 2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/nicaragua-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Honduras Salud Mesoamérica Initiative First Follow-Up Health Facility Survey 2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/honduras-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Guatemala Salud Mesoamérica Initiative First Follow-up Health Facility Survey 2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/guatemala-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "El Salvador Salud Mesoamérica Initiative First Follow-Up Health Facility Survey 2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/el-salvador-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Costa Rica Salud Mesoamérica Initiative Health Facility Survey 2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/costa-rica-salud-mesoam%C3%A9rica-initiative-health-facility-survey-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Belize Salud Mesoamérica Initiative First Follow-Up Health Facility Survey 2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/belize-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Mexico Salud Mesoamérica Initiative First Follow-Up Health Facility Survey 2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/mexico-salud-mesoam%C3%A9rica-initiative-first-follow-health-facility-survey-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Costa Rica Salud Mesoamérica Initiative Baseline School Survey 2013-2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/costa-rica-salud-mesoam%C3%A9rica-initiative-baseline-school-survey-2013-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "El Salvador Salud Mesoamérica Initiative Baseline Health Facility Survey 2011",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/el-salvador-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2011",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Panama Salud Mesoamérica Initiative Baseline Health Facility Survey 2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/panama-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Nicaragua Salud Mesoamérica Initiative Baseline Health Facility Survey 2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/nicaragua-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 6
+    },
+    {
+      "title": "Honduras Salud Mesoamérica Initiative Baseline Health Facility Survey 2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/honduras-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Guatemala Salud Mesoamérica Initiative Baseline Health Facility Survey 2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/guatemala-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Belize Salud Mesoamérica Initiative Baseline Health Facility Survey 2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/belize-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Mexico Salud Mesoamérica Initiative Baseline Health Facility Survey 2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/mexico-salud-mesoam%C3%A9rica-initiative-baseline-health-facility-survey-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Panama Salud Mesoamérica Initiative Baseline Census and Household Survey 2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/panama-salud-mesoam%C3%A9rica-initiative-baseline-census-and-household-survey-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Nicaragua Salud Mesoamérica Initiative Baseline Census and Household Survey 2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/nicaragua-salud-mesoam%C3%A9rica-initiative-baseline-census-and-household-survey-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Honduras Salud Mesoamérica Initiative Baseline Census and Household Survey 2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/honduras-salud-mesoam%C3%A9rica-initiative-baseline-census-and-household-survey-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "El Salvador Salud Mesoamérica Initiative Baseline Census and Household Survey 2011",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/el-salvador-salud-mesoam%C3%A9rica-initiative-baseline-census-and-household-survey-2011",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Guatemala Salud Mesoamérica Initiative Baseline Census and Household Survey 2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/guatemala-salud-mesoam%C3%A9rica-initiative-baseline-census-and-household-survey-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Belize Salud Mesoamérica Initiative Baseline LQAS Survey 2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/belize-salud-mesoam%C3%A9rica-initiative-baseline-lqas-survey-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Mexico Salud Mesoamérica Initiative Baseline Census and Household Survey 2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/mexico-salud-mesoam%C3%A9rica-initiative-baseline-census-and-household-survey-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Birth Registration Database 1948-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-birth-registration-database-1948-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Inpatient and Outpatient Health Care Utilization, Unit Costs, and Costs and Services Needed to Achieve Universal Health Coverage 1990-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/UHC-cost-and-services-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Burden of Disease Study 2016 (GBD 2016) Tuberculosis Burden 1990-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2016-tuberculosis-burden-1990-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Burden of Disease Study 2017 (GBD 2017) Population and Fertility 1950-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2017-population-and-fertility-1950-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Burden of Disease Study 2017 (GBD 2017) All-cause Mortality and Life Expectancy 1950-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2017-all-cause-mortality-and-life-expectancy-1950-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Burden of Disease Study 2017 (GBD 2017) Cause-Specific Mortality 1980-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2017-cause-specific-mortality-1980-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Burden of Disease Study 2017 (GBD 2017) Incidence, Prevalence, and Years Lived with Disability 1990-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2017-incidence-prevalence-and-ylds-1990-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Burden of Disease Study 2017 (GBD 2017) Disability-Adjusted Life Years and Healthy Life Expectancy 1990-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2017-dalys-and-hale-1990-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Burden of Disease Study 2017 (GBD 2017) Burden by Risk 1990-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2017-burden-risk-1990-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Burden of Disease Study 2017 (GBD 2017) Health-related Sustainable Development Goals (SDG) Indicators 1990-2030",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2017-health-related-sdgs-1990-2030",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Burden of Disease Study 2017 (GBD 2017) Population Estimates 1950-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2017-population-estimates-1950-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Burden of Disease Study 2017 (GBD 2017) Fertility Estimates 1950-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2017-fertility-estimates-1950-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Burden of Disease Study 2017 (GBD 2017) Socio-Demographic Index (SDI) 1950–2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2017-socio-demographic-index-sdi-1950%E2%80%932017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Burden of Disease Study 2017 (GBD 2017) Reference Life Table",
+      "record_url": "https://ghdx.healthdata.org/record/global-burden-disease-study-2017-gbd-2017-reference-life-table",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Burden of Disease Study 2017 (GBD 2017) Life Tables 1950-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2017-life-tables-1950-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Burden of Disease Study 2017 (GBD 2017) Causes of Death and Nonfatal Causes Mapped to ICD Codes",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2017-cause-icd-code-mappings",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Burden of Disease Study 2017 (GBD 2017) Cause, REI, and Location Hierarchies",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2017-cause-rei-and-location-hierarchies",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Burden of Disease Study 2017 (GBD 2017) Disability Weights",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2017-disability-weights",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Burden of Disease Study 2017 (GBD 2017) Covariates 1980-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2017-covariates-1980-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Tuberculosis Molecular Epidemiology Systematic Review Dataset",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-tuberculosis-molecular-epidemiology-systematic-review-dataset",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Life Expectancy, All-Cause Mortality, and Cause-Specific Mortality Forecasts 2016-2040",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-life-expectancy-all-cause-mortality-and-cause-specific-mortality-forecasts-2016-2040",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Human Capital Estimates 1990-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-human-capital-estimates-1990-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Africa Under-5 Diarrhea Incidence, Prevalence, and Mortality Geospatial Estimates 2000-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/africa-under-5-diarrhea-incidence-prevalence-and-mortality-geospatial-estimates-2000-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Brazil HIV and Tuberculosis Mortality Rates by Municipality 2001-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/brazil-hiv-and-tuberculosis-mortality-rates-municipality-2001-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Burden of Disease Study 2016 (GBD 2016) Alcohol Use Estimates 1990-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2016-alcohol-use-estimates-1990-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Snakebite Envenoming Vulnerability Estimates",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-snakebite-envenoming-vulnerability-estimates",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Burden of Disease Study 2016 (GBD 2016) Cancer Incidence, Mortality, Years of Life Lost, Years Lived with Disability, and Disability-Adjusted Life Years 1990-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2016-cancer-incidence-mortality-years-life-lost-years",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Burden of Disease Study 2016 (GBD 2016) Healthcare Access and Quality Index Based on Amenable Mortality 1990–2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2016-healthcare-access-and-quality-index-1990-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Expected Health Spending 2016-2040",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-expected-health-spending-2016-2040",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global HIV/AIDS Spending 2000-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-hivaids-spending-2000-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Global Health Spending 1995-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-health-spending-1995-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Development Assistance for Health Database 1990-2017",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-database-1990-2017",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "Zambia Gavi FCE Health Facility Survey 2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/zambia-gavi-fce-health-facility-survey-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "United States Infectious Disease Mortality Rates by County 1980-2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-infectious-disease-mortality-rates-county-1980-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "India - Tamil Nadu Access, Bottlenecks, Costs, and Equity Project 2012-2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/india-tamil-nadu-access-bottlenecks-costs-and-equity-project-2012-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "India - Odisha Access, Bottlenecks, Costs, and Equity Project 2014-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/india-odisha-access-bottlenecks-costs-and-equity-project-2014-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "India - Madhya Pradesh Access, Bottlenecks, Costs, and Equity Project 2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/india-madhya-pradesh-access-bottlenecks-costs-and-equity-project-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "India - Gujarat Access, Bottlenecks, Costs, and Equity Project 2015-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/india-gujarat-access-bottlenecks-costs-and-equity-project-2015-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "India - Andhra Pradesh and Telangana Access, Bottlenecks, Costs, and Equity Project 2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/india-andhra-pradesh-and-telangana-access-bottlenecks-costs-and-equity-project-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 7
+    },
+    {
+      "title": "United States Substance Use Disorders and Intentional Injuries Mortality Rates by County 1980-2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-substance-use-disorders-intentional-injuries-mortality-rates-county-1980-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "South Africa HealthRise Baseline Health Facility Survey 2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/south-africa-healthrise-health-facility-survey-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Africa Child Growth Failure Geospatial Estimates 2000-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/africa-child-growth-failure-geospatial-estimates-2000-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Africa Educational Attainment Geospatial Estimates 2000-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/africa-educational-attainment-geospatial-estimates-2000-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Child Growth Failure Visualization - Input Data",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/child-growth-failure-visualization-input-data",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Africa Viral Hemorrhagic Fever Pandemic Potential Estimates",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/africa-viral-hemorrhagic-fever-pandemic-potential-estimates",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Africa Under-5 and Neonatal Mortality Geospatial Estimates 2000-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/africa-under-5-and-neonatal-mortality-geospatial-estimates-2000-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Global Burden of Disease Study 2016 (GBD 2016) Burden by Risk 1990-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2016-burden-risk-1990-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Global Burden of Disease Study 2016 (GBD 2016) Disability-Adjusted Life Years and Healthy Life Expectancy 1990-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2016-dalys-and-hale-1990-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Global Burden of Disease Study 2016 (GBD 2016) Incidence, Prevalence, and Years Lived with Disability 1990-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2016-incidence-prevalence-and-ylds-1990-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Global Burden of Disease Study 2016 (GBD 2016) Cause-Specific Mortality 1980-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2016-cause-specific-mortality-1980-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Global Burden of Disease Study 2016 (GBD 2016) All-cause Under-5 Mortality, Adult Mortality, and Life Expectancy 1970-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2016-all-cause-under-5-mortality-adult-mortality-and-life-expectancy-1970-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Global Burden of Disease Study 2016 (GBD 2016) Health-related Sustainable Development Goals (SDG) Indicators 1990-2030",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2016-health-related-sdgs-1990-2030",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Global Burden of Disease Study 2016 (GBD 2016) Disability Weights",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2016-disability-weights",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Global Burden of Disease Study 2016 (GBD 2016) Location Hierarchies",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2016-location-hierarchies",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Global Burden of Disease Study 2016 (GBD 2016) Causes of Death and Nonfatal Causes Mapped to ICD Codes",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2016-cause-icd-code-mappings",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Global Burden of Disease Study 2016 (GBD 2016) Population Estimates 1950-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2016-population-estimates-1950-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Global Burden of Disease Study 2016 (GBD 2016) Socio-Demographic Index (SDI) 1970–2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2016-socio-demographic-index-sdi-1970%E2%80%932016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Global Burden of Disease Study 2016 (GBD 2016) 45q15 Death Distribution Methods (DDM) Data Input Sources",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2016-45q15-death-distribution-methods-ddm-data-input",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Global Burden of Disease Study 2016 (GBD 2016) Reference Life Table",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2016-reference-life-table",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Global Burden of Disease Study 2016 (GBD 2016) Covariates 1980-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2016-covariates-1980-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Global Expected Health Spending 2015-2040",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-expected-health-spending-2015-2040",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Global Health Spending 1995-2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-health-spending-1995-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Development Assistance for Health Database 1990-2016",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-database-1990-2016",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "United States Children's Personal Health Care Spending 1996-2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-childrens-personal-health-care-spending-1996-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "United States Personal Health Care and Public Health Spending 1996-2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-personal-health-care-and-public-health-spending-1996-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Development Assistance for Health Database 1990-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-database-1990-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Development Assistance for Health Database 1990-2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-database-1990-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Development Assistance for Health for Faith-Based Organizations 1990-2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-faith-based-organizations-1990-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "United States Alcohol Use Prevalence by County 2002-2012",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-alcohol-use-prevalence-county-2002-2012",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Development Assistance for Health Database 1990-2011",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-database-1990-2011",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Development Assistance for Health Country and Regional Recipient Level Database 1990-2010",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-country-and-regional-recipient-level-database-1990-2010",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Development Assistance for Health Database 1990-2010",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-database-1990-2010",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "IHME Formatted USAID VolAg Database 1990-2008",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/ihme-formatted-usaid-volag-database-1990-2008",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Development Assistance for Health Database 1990-2009",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-database-1990-2009",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Development Assistance for Health Country and Regional Recipient Level Database 1990-2009",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-country-and-regional-recipient-level-database-1990-2009",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "IHME Formatted USAID VolAg Database 1990-2007",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/ihme-formatted-usaid-volag-database-1990-2007",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Development Assistance for Health Country and Regional Recipient Level Database 1990-2008",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-country-and-regional-recipient-level-database-1990-2008",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Public Financing of Health (Developing Country) Estimates 1995-2006",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/public-financing-health-developing-country-estimates-1995-2006",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Development Assistance for Health Database 1990-2008",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-database-1990-2008",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Development Assistance for Health Estimates 1990-2010 Tables",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-estimates-1990-2010-tables",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Uganda Gavi FCE Household Survey 2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/uganda-gavi-fce-household-survey-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Uganda Gavi FCE Health Facility Survey 2014-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/uganda-gavi-fce-health-facility-survey-2014-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "United States Chronic Respiratory Disease Mortality Rates by County 1980-2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-chronic-respiratory-disease-mortality-rates-county-1980-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "United States - King County, Washington Life Expectancy and Cause-Specific Mortality by Census Tract 1990-2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-king-county-washington-census-tract-life-expectancy-cause-specific-mortality-1989-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Bangladesh Gavi FCE Patient Exit Interview Survey 2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/bangladesh-gavi-fce-patient-exit-interview-survey-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Bangladesh Gavi FCE Health Facility Survey 2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/bangladesh-gavi-fce-health-facility-survey-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Global Burden of Disease Study 2015 (GBD 2015) Obesity and Overweight Prevalence 1980-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2015-obesity-and-overweight-prevalence-1980-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Bangladesh Gavi FCE Measles-Rubella Pre-Vaccine Campaign Household Survey 2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/bangladesh-gavi-fce-measles-rubella-pre-vaccine-campaign-household-survey-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "Global Burden of Disease Study 2015 (GBD 2015) Healthcare Access and Quality Index Based on Amenable Mortality 1990–2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2015-healthcare-access-and-quality-index-1990-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 8
+    },
+    {
+      "title": "United States Cardiovascular Disease Mortality Rates by County 1980-2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-cardiovascular-disease-mortality-rates-county-1980-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "United States Life Expectancy and Age-specific Mortality Risk by County 1980-2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-life-expectancy-and-age-specific-mortality-risk-county-1980-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2015 (GBD 2015) Smoking Prevalence 1980-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2015-smoking-prevalence-1980-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2015 (GBD 2015) Location Hierarchies",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2015-location-hierarchies",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "United States Cancer Mortality Rates by County 1980-2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-cancer-mortality-rates-county-1980-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2015 (GBD 2015) Hypertension and Systolic Blood Pressure of at Least 110 to 115 mm HG 1990-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2015-hypertension-and-high-systolic-blood-pressure-1990-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2015 (GBD 2015) Cancer Incidence, Mortality, Years of Life Lost, Years Lived with Disability, and Disability-Adjusted Life Years 1990-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2015-cancer-incidence-mortality-ylls-ylds-dalys-1990-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "United States Mortality Rates by County 1980-2014",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-mortality-rates-county-1980-2014",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "United States Diabetes Prevalence by County 1999-2012",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-diabetes-prevalence-county-1999-2012",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2015 (GBD 2015) Reference Life Table",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2015-reference-life-table",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2015 (GBD 2015) Causes of Death and Nonfatal Causes Mapped to ICD Codes",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2015-cause-icd-code-mappings",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2015 (GBD 2015) Socio-Demographic Index (SDI) 1980–2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2015-socio-demographic-index-sdi-1980%E2%80%932015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2015 (GBD 2015) Covariates 1980-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2015-covariates-1980-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2015 (GBD 2015) Disability Weights",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2015-disability-weights",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2015 (GBD 2015) Population Estimates 1970-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2015-population-estimates-1970-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2015 (GBD 2015) HIV Incidence, Prevalence, and Mortality 1980-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2015-hiv-incidence-prevalence-and-mortality-1980-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2015 (GBD 2015) Maternal Mortality 1990-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2015-maternal-mortality-1990-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2015 (GBD 2015) Stillbirths, Neonatal, Infant, and Under-5 Mortality 1980-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2015-stillbirths-neonatal-infant-and-under-5-mortality-1980-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2015 (GBD 2015) Risk Factor Results 1990-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2015-risk-factor-results-1990-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2015 (GBD 2015) Disability-Adjusted Life Years and Healthy Life Expectancy 1990-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2015-dalys-hale-1990-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2015 (GBD 2015) Incidence, Prevalence, and Years Lived with Disability 1990-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2015-incidence-prevalence-and-ylds-1990-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2015 (GBD 2015) Life Expectancy, All-Cause and Cause-Specific Mortality 1980-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2015-life-expectancy-all-cause-and-cause-specific-mortality-1980-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2015 (GBD 2015) Health-related Sustainable Development Goals (SDG) Indicators 1990-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2015-health-related-sdgs-1990-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Improving Methods to Measure Comparable Mortality by Cause - PHMRC Shortened Questionnaire Open and Closed Response Sections 2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/immcmc-project-phmrc-shortened-questionnaire-open-and-closed-response-sections-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Improving Methods to Measure Comparable Mortality by Cause - Verbal Autopsy Timing Data 2010-2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/immcmc-project-verbal-autopsy-timing-data-2010-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "The Potential to Expand Antiretroviral Therapy by Improving Health Facility Efficiency: Evidence From Kenya, Uganda, And Zambia",
+      "record_url": "https://ghdx.healthdata.org/record/potential-expand-antiretroviral-therapy-improving-health-facility-efficiency-evidence-kenya",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Efficiency Simulation of Health Production in Low- to Middle-Income Countries",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/efficiency-simulation-health-production-low-middle-income-countries",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Uganda Malaria Control Policy Assessment Results 1990-2011",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/uganda-malaria-control-policy-assessment-results-1990-2011",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "United Kingdom - England Global Burden of Disease Study 2013 (GBD 2013) Results 1990-2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-kingdom-england-gbd-2013-results-1990-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2013 (GBD 2013) Risk Factor Results 1990-2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2013-risk-factor-results-1990-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2013 (GBD 2013) Disability-Adjusted Life Years 1990-2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2013-dalys-1990-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Nigeria Maternal and Child Health Results 2000-2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/nigeria-maternal-and-child-health-results-2000-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2013 (GBD 2013) Cancer Burden 1990-2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2013-cancer-burden-1990-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2013 (GBD 2013) Incidence, Prevalence, and Years Lived with Disability 1990-2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2013-incidence-prevalence-and-ylds-1990-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Educational Attainment 1970-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-educational-attainment-1970-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Zambia Access, Bottlenecks, Costs, and Equity Project 2011-2012",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/zambia-access-bottlenecks-costs-and-equity-project-2011-2012",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Uganda Access, Bottlenecks, Costs, and Equity Project 2012",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/uganda-access-bottlenecks-costs-and-equity-project-2012",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Kenya Access, Bottlenecks, Costs, and Equity Project 2012",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/kenya-access-bottlenecks-costs-and-equity-project-2012",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Ghana Access, Bottlenecks, Costs, and Equity Project 2012",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/ghana-access-bottlenecks-costs-and-equity-project-2012",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2013 (GBD 2013) HIV, Tuberculosis, and Malaria Incidence, Prevalence, and Mortality 1990-2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2013-hiv-tuberculosis-and-malaria-incidence-prevalence-and-mortality-1990-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2013 (GBD 2013) Age-Sex Specific All-Cause and Cause-Specific Mortality 1990-2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2013-all-cause-and-cause-specific-mortality-1990-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2013 (GBD 2013) Neonatal, Infant, and Under-5 Mortality 1990-2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2013-neonatal-infant-and-under-5-mortality-1990-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2013 (GBD 2013) Maternal Mortality Levels and Causes 1990-2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2013-maternal-mortality-levels-and-causes-1990-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2013 (GBD 2013) Obesity Prevalence 1990-2013",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2013-obesity-prevalence-1990-2013",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "United States Adult Congenital Heart Disease Estimates 1970-2050",
+      "record_url": "https://ghdx.healthdata.org/record/united-states-adult-congenital-heart-disease-estimates-1970-2050",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Zambia Malaria Control Policy Assessment Results 1990-2010",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/zambia-malaria-control-policy-assessment-results-1990-2010",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "United States Smoking Prevalence by County 1996-2012",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-smoking-prevalence-county-1996-2012",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Smoking Prevalence and Cigarette Consumption 1980-2012",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/global-smoking-prevalence-and-cigarette-consumption-1980-2012",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Population Health Metrics Research Consortium Gold Standard Verbal Autopsy Data 2005-2011",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/population-health-metrics-research-consortium-gold-standard-verbal-autopsy-data-2005-2011",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Global Burden of Disease Study 2010 (GBD 2010) - Ambient Air Pollution Risk Model 1990 - 2010",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2010-ambient-air-pollution-risk-model-1990-2010",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 9
+    },
+    {
+      "title": "Burden of HIV/AIDS by country 1990-2010",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/burden-hivaids-country-1990-2010",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "United States Physical Activity and Obesity Prevalence by County 2001-2011",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-physical-activity-and-obesity-prevalence-county-2001-2011",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "United States Life Expectancy Estimates by County 1985-2010",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-life-expectancy-estimates-county-1985-2010",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "United States Global Burden of Disease Results 1990-2010",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2010-united-states-1990-2010",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "Global Burden of Disease Study 2010 (GBD 2010) United Kingdom Results by Cause and Risk Factor 1990-2010",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2010-united-kingdom-results-cause-and-risk-factor-1990-2010",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "United States Hypertension Estimates by County 2001-2009",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-hypertension-estimates-county-2001-2009",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "Global Burden of Disease Study 2010 (GBD 2010) Population Estimates 1970-2010",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2010-population-estimates-1970-2010",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "Global Burden of Disease Study 2010 (GBD 2010) Results by Cause 1990-2010",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2010-results-cause-1990-2010",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "Global Burden of Disease Study 2010 (GBD 2010) Results by Risk Factor 1990-2010",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2010-results-risk-factor-1990-2010",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "Global Burden of Disease Study 2010 (GBD 2010) Life Expectancy and Healthy Life Expectancy 1970-2010",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2010-life-expectancy-and-healthy-life-expectancy-1970-2010",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "Global Burden of Disease Study 2010 (GBD 2010) Mortality Results 1970-2010",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2010-mortality-results-1970-2010",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "Global Burden of Disease Study 2010 (GBD 2010) Disability Weights",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2010-disability-weights",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "Mortality in Iraq Associated with the 2003-2011 Invasion and Occupation",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/mortality-iraq-associated-2003-2011-invasion-and-occupation",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "United States Estimates of Weight Change and Obesity Prevalence 2008-2009",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-estimates-weight-change-and-obesity-prevalence-2008-2009",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "Gross Domestic Product (GDP) Estimates by Country 1950-2015",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/gross-domestic-product-gdp-estimates-country-1950-2015",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "United States Adult Life Expectancy by State and County 1987-2009",
+      "record_url": "https://ghdx.healthdata.org/record/united-states-adult-life-expectancy-state-and-county-1987-2009",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "Malaria Mortality Estimates by Country 1980-2010",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/malaria-mortality-estimates-country-1980-2010",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "Breast and Cervical Cancer Incidence and Mortality Estimates by Country 1980-2010",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/breast-and-cervical-cancer-incidence-and-mortality-estimates-country-1980-2010",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "Child Mortality Estimates and MDG 4 Attainment by Country 1990-2011",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/child-mortality-estimates-and-mdg-4-attainment-country-1990-2011",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "Maternal Mortality Estimates and MDG 5 Attainment by Country 1990-2011",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/maternal-mortality-estimates-and-mdg-5-attainment-country-1990-2011",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "United States Adult Life Expectancy by County 1987-2007",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-adult-life-expectancy-county-1987-2007",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "Hepatitis C Prevalence 1990 and 2005 - All GBD Regions",
+      "record_url": "https://ghdx.healthdata.org/record/hepatitis-c-prevalence-1990-and-2005-all-gbd-regions",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "High Cholesterol Survey Review for 8 Countries",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/high-cholesterol-survey-review-8-countries",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "Japan Systolic Blood Pressure 1986-2002",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/japan-systolic-blood-pressure-1986-2002",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "United States Hearing Loss Prevalence 1976-2006",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-hearing-loss-prevalence-1976-2006",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "Sub-Saharan Africa Insecticide-Treated Bed Nets 1999-2008",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/sub-saharan-africa-insecticide-treated-bed-nets-1999-2008",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "United States Diabetes Prevalence by County 2008",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/united-states-diabetes-prevalence-county-2008",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "Educational Attainment and Child Mortality Estimates by Country 1970-2009",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/educational-attainment-and-child-mortality-estimates-country-1970-2009",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "DTP3 Immunization Coverage by Country 1986-2006",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/dtp3-immunization-coverage-country-1986-2006",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "Adult Mortality Estimates by Country 1970-2010",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/adult-mortality-estimates-country-1970-2010",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "Maternal Mortality Estimates by Country 1980-2008",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/maternal-mortality-estimates-country-1980-2008",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    },
+    {
+      "title": "Infant and Child Mortality Estimates by Country 1970-2010",
+      "record_url": "https://ghdx.healthdata.org/record/ihme-data/infant-and-child-mortality-estimates-country-1970-2010",
+      "description": "",
+      "last_modified": "",
+      "direct_download_urls": [],
+      "page": 10
+    }
+  ]
+}
