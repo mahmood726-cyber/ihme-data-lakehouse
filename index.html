@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IHME Data Lakehouse: Registry-Driven GBD Pipeline for 6 Domains
+TYPE: methods  |  ESTIMAND: Dataset coverage (N parquet datasets)
+DATA: IHME GHDx bulk CSV exports (GBD 2021)
+PATH: D:\Projects\ihme-data-lakehouse
+
+CURRENT BODY (145 words):
+What coverage does IHME's Global Burden of Disease data achieve when systematically catalogued through an automated lakehouse pipeline? We process six GBD data domains — cause-level results, risk factor attribution, covariates, population estimates, forecasts, and specialty datasets — spanning 369 diseases, 87 risk factors, and 204 countries from 1990 to 2021. A registry-driven Python pipeline fetches bulk CSV exports from known GHDx URLs, validates schemas, and promotes data through bronze and silver tiers preserving IHME's hierarchical coding. The lakehouse yields analysis-ready parquet datasets with dual schema: IHME-native for full fidelity and harmonized (iso3c/year/value) for cross-source joins. Checksums and manifests ensure provenance for files fetched via stable URLs. This infrastructure enables reproducible downstream analyses by eliminating ad-hoc data wrangling from IHME's bulk exports. Coverage gaps exist for datasets requiring authenticated GHDx access, which fall back to manual placement.
+
+YOUR REWRITE (at most 156 words, 7 sentences):
+
+
+SUBMISSION METADATA:
+
+Corresponding author: Mahmood Ahmad &lt;mahmood.ahmad2@nhs.net&gt;
+ORCID: 0000-0001-9107-3704
+Affiliation: Tahir Heart Institute, Rabwah, Pakistan
+
+Links:
+  Code:      https://github.com/mahmood726-cyber/ihme-data-lakehouse
+  Protocol:  https://github.com/mahmood726-cyber/ihme-data-lakehouse/blob/main/E156-PROTOCOL.md
+  Dashboard: https://mahmood726-cyber.github.io/ihme-data-lakehouse/
+
+References (topic pack: fallback (any MA paper)):
+  1. Page MJ, McKenzie JE, Bossuyt PM, et al. 2021. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 372:n71. doi:10.1136/bmj.n71
+  2. Higgins JPT, Thomas J, Chandler J, et al. (eds). 2023. Cochrane Handbook for Systematic Reviews of Interventions version 6.4. Cochrane. Available from www.training.cochrane.org/handbook
+
+Data availability: No patient-level data used. Analysis derived exclusively
+  from publicly available aggregate records. All source identifiers are in
+  the protocol document linked above.
+
+Ethics: Not required. Study uses only publicly available aggregate data; no
+  human participants; no patient-identifiable information; no individual-
+  participant data. No institutional review board approval sought or required
+  under standard research-ethics guidelines for secondary methodological
+  research on published literature.
+
+Funding: None.
+
+Competing interests: MA serves on the editorial board of Synthēsis (the
+  target journal); MA had no role in editorial decisions on this
+  manuscript, which was handled by an independent editor of the journal.
+
+Author contributions (CRediT):
+  [STUDENT REWRITER, first author] — Writing – original draft, Writing –
+    review &amp; editing, Validation.
+  [SUPERVISING FACULTY, last/senior author] — Supervision, Validation,
+    Writing – review &amp; editing.
+  Mahmood Ahmad (middle author, NOT first or last) — Conceptualization,
+    Methodology, Software, Data curation, Formal analysis, Resources.
+
+AI disclosure: Computational tooling (including AI-assisted coding via
+  Claude Code [Anthropic]) was used to develop analysis scripts and assist
+  with data extraction. The final manuscript was human-written, reviewed,
+  and approved by the author; the submitted text is not AI-generated. All
+  quantitative claims were verified against source data; cross-validation
+  was performed where applicable. The author retains full responsibility for
+  the final content.
+
+Preprint: Not preprinted.
+
+Reporting checklist: PRISMA 2020 (methods-paper variant — reports on review corpus).
+
+Target journal: ◆ Synthēsis (https://www.synthesis-medicine.org/index.php/journal)
+  Section: Methods Note — submit the 156-word E156 body verbatim as the main text.
+  The journal caps main text at ≤400 words; E156's 156-word, 7-sentence
+  contract sits well inside that ceiling. Do NOT pad to 400 — the
+  micro-paper length is the point of the format.
+
+Manuscript license: CC-BY-4.0.
+Code license: MIT.
+
+SUBMITTED: [ ]
+
+======================================================================
+
+[357/485] CardioSynth
+TITLE: CardioSynth: Living Cardiology Evidence Synthesis Engine
+TYPE: methods  |  ESTIMAND: Pooled risk ratio (MACE)
+DATA: ClinicalTrials.gov API v2 structured results
+PATH: C:\cardiosynth
+
+CURRENT BODY (148 words):
+Does colchicine reduce major adverse cardiovascular events after ST-elevation myocardial infarction? We synthesised randomised controlled trials from ClinicalTrials.gov structured results data, using dual-agent extraction with TruthCert validation across ten integrity checks. DerSimonian-Laird random-effects meta-analysis with Hartung-Knapp-Sidik-Jonkman correction pooled log risk ratios and back-transformed to the natural scale. The pooled risk ratio for MACE was extracted from all trials with posted results matching colchicine and myocardial infarction, with individual study estimates displayed in an inline SVG forest plot. Leave-one-out analysis confirmed robustness to exclusion of any single trial and the prediction interval quantified between-study heterogeneity beyond sampling error. Colchicine may reduce MACE after STEMI based on current evidence from ClinicalTrials.gov posted results, though the evidence base requires continuous monitoring as new trials complete. This living synthesis excludes grey literature, unpublished endpoints, and individual patient data beyond structured registry submissions.
+
+YOUR REWRITE (at most 156 words, 7 sentences):
+
+
+SUBMISSION METADATA:
+
+Corresponding author: Mahmood Ahmad &lt;mahmood.ahmad2@nhs.net&gt;
+ORCID: 0000-0001-9107-3704
+Affiliation: Tahir Heart Institute, Rabwah, Pakistan
+
+Links:
+  Code:      https://github.com/mahmood726-cyber/cardiosynth
+  Protocol:  https://github.com/mahmood726-cyber/cardiosynth/blob/main/E156-PROTOCOL.md
+  Dashboard: https://mahmood726-cyber.github.io/cardiosynth/
+
+References (topic pack: heterogeneity / prediction interval):
+  1. Higgins JPT, Thompson SG. 2002. Quantifying heterogeneity in a meta-analysis. Stat Med. 21(11):1539-1558. doi:10.1002/sim.1186
+  2. IntHout J, Ioannidis JP, Rovers MM, Goeman JJ. 2016. Plea for routinely presenting prediction intervals in meta-analysis. BMJ Open. 6(7):e010247. doi:10.1136/bmjopen-2015-010247
+
+Data availability: No patient-level data used. Analysis derived exclusively
+  from publicly available aggregate records. All source identifiers are in
+  the protocol document linked above.
+
+Ethics: Not required. Study uses only publicly available aggregate data; no
+  human participants; no patient-identifiable information; no individual-
+  participant data. No institutional review board approval sought or required
+  under standard research-ethics guidelines for secondary methodological
+  research on published literature.
+
+Funding: None.
+
+Competing interests: MA serves on the editorial board of Synthēsis (the
+  target journal); MA had no role in editorial decisions on this
+  manuscript, which was handled by an independent editor of the journal.
+
+Author contributions (CRediT):
+  [STUDENT REWRITER, first author] — Writing – original draft, Writing –
+    review &amp; editing, Validation.
+  [SUPERVISING FACULTY, last/senior author] — Supervision, Validation,
+    Writing – review &amp; editing.
+  Mahmood Ahmad (middle author, NOT first or last) — Conceptualization,
+    Methodology, Software, Data curation, Formal analysis, Resources.
+
+AI disclosure: Computational tooling (including AI-assisted coding via
+  Claude Code [Anthropic]) was used to develop analysis scripts and assist
+  with data extraction. The final manuscript was human-written, reviewed,
+  and approved by the author; the submitted text is not AI-generated. All
+  quantitative claims were verified against source data; cross-validation
+  was performed where applicable. The author retains full responsibility for
+  the final content.
+
+Preprint: Not preprinted.
+
+Reporting checklist: PRISMA 2020 (methods-paper variant — reports on review corpus).
+
+Target journal: ◆ Synthēsis (https://www.synthesis-medicine.org/index.php/journal)
+  Section: Methods Note — submit the 156-word E156 body verbatim as the main text.
+  The journal caps main text at ≤400 words; E156's 156-word, 7-sentence
+  contract sits well inside that ceiling. Do NOT pad to 400 — the
+  micro-paper length is the point of the format.
+
+Manuscript license: CC-BY-4.0.
+Code license: MIT.
+
+SUBMITTED: [ ]
+
+======================================================================
+
+[358/485] SuperTransportabilityMap
+TITLE: SuperTransportabilityMap: Global Generalization of ClinicalTrials.gov Evidence via Multi-Lake Demographic Calibration
+TYPE: methods  |  ESTIMAND: Transportability Index (cross-regional generalization probability)
+DATA: ClinicalTrials.gov (all data), IHME GBD, WHO GHO, World Bank WDI
+PATH: C:\Projects\SuperTransportabilityMap
+
+CURRENT BODY (150 words):
+Can evidence from any published meta-analysis be automatically recalibrated for different global populations by projecting ClinicalTrials.gov cohorts onto demographic data lakes? We developed the SuperTransportabilityMap, an interactive dashboard linking all interventional trials in ClinicalTrials.gov to global demographic baselines from IHME, WHO, and the World Bank. The pipeline computes a Transportability Index, quantifying the distributional distance between trial-specific baseline characteristics and target population demographics across 195 countries. By applying inverse probability of participation weighting, the engine recalibrates any published meta-analytic treatment effect for specific national contexts. The web dashboard provides real-time choropleth visualizations, identifying regions where existing evidence is highly transportable versus domains requiring localized trials. Validation against multiregional mega-trials demonstrated a 34 percent reduction in out-of-sample prediction error for regional treatment effects compared to unadjusted pooling. The approach is limited by the frequent underreporting of granular demographic covariates in historical registry data.
+
+YOUR REWRITE (at most 156 words, 7 sentences):
+
+
+SUBMISSION METADATA:
+
+Corresponding author: Mahmood Ahmad &lt;mahmood.ahmad2@nhs.net&gt;
+ORCID: 0000-0001-9107-3704
+Affiliation: Tahir Heart Institute, Rabwah, Pakistan
+
+Links:
+  Code:      https://github.com/mahmood726-cyber/SuperTransportabilityMap
+  Protocol:  https://github.com/mahmood726-cyber/SuperTransportabilityMap/blob/main/E156-PROTOCOL.md
+  Dashboard: https://mahmood726-cyber.github.io/supertransportabilitymap/
+
+References (topic pack: CT.gov / ClinicalTrials.gov audit):
+  1. Zarin DA, Tse T, Williams RJ, Rajakannan T. 2017. Update on trial registration 11 years after the ICMJE policy was established. N Engl J Med. 376(4):383-391. doi:10.1056/NEJMsr1601330
+  2. Anderson ML, Chiswell K, Peterson ED, Tasneem A, Topping J, Califf RM. 2015. Compliance with results reporting at ClinicalTrials.gov. N Engl J Med. 372(11):1031-1039. doi:10.1056/NEJMsa1409364
+
+Data availability: No patient-level data used. Analysis derived exclusively
+  from publicly available aggregate records. All source identifiers are in
+  the protocol document linked above.
+
+Ethics: Not required. Study uses only publicly available aggregate data; no
+  human participants; no patient-identifiable information; no individual-
+  participant data. No institutional review board approval sought or required
+  under standard research-ethics guidelines for secondary methodological
+  research on published literature.
+
+Funding: None.
+
+Competing interests: MA serves on the editorial board of Synthēsis (the
+  target journal); MA had no role in editorial decisions on this
+  manuscript, which was handled by an independent editor of the journal.
+
+Author contributions (CRediT):
+  [STUDENT REWRITER, first author] — Writing – original draft, Writing –
+    review &amp; editing, Validation.
+  [SUPERVISING FACULTY, last/senior author] — Supervision, Validation,
+    Writing – review &amp; editing.
+  Mahmood Ahmad (middle author, NOT first or last) — Conceptualization,
+    Methodology, Software, Data curation, Formal analysis, Resources.
+
+AI disclosure: Computational tooling (including AI-assisted coding via
+  Claude Code [Anthropic]) was used to develop analysis scripts and assist
+  with data extraction. The final manuscript was human-written, reviewed,
+  and approved by the author; the submitted text is not AI-generated. All
+  quantitative claims were verified against source data; cross-validation
+  was performed where applicable. The author retains full responsibility for
+  the final content.
+
+Preprint: Not preprinted.
+
+Reporting checklist: PRISMA 2020 (methods-paper variant — reports on review corpus).
+
+Target journal: ◆ Synthēsis (https://www.synthesis-medicine.org/index.php/journal)
+  Section: Methods Note — submit the 156-word E156 body verbatim as the main text.
+  The journal caps main text at ≤400 words; E156's 156-word, 7-sentence
+  contract sits well inside that ceiling. Do NOT pad to 400 — the
+  micro-paper length is the point of the format.
+
+Manuscript license: CC-BY-4.0.
+Code license: MIT.
+
+SUBMITTED: [ ]
+
+
+======================================================================
+
+[359/485] LivingMA-PFA-AF
+TITLE: PFA in AF: A Transparent Living Meta-Analysis v13 — E156 ◆ Synthēsis</title>
+<meta name="description" content="E156 micro-paper: IHME Data Lakehouse: Registry-Driven GBD Pipeline for 6 Domains
+TYPE: methods  |  ESTIMAND: Dataset coverage (N parquet datasets)
+DATA: IHME GHDx bulk CSV exports (GBD 2021)
+PATH: D:\Projects\ihme-data-lakehouse
+
+CURRENT BODY (145 words):
+What coverage does IHME's Global Burden of Disease data achieve when systematically catalogued through an automated lakehouse pipeline? We process six GBD data domains — cause-level results, risk factor attribution, covariates, population estimates, forecasts, and specialty datasets — spanning 369 diseases, 87 risk factors, and 204 countries from 1990 to 2021. A registry-driven Python pipeline fetches bulk CSV exports from known GHDx URLs, validates schemas, and promotes data through bronze and silver tiers preserving IHME's hierarchical coding. The lakehouse yields analysis-ready parquet datasets with dual schema: IHME-native for full fidelity and harmonized (iso3c/year/value) for cross-source joins. Checksums and manifests ensure provenance for files fetched via stable URLs. This infrastructure enables reproducible downstream analyses by eliminating ad-hoc data wrangling from IHME's bulk exports. Coverage gaps exist for datasets requiring authenticated GHDx access, which fall back to manual placement.
+
+YOUR REWRITE (at most 156 words, 7 sentences):
+
+
+SUBMISSION METADATA:
+
+Corresponding author: Mahmood Ahmad &lt;mahmood.ahmad2@nhs.net&gt;
+ORCID: 0000-0001-9107-3704
+Affiliation: Tahir Heart Institute, Rabwah, Pakistan
+
+Links:
+  Code:      https://github.com/mahmood726-cyber/ihme-data-lakehouse
+  Protocol:  https://github.com/mahmood726-cyber/ihme-data-lakehouse/blob/main/E156-PROTOCOL.md
+  Dashboard: https://mahmood726-cyber.github.io/ihme-data-lakehouse/
+
+References (topic pack: fallback (any MA paper)):
+  1. Page MJ, McKenzie JE, Bossuyt PM, et al. 2021. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 372:n71. doi:10.1136/bmj.n71
+  2. Higgins JPT, Thomas J, Chandler J, et al. (eds). 2023. Cochrane Handbook for Systematic Reviews of Interventions version 6.4. Cochrane. Available from www.training.cochrane.org/handbook
+
+Data availability: No patient-level data used. Analysis derived exclusively
+  from publicly available aggregate records. All source identifiers are in
+  the protocol document linked above.
+
+Ethics: Not required. Study uses only publicly available aggregate data; no
+  human participants; no patient-identifiable information; no individual-
+  participant data. No institutional review board approval sought or required
+  under standard research-ethics guidelines for secondary methodological
+  research on published literature.
+
+Funding: None.
+
+Competing interests: MA serves on the editorial board of Synthēsis (the
+  target journal); MA had no role in editorial decisions on this
+  manuscript, which was handled by an independent editor of the journal.
+
+Author contributions (CRediT):
+  [STUDENT REWRITER, first author] — Writing – original draft, Writing –
+    review &amp; editing, Validation.
+  [SUPERVISING FACULTY, last/senior author] — Supervision, Validation,
+    Writing – review &amp; editing.
+  Mahmood Ahmad (middle author, NOT first or last) — Conceptualization,
+    Methodology, Software, Data curation, Formal analysis, Resources.
+
+AI disclosure: Computational tooling (including AI-assisted coding via
+  Claude Code [Anthropic]) was used to develop analysis scripts and assist
+  with data extraction. The final manuscript was human-written, reviewed,
+  and approved by the author; the submitted text is not AI-generated. All
+  quantitative claims were verified against source data; cross-validation
+  was performed where applicable. The author retains full responsibility for
+  the final content.
+
+Preprint: Not preprinted.
+
+Reporting checklist: PRISMA 2020 (methods-paper variant — reports on review corpus).
+
+Target journal: ◆ Synthēsis (https://www.synthesis-medicine.org/index.php/journal)
+  Section: Methods Note — submit the 156-word E156 body verbatim as the main text.
+  The journal caps main text at ≤400 words; E156's 156-word, 7-sentence
+  contract sits well inside that ceiling. Do NOT pad to 400 — the
+  micro-paper length is the point of the format.
+
+Manuscript license: CC-BY-4.0.
+Code license: MIT.
+
+SUBMITTED: [ ]
+
+======================================================================
+
+[357/485] CardioSynth
+TITLE: CardioSynth: Living Cardiology Evidence Synthesis Engine
+TYPE: methods  |  ESTIMAND: Pooled risk ratio (MACE)
+DATA: ClinicalTrials.gov API v2 structured results
+PATH: C:\cardiosynth
+
+CURRENT BODY (148 words):
+Does colchicine reduce major adverse cardiovascular events after ST-elevation myocardial infarction? We synthesised randomised controlled trials from ClinicalTrials.gov structured results data, using dual-agent extraction with TruthCert validation across ten integrity checks. DerSimonian-Laird random-effects meta-analysis with Hartung-Knapp-Sidik-Jonkman correction pooled log risk ratios and back-transformed to the natural scale. The pooled risk ratio for MACE was extracted from all trials with posted results matching colchicine and myocardial infarction, with individual study estimates displayed in an inline SVG forest plot. Leave-one-out analysis confirmed robustness to exclusion of any single trial and the prediction interval quantified between-study heterogeneity beyond sampling error. Colchicine may reduce MACE after STEMI based on current evidence from ClinicalTrials.gov posted results, though the evidence base requires continuous monitoring as new trials complete. This living synthesis excludes grey literature, unpublished endpoints, and individual patient data beyond structured registry submissions.
+
+YOUR REWRITE (at most 156 words, 7 sentences):
+
+
+SUBMISSION METADATA:
+
+Corresponding author: Mahmood Ahmad &lt;mahmood.ahmad2@nhs.net&gt;
+ORCID: 0000-0001-9107-3704
+Affiliation: Tahir Heart Institute, Rabwah, Pakistan
+
+Links:
+  Code:      https://github.com/mahmood726-cyber/cardiosynth
+  Protocol:  https://github.com/mahmood726-cyber/cardiosynth/blob/main/E156-PROTOCOL.md
+  Dashboard: https://mahmood726-cyber.github.io/cardiosynth/
+
+References (topic pack: heterogeneity / prediction interval):
+  1. Higgins JPT, Thompson SG. 2002. Quantifying heterogeneity in a meta-analysis. Stat Med. 21(11):1539-1558. doi:10.1002/sim.1186
+  2. IntHout J, Ioannidis JP, Rovers MM, Goeman JJ. 2016. Plea for routinely presenting prediction intervals in meta-analysis. BMJ Open. 6(7):e010247. doi:10.1136/bmjopen-2015-010247
+
+Data availability: No patient-level data used. Analysis derived exclusively
+  from publicly available aggregate records. All source identifiers are in
+  the protocol document linked above.
+
+Ethics: Not required. Study uses only publicly available aggregate data; no
+  human participants; no patient-identifiable information; no individual-
+  participant data. No institutional review board approval sought or required
+  under standard research-ethics guidelines for secondary methodological
+  research on published literature.
+
+Funding: None.
+
+Competing interests: MA serves on the editorial board of Synthēsis (the
+  target journal); MA had no role in editorial decisions on this
+  manuscript, which was handled by an independent editor of the journal.
+
+Author contributions (CRediT):
+  [STUDENT REWRITER, first author] — Writing – original draft, Writing –
+    review &amp; editing, Validation.
+  [SUPERVISING FACULTY, last/senior author] — Supervision, Validation,
+    Writing – review &amp; editing.
+  Mahmood Ahmad (middle author, NOT first or last) — Conceptualization,
+    Methodology, Software, Data curation, Formal analysis, Resources.
+
+AI disclosure: Computational tooling (including AI-assisted coding via
+  Claude Code [Anthropic]) was used to develop analysis scripts and assist
+  with data extraction. The final manuscript was human-written, reviewed,
+  and approved by the author; the submitted text is not AI-generated. All
+  quantitative claims were verified against source data; cross-validation
+  was performed where applicable. The author retains full responsibility for
+  the final content.
+
+Preprint: Not preprinted.
+
+Reporting checklist: PRISMA 2020 (methods-paper variant — reports on review corpus).
+
+Target journal: ◆ Synthēsis (https://www.synthesis-medicine.org/index.php/journal)
+  Section: Methods Note — submit the 156-word E156 body verbatim as the main text.
+  The journal caps main text at ≤400 words; E156's 156-word, 7-sentence
+  contract sits well inside that ceiling. Do NOT pad to 400 — the
+  micro-paper length is the point of the format.
+
+Manuscript license: CC-BY-4.0.
+Code license: MIT.
+
+SUBMITTED: [ ]
+
+======================================================================
+
+[358/485] SuperTransportabilityMap
+TITLE: SuperTransportabilityMap: Global Generalization of ClinicalTrials.gov Evidence via Multi-Lake Demographic Calibration
+TYPE: methods  |  ESTIMAND: Transportability Index (cross-regional generalization probability)
+DATA: ClinicalTrials.gov (all data), IHME GBD, WHO GHO, World Bank WDI
+PATH: C:\Projects\SuperTransportabilityMap
+
+CURRENT BODY (150 words):
+Can evidence from any published meta-analysis be automatically recalibrated for different global populations by projecting ClinicalTrials.gov cohorts onto demographic data lakes? We developed the SuperTransportabilityMap, an interactive dashboard linking all interventional trials in ClinicalTrials.gov to global demographic baselines from IHME, WHO, and the World Bank. The pipeline computes a Transportability Index, quantifying the distributional distance between trial-specific baseline characteristics and target population demographics across 195 countries. By applying inverse probability of participation weighting, the engine recalibrates any published meta-analytic treatment effect for specific national contexts. The web dashboard provides real-time choropleth visualizations, identifying regions where existing evidence is highly transportable versus domains requiring localized trials. Validation against multiregional mega-trials demonstrated a 34 percent reduction in out-of-sample prediction error for regional treatment effects compared to unadjusted pooling. The approach is limited by the frequent underreporting of granular demographic covariates in historical registry data.
+
+YOUR REWRITE (at most 156 words, 7 sentences):
+
+
+SUBMISSION METADATA:
+
+Corresponding author: Mahmood Ahmad &lt;mahmood.ahmad2@nhs.net&gt;
+ORCID: 0000-0001-9107-3704
+Affiliation: Tahir Heart Institute, Rabwah, Pakistan
+
+Links:
+  Code:      https://github.com/mahmood726-cyber/SuperTransportabilityMap
+  Protocol:  https://github.com/mahmood726-cyber/SuperTransportabilityMap/blob/main/E156-PROTOCOL.md
+  Dashboard: https://mahmood726-cyber.github.io/supertransportabilitymap/
+
+References (topic pack: CT.gov / ClinicalTrials.gov audit):
+  1. Zarin DA, Tse T, Williams RJ, Rajakannan T. 2017. Update on trial registration 11 years after the ICMJE policy was established. N Engl J Med. 376(4):383-391. doi:10.1056/NEJMsr1601330
+  2. Anderson ML, Chiswell K, Peterson ED, Tasneem A, Topping J, Califf RM. 2015. Compliance with results reporting at ClinicalTrials.gov. N Engl J Med. 372(11):1031-1039. doi:10.1056/NEJMsa1409364
+
+Data availability: No patient-level data used. Analysis derived exclusively
+  from publicly available aggregate records. All source identifiers are in
+  the protocol document linked above.
+
+Ethics: Not required. Study uses only publicly available aggregate data; no
+  human participants; no patient-identifiable information; no individual-
+  participant data. No institutional review board approval sought or required
+  under standard research-ethics guidelines for secondary methodological
+  research on published literature.
+
+Funding: None.
+
+Competing interests: MA serves on the editorial board of Synthēsis (the
+  target journal); MA had no role in editorial decisions on this
+  manuscript, which was handled by an independent editor of the journal.
+
+Author contributions (CRediT):
+  [STUDENT REWRITER, first author] — Writing – original draft, Writing –
+    review &amp; editing, Validation.
+  [SUPERVISING FACULTY, last/senior author] — Supervision, Validation,
+    Writing – review &amp; editing.
+  Mahmood Ahmad (middle author, NOT first or last) — Conceptualization,
+    Methodology, Software, Data curation, Formal analysis, Resources.
+
+AI disclosure: Computational tooling (including AI-assisted coding via
+  Claude Code [Anthropic]) was used to develop analysis scripts and assist
+  with data extraction. The final manuscript was human-written, reviewed,
+  and approved by the author; the submitted text is not AI-generated. All
+  quantitative claims were verified against source data; cross-validation
+  was performed where applicable. The author retains full responsibility for
+  the final content.
+
+Preprint: Not preprinted.
+
+Reporting checklist: PRISMA 2020 (methods-paper variant — reports on review corpus).
+
+Target journal: ◆ Synthēsis (https://www.synthesis-medicine.org/index.php/journal)
+  Section: Methods Note — submit the 156-word E156 body verbatim as the main text.
+  The journal caps main text at ≤400 words; E156's 156-word, 7-sentence
+  contract sits well inside that ceiling. Do NOT pad to 400 — the
+  micro-paper length is the point of the format.
+
+Manuscript license: CC-BY-4.0.
+Code license: MIT.
+
+SUBMITTED: [ ]
+
+
+======================================================================
+
+[359/485] LivingMA-PFA-AF
+TITLE: PFA in AF: A Transparent Living Meta-Analysis v13 (RR, methods). 7 sentences, 156 words. Targeting Synthēsis.">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { padding: 2rem 1rem; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; line-height: 1.6; color: #1a1a1a; background: #eef2ff; }
+  .wrap { max-width: 760px; margin: 0 auto; }
+  .mark { color: #4338ca; font-weight: 600; letter-spacing: 0.02em; font-size: 0.9rem; }
+  h1 { font-size: 1.55rem; line-height: 1.25; margin: 0.3rem 0 0.5rem; letter-spacing: -0.01em; }
+  .sub { color: #6b7280; font-size: 0.9rem; margin-bottom: 1.5rem; }
+  .sub code { background: #e5e7eb; padding: 1px 5px; border-radius: 3px; font-size: 0.85em; }
+  .highlight { background: linear-gradient(135deg, #4338ca22, #4338ca0a); border-left: 4px solid #4338ca; padding: 0.9rem 1.1rem; border-radius: 0 6px 6px 0; margin: 0 0 1.5rem; font-size: 1rem; color: #1f2937; }
+  .highlight strong { color: #4338ca; }
+  .body { background: white; padding: 1.5rem; border-radius: 8px; border: 1px solid #e5e7eb; margin-bottom: 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+  .body p { margin: 0; }
+  .readme { background: #fafafa; padding: 1rem 1.2rem; border-radius: 6px; border: 1px dashed #d1d5db; margin-bottom: 1.5rem; font-size: 0.88rem; color: #4b5563; font-style: italic; }
+  .readme::before { content: "FROM THE README — "; font-weight: 600; font-style: normal; color: #9ca3af; font-size: 0.75rem; letter-spacing: 0.05em; }
+  .stats { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
+  .chip { background: white; border: 1px solid #e5e7eb; border-radius: 20px; padding: 0.3rem 0.8rem; font-size: 0.8rem; color: #4b5563; }
+  .chip strong { color: #1a1a1a; }
+  .links { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 0.5rem; margin-bottom: 1rem; }
+  .links a { display: block; padding: 0.7rem 1rem; background: white; border: 1px solid #e5e7eb; border-radius: 6px; color: #3730a3; text-decoration: none; font-size: 0.88rem; text-align: center; }
+  .links a:hover { background: #f3f4f6; border-color: #4338ca88; }
+  .files { background: #f9fafb; padding: 0.8rem 1rem; border-radius: 6px; border: 1px solid #e5e7eb; margin-bottom: 1.5rem; font-size: 0.83rem; color: #6b7280; }
+  .files code { background: white; border: 1px solid #e5e7eb; padding: 1px 6px; border-radius: 3px; margin: 0 2px; display: inline-block; color: #1f2937; }
+  .meta { font-size: 0.82rem; color: #4b5563; background: white; padding: 1rem 1.2rem; border-radius: 6px; border: 1px solid #e5e7eb; }
+  .meta dt { font-weight: 600; margin-top: 0.4rem; color: #111827; }
+  .meta dt:first-child { margin-top: 0; }
+  footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #e5e7eb; color: #9ca3af; font-size: 0.8rem; text-align: center; }
+  footer a { color: #6b7280; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<p class="mark">◆ Synthēsis · Methods Note</p>
+<h1>IHME Data Lakehouse: Registry-Driven GBD Pipeline for 6 Domains
+TYPE: methods  |  ESTIMAND: Dataset coverage (N parquet datasets)
+DATA: IHME GHDx bulk CSV exports (GBD 2021)
+PATH: D:\Projects\ihme-data-lakehouse
+
+CURRENT BODY (145 words):
+What coverage does IHME's Global Burden of Disease data achieve when systematically catalogued through an automated lakehouse pipeline? We process six GBD data domains — cause-level results, risk factor attribution, covariates, population estimates, forecasts, and specialty datasets — spanning 369 diseases, 87 risk factors, and 204 countries from 1990 to 2021. A registry-driven Python pipeline fetches bulk CSV exports from known GHDx URLs, validates schemas, and promotes data through bronze and silver tiers preserving IHME's hierarchical coding. The lakehouse yields analysis-ready parquet datasets with dual schema: IHME-native for full fidelity and harmonized (iso3c/year/value) for cross-source joins. Checksums and manifests ensure provenance for files fetched via stable URLs. This infrastructure enables reproducible downstream analyses by eliminating ad-hoc data wrangling from IHME's bulk exports. Coverage gaps exist for datasets requiring authenticated GHDx access, which fall back to manual placement.
+
+YOUR REWRITE (at most 156 words, 7 sentences):
+
+
+SUBMISSION METADATA:
+
+Corresponding author: Mahmood Ahmad &lt;mahmood.ahmad2@nhs.net&gt;
+ORCID: 0000-0001-9107-3704
+Affiliation: Tahir Heart Institute, Rabwah, Pakistan
+
+Links:
+  Code:      https://github.com/mahmood726-cyber/ihme-data-lakehouse
+  Protocol:  https://github.com/mahmood726-cyber/ihme-data-lakehouse/blob/main/E156-PROTOCOL.md
+  Dashboard: https://mahmood726-cyber.github.io/ihme-data-lakehouse/
+
+References (topic pack: fallback (any MA paper)):
+  1. Page MJ, McKenzie JE, Bossuyt PM, et al. 2021. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 372:n71. doi:10.1136/bmj.n71
+  2. Higgins JPT, Thomas J, Chandler J, et al. (eds). 2023. Cochrane Handbook for Systematic Reviews of Interventions version 6.4. Cochrane. Available from www.training.cochrane.org/handbook
+
+Data availability: No patient-level data used. Analysis derived exclusively
+  from publicly available aggregate records. All source identifiers are in
+  the protocol document linked above.
+
+Ethics: Not required. Study uses only publicly available aggregate data; no
+  human participants; no patient-identifiable information; no individual-
+  participant data. No institutional review board approval sought or required
+  under standard research-ethics guidelines for secondary methodological
+  research on published literature.
+
+Funding: None.
+
+Competing interests: MA serves on the editorial board of Synthēsis (the
+  target journal); MA had no role in editorial decisions on this
+  manuscript, which was handled by an independent editor of the journal.
+
+Author contributions (CRediT):
+  [STUDENT REWRITER, first author] — Writing – original draft, Writing –
+    review &amp; editing, Validation.
+  [SUPERVISING FACULTY, last/senior author] — Supervision, Validation,
+    Writing – review &amp; editing.
+  Mahmood Ahmad (middle author, NOT first or last) — Conceptualization,
+    Methodology, Software, Data curation, Formal analysis, Resources.
+
+AI disclosure: Computational tooling (including AI-assisted coding via
+  Claude Code [Anthropic]) was used to develop analysis scripts and assist
+  with data extraction. The final manuscript was human-written, reviewed,
+  and approved by the author; the submitted text is not AI-generated. All
+  quantitative claims were verified against source data; cross-validation
+  was performed where applicable. The author retains full responsibility for
+  the final content.
+
+Preprint: Not preprinted.
+
+Reporting checklist: PRISMA 2020 (methods-paper variant — reports on review corpus).
+
+Target journal: ◆ Synthēsis (https://www.synthesis-medicine.org/index.php/journal)
+  Section: Methods Note — submit the 156-word E156 body verbatim as the main text.
+  The journal caps main text at ≤400 words; E156's 156-word, 7-sentence
+  contract sits well inside that ceiling. Do NOT pad to 400 — the
+  micro-paper length is the point of the format.
+
+Manuscript license: CC-BY-4.0.
+Code license: MIT.
+
+SUBMITTED: [ ]
+
+======================================================================
+
+[357/485] CardioSynth
+TITLE: CardioSynth: Living Cardiology Evidence Synthesis Engine
+TYPE: methods  |  ESTIMAND: Pooled risk ratio (MACE)
+DATA: ClinicalTrials.gov API v2 structured results
+PATH: C:\cardiosynth
+
+CURRENT BODY (148 words):
+Does colchicine reduce major adverse cardiovascular events after ST-elevation myocardial infarction? We synthesised randomised controlled trials from ClinicalTrials.gov structured results data, using dual-agent extraction with TruthCert validation across ten integrity checks. DerSimonian-Laird random-effects meta-analysis with Hartung-Knapp-Sidik-Jonkman correction pooled log risk ratios and back-transformed to the natural scale. The pooled risk ratio for MACE was extracted from all trials with posted results matching colchicine and myocardial infarction, with individual study estimates displayed in an inline SVG forest plot. Leave-one-out analysis confirmed robustness to exclusion of any single trial and the prediction interval quantified between-study heterogeneity beyond sampling error. Colchicine may reduce MACE after STEMI based on current evidence from ClinicalTrials.gov posted results, though the evidence base requires continuous monitoring as new trials complete. This living synthesis excludes grey literature, unpublished endpoints, and individual patient data beyond structured registry submissions.
+
+YOUR REWRITE (at most 156 words, 7 sentences):
+
+
+SUBMISSION METADATA:
+
+Corresponding author: Mahmood Ahmad &lt;mahmood.ahmad2@nhs.net&gt;
+ORCID: 0000-0001-9107-3704
+Affiliation: Tahir Heart Institute, Rabwah, Pakistan
+
+Links:
+  Code:      https://github.com/mahmood726-cyber/cardiosynth
+  Protocol:  https://github.com/mahmood726-cyber/cardiosynth/blob/main/E156-PROTOCOL.md
+  Dashboard: https://mahmood726-cyber.github.io/cardiosynth/
+
+References (topic pack: heterogeneity / prediction interval):
+  1. Higgins JPT, Thompson SG. 2002. Quantifying heterogeneity in a meta-analysis. Stat Med. 21(11):1539-1558. doi:10.1002/sim.1186
+  2. IntHout J, Ioannidis JP, Rovers MM, Goeman JJ. 2016. Plea for routinely presenting prediction intervals in meta-analysis. BMJ Open. 6(7):e010247. doi:10.1136/bmjopen-2015-010247
+
+Data availability: No patient-level data used. Analysis derived exclusively
+  from publicly available aggregate records. All source identifiers are in
+  the protocol document linked above.
+
+Ethics: Not required. Study uses only publicly available aggregate data; no
+  human participants; no patient-identifiable information; no individual-
+  participant data. No institutional review board approval sought or required
+  under standard research-ethics guidelines for secondary methodological
+  research on published literature.
+
+Funding: None.
+
+Competing interests: MA serves on the editorial board of Synthēsis (the
+  target journal); MA had no role in editorial decisions on this
+  manuscript, which was handled by an independent editor of the journal.
+
+Author contributions (CRediT):
+  [STUDENT REWRITER, first author] — Writing – original draft, Writing –
+    review &amp; editing, Validation.
+  [SUPERVISING FACULTY, last/senior author] — Supervision, Validation,
+    Writing – review &amp; editing.
+  Mahmood Ahmad (middle author, NOT first or last) — Conceptualization,
+    Methodology, Software, Data curation, Formal analysis, Resources.
+
+AI disclosure: Computational tooling (including AI-assisted coding via
+  Claude Code [Anthropic]) was used to develop analysis scripts and assist
+  with data extraction. The final manuscript was human-written, reviewed,
+  and approved by the author; the submitted text is not AI-generated. All
+  quantitative claims were verified against source data; cross-validation
+  was performed where applicable. The author retains full responsibility for
+  the final content.
+
+Preprint: Not preprinted.
+
+Reporting checklist: PRISMA 2020 (methods-paper variant — reports on review corpus).
+
+Target journal: ◆ Synthēsis (https://www.synthesis-medicine.org/index.php/journal)
+  Section: Methods Note — submit the 156-word E156 body verbatim as the main text.
+  The journal caps main text at ≤400 words; E156's 156-word, 7-sentence
+  contract sits well inside that ceiling. Do NOT pad to 400 — the
+  micro-paper length is the point of the format.
+
+Manuscript license: CC-BY-4.0.
+Code license: MIT.
+
+SUBMITTED: [ ]
+
+======================================================================
+
+[358/485] SuperTransportabilityMap
+TITLE: SuperTransportabilityMap: Global Generalization of ClinicalTrials.gov Evidence via Multi-Lake Demographic Calibration
+TYPE: methods  |  ESTIMAND: Transportability Index (cross-regional generalization probability)
+DATA: ClinicalTrials.gov (all data), IHME GBD, WHO GHO, World Bank WDI
+PATH: C:\Projects\SuperTransportabilityMap
+
+CURRENT BODY (150 words):
+Can evidence from any published meta-analysis be automatically recalibrated for different global populations by projecting ClinicalTrials.gov cohorts onto demographic data lakes? We developed the SuperTransportabilityMap, an interactive dashboard linking all interventional trials in ClinicalTrials.gov to global demographic baselines from IHME, WHO, and the World Bank. The pipeline computes a Transportability Index, quantifying the distributional distance between trial-specific baseline characteristics and target population demographics across 195 countries. By applying inverse probability of participation weighting, the engine recalibrates any published meta-analytic treatment effect for specific national contexts. The web dashboard provides real-time choropleth visualizations, identifying regions where existing evidence is highly transportable versus domains requiring localized trials. Validation against multiregional mega-trials demonstrated a 34 percent reduction in out-of-sample prediction error for regional treatment effects compared to unadjusted pooling. The approach is limited by the frequent underreporting of granular demographic covariates in historical registry data.
+
+YOUR REWRITE (at most 156 words, 7 sentences):
+
+
+SUBMISSION METADATA:
+
+Corresponding author: Mahmood Ahmad &lt;mahmood.ahmad2@nhs.net&gt;
+ORCID: 0000-0001-9107-3704
+Affiliation: Tahir Heart Institute, Rabwah, Pakistan
+
+Links:
+  Code:      https://github.com/mahmood726-cyber/SuperTransportabilityMap
+  Protocol:  https://github.com/mahmood726-cyber/SuperTransportabilityMap/blob/main/E156-PROTOCOL.md
+  Dashboard: https://mahmood726-cyber.github.io/supertransportabilitymap/
+
+References (topic pack: CT.gov / ClinicalTrials.gov audit):
+  1. Zarin DA, Tse T, Williams RJ, Rajakannan T. 2017. Update on trial registration 11 years after the ICMJE policy was established. N Engl J Med. 376(4):383-391. doi:10.1056/NEJMsr1601330
+  2. Anderson ML, Chiswell K, Peterson ED, Tasneem A, Topping J, Califf RM. 2015. Compliance with results reporting at ClinicalTrials.gov. N Engl J Med. 372(11):1031-1039. doi:10.1056/NEJMsa1409364
+
+Data availability: No patient-level data used. Analysis derived exclusively
+  from publicly available aggregate records. All source identifiers are in
+  the protocol document linked above.
+
+Ethics: Not required. Study uses only publicly available aggregate data; no
+  human participants; no patient-identifiable information; no individual-
+  participant data. No institutional review board approval sought or required
+  under standard research-ethics guidelines for secondary methodological
+  research on published literature.
+
+Funding: None.
+
+Competing interests: MA serves on the editorial board of Synthēsis (the
+  target journal); MA had no role in editorial decisions on this
+  manuscript, which was handled by an independent editor of the journal.
+
+Author contributions (CRediT):
+  [STUDENT REWRITER, first author] — Writing – original draft, Writing –
+    review &amp; editing, Validation.
+  [SUPERVISING FACULTY, last/senior author] — Supervision, Validation,
+    Writing – review &amp; editing.
+  Mahmood Ahmad (middle author, NOT first or last) — Conceptualization,
+    Methodology, Software, Data curation, Formal analysis, Resources.
+
+AI disclosure: Computational tooling (including AI-assisted coding via
+  Claude Code [Anthropic]) was used to develop analysis scripts and assist
+  with data extraction. The final manuscript was human-written, reviewed,
+  and approved by the author; the submitted text is not AI-generated. All
+  quantitative claims were verified against source data; cross-validation
+  was performed where applicable. The author retains full responsibility for
+  the final content.
+
+Preprint: Not preprinted.
+
+Reporting checklist: PRISMA 2020 (methods-paper variant — reports on review corpus).
+
+Target journal: ◆ Synthēsis (https://www.synthesis-medicine.org/index.php/journal)
+  Section: Methods Note — submit the 156-word E156 body verbatim as the main text.
+  The journal caps main text at ≤400 words; E156's 156-word, 7-sentence
+  contract sits well inside that ceiling. Do NOT pad to 400 — the
+  micro-paper length is the point of the format.
+
+Manuscript license: CC-BY-4.0.
+Code license: MIT.
+
+SUBMITTED: [ ]
+
+
+======================================================================
+
+[359/485] LivingMA-PFA-AF
+TITLE: PFA in AF: A Transparent Living Meta-Analysis v13</h1>
+<p class="sub">Project <code>IHMEDataLakehouse</code> · <strong>methods</strong> study · primary estimand <strong>RR</strong></p>
+
+
+
+<div class="stats">
+  <span class="chip">📏 <strong>156 words</strong> / 7 sentences</span>
+  
+  
+  
+</div>
+
+<div class="body">
+<p>Can a browser-based transparent living meta-analysis reproduce published pooled estimates for pulsed-field ablation versus thermal ablation for atrial fibrillation? The v13 app ingested 3 RCTs from ClinicalTrials.gov cross-checked against PubMed and OpenAlex. DerSimonian-Laird random-effects pooling with HKSJ correction ran in-browser on the logged risk ratio, with cumulative, provenance, QA, and cross-validation engines logging every step. The pooled risk ratio was concordant with the ADVENT/CHAMPION/PULSED-AF pivotal cohort within lockdown tolerance, and estimates update live as trials are ingested. Cross-validation against R metafor and Python scipy scripts reproduced the pooled point estimate, and leave-one-out plus REML-versus-HKSJ sensitivity preserved direction. A transparent browser-native pipeline matches benchmark pooled effects for pulsed-field ablation versus thermal ablation for atrial fibrillation without server-side computation while surfacing every provenance decision. The app inherits CT.gov and PubMed coverage gaps, cannot synthesize unpublished data, and updates require manual re-ingestion.</p>
+</div>
+
+<div class="readme">Registry-driven pipeline for [IHME Global Burden of Disease](https://ghdx.healthdata.org/) data. Downloads, validates, and transforms GBD data into clean, analysis-ready datasets. The `datasets/` folder contains clean CSV and Parquet files ready for analysis: ```python import pandas as pd deaths = pd.read_csv("datasets/gbd2023_deaths_204countries_1990_2023.csv") burden = pd.read_parquet("datasets/</div>
+
+<div class="files">Repo contents: <code>README.md</code> <code>E156-PROTOCOL.md</code> <code>pyproject.toml</code> <code>PROGRESS.md</code> <code>datasets</code> <code>registry</code></div>
+
+<div class="links">
+  <a href="https://github.com/mahmood726-cyber/ihme-data-lakehouse">▶ Source code</a>
+  <a href="https://github.com/mahmood726-cyber/ihme-data-lakehouse/blob/main/E156-PROTOCOL.md">📄 E156 protocol</a>
+  <a href="https://mahmood726-cyber.github.io/e156/students.html" target="_blank">🎓 Claim this paper</a>
+  <a href="https://www.synthesis-medicine.org/index.php/journal" target="_blank">📖 Synthēsis journal</a>
+</div>
+
+<div class="meta">
+<dt>Target journal</dt>
+<dd>◆ Synthēsis (synthesis-medicine.org) — section: Methods Note</dd>
+<dt>Format contract</dt>
+<dd>E156 micro-paper: exactly 7 sentences, ≤156 words, single paragraph</dd>
+<dt>License</dt>
+<dd>Manuscript: CC-BY-4.0 · Code: MIT</dd>
+<dt>Status</dt>
+<dd>Open — claim on the student board</dd>
+</div>
+
+<footer>
+  Landing page for <code>IHMEDataLakehouse</code> · part of the E156 portfolio ·
+  <a href="https://mahmood726-cyber.github.io/e156/students.html">claim this paper on the student board</a>
+</footer>
+
+</div>
+</body>
+</html>
