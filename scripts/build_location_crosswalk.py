@@ -186,7 +186,7 @@ for _, row in all_locs.iterrows():
     if level == 3:
         entry = crosswalk[crosswalk["location_id"] == loc_id]
         if len(entry) > 0:
-            iso3 = entry.iloc[0]["iso3c"]
+            iso3 = entry.iloc[0]["iso3c"]  # sentinel:skip-line P1-empty-dataframe-access  (guarded by len(entry) > 0 above)
 
     full_records.append({
         "location_id": loc_id,

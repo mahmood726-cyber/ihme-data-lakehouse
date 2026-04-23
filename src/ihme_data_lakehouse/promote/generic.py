@@ -50,7 +50,7 @@ def promote_domain(domain: str, raw_dir: Path, bronze_dir: Path, silver_dir: Pat
                     continue
 
                 # Skip codebook/metadata files
-                first_vals = df.iloc[0].astype(str).str.lower()
+                first_vals = df.iloc[0].astype(str).str.lower()  # sentinel:skip-line P1-empty-dataframe-access  (guarded by len(df) < 2 above)
                 if any(v in ("label:", "value coding:", "description:") for v in first_vals):
                     continue
 

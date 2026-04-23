@@ -27,3 +27,13 @@ registry/.cookie*.txt
 registry/ghdx_files.json
 registry/ghdx_files_auth.json
 registry/download_progress.json
+
+# Sentinel/Overmind auto-generated audit outputs (not source of truth)
+review-findings.md
+review-findings-r*.md
+review-findings.jsonl
+sentinel-findings.md
+sentinel-findings.jsonl
+STUCK_FAILURES.md
+STUCK_FAILURES.jsonl
+PROGRESS.md

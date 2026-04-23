@@ -11,7 +11,7 @@ def _is_codebook(df: pd.DataFrame) -> bool:
     """Detect IHME codebook files (first data row contains label metadata)."""
     if df.empty:
         return False
-    first_vals = df.iloc[0].astype(str).str.lower()
+    first_vals = df.iloc[0].astype(str).str.lower()  # sentinel:skip-line P1-empty-dataframe-access  (guarded by df.empty check above)
     return any(v in ("label:", "value coding:", "description:") for v in first_vals)
 
 
