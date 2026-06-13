@@ -11,7 +11,8 @@ from bs4 import BeautifulSoup
 from pathlib import Path
 
 # Fix Windows console encoding
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+if 'pytest' not in sys.modules:
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
 BASE = "https://ghdx.healthdata.org"
 CATALOG_URL = BASE + "/ihme_data"

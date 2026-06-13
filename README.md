@@ -44,7 +44,7 @@ raw/          → bronze/         → silver/          → datasets/
 (downloads)    (provenance)      (parquet, typed)    (clean CSV+Parquet)
 ```
 
-Six data domains: `gbd_results`, `gbd_risk`, `gbd_covariates`, `population`, `forecasts`, `specialty`
+Six active data domains: `gbd_results`, `gbd_risk`, `gbd_covariates`, `population`, `forecasts`, `specialty` (plus 8 placeholder domains reserved for future expansion)
 
 ### CLI
 
@@ -91,8 +91,9 @@ ihme-data-lakehouse/
 │   ├── registry.py        # YAML registry loader
 │   ├── catalog.py         # Searchable data catalog
 │   └── storage.py         # Manifest writer
-├── scripts/
-│   └── export_datasets.py # Regenerate datasets/ from silver
+├── scripts/               # Standalone pipeline and download scripts
+│   ├── export_datasets.py # Regenerate datasets/ from silver
+│   └── ...                # bulk_download, scrape_ghdx_catalog, etc.
 ├── tests/                 # 39 tests
 └── pyproject.toml
 ```

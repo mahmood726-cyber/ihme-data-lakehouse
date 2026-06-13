@@ -64,7 +64,7 @@ def promote_population(raw_dir: Path, bronze_dir: Path, silver_dir: Path, refere
         # Handle both GBD Results Tool format (age_id/age_name, year)
         # and legacy format (age_group_id/age_group_name, year_id)
         year_col = "year" if "year" in merged.columns else "year_id"
-        sex_col = "sex_name" if "sex_name" in merged.columns else merged.get("sex", "")
+        sex_col = "sex_name" if "sex_name" in merged.columns else ("sex" if "sex" in merged.columns else None)
         age_id_col = "age_id" if "age_id" in merged.columns else "age_group_id"
         age_name_col = "age_name" if "age_name" in merged.columns else "age_group_name"
 
@@ -72,11 +72,11 @@ def promote_population(raw_dir: Path, bronze_dir: Path, silver_dir: Path, refere
             "iso3c": merged["iso3c"],
             "year": merged[year_col],
             "indicator_code": "pop_" + merged["sex_id"].astype(str) + "_" + merged[age_id_col].astype(str),
-            "indicator_name": "Population — " + merged[sex_col].astype(str) + " — " + merged[age_name_col].astype(str),
+            "indicator_name": "Population — " + (merged[sex_col].astype(str) if sex_col else "") + " — " + merged[age_name_col].astype(str),
             "value": merged["val"],
             "lower": merged["lower"],
             "upper": merged["upper"],
-            "sex": merged[sex_col] if isinstance(merged.get(sex_col), pd.Series) else sex_col,
+            "sex": merged[sex_col] if sex_col else "",
             "age_group": merged[age_name_col],
         })
         harm_path = harmonized_dir / "population.parquet"

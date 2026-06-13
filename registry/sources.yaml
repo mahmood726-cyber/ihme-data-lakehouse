@@ -110,3 +110,43 @@ specialty:
       sha256: "9e92d1e69023a136"
       requires_auth: true
       size_hint: "3KB"
+
+health_financing:
+  description: "IHME health spending and financing datasets (future domain — no files registered yet)"
+  manual_fallback: true
+  files: []
+
+vaccination:
+  description: "IHME vaccination coverage datasets (future domain — no files registered yet)"
+  manual_fallback: true
+  files: []
+
+us_subnational:
+  description: "GBD US subnational datasets (future domain — no files registered yet)"
+  manual_fallback: true
+  files: []
+
+reference:
+  description: "Reference tables: location hierarchy, cause list, REI list (future domain — no files registered yet)"
+  manual_fallback: true
+  files: []
+
+surveys:
+  description: "IHME survey microdata (future domain — no files registered yet)"
+  manual_fallback: true
+  files: []
+
+geospatial:
+  description: "Geospatial shapefiles and rasters (future domain — no files registered yet)"
+  manual_fallback: true
+  files: []
+
+gbd_legacy:
+  description: "GBD 2019 and earlier legacy datasets (future domain — no files registered yet)"
+  manual_fallback: true
+  files: []
+
+unclassified:
+  description: "Downloaded GHDx datasets not yet classified into a domain"
+  manual_fallback: true
+  files: []

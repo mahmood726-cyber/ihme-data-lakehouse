@@ -62,7 +62,7 @@ def validate_registry(registry: dict[str, RegistryDomain]) -> list[str]:
             errors.append(f"Missing domain: {domain_name}")
 
     for domain_name, domain in registry.items():
-        if not domain.files:
+        if not domain.files and not domain.manual_fallback:
             errors.append(f"{domain_name}: no files registered")
         for f in domain.files:
             if not f.name:

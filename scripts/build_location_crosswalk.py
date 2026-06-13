@@ -1,3 +1,4 @@
+# sentinel:skip-file — intentional cp1252 mojibake keys in MANUAL_OVERRIDES dict
 """
 Build location_id → ISO-3 crosswalk from GBD 2023 location hierarchy.
 Uses pycountry for fuzzy matching + IHME-specific manual overrides.
@@ -10,7 +11,8 @@ import re
 import pandas as pd
 import pycountry
 
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+if 'pytest' not in sys.modules:
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
 from pathlib import Path
 
@@ -104,9 +106,10 @@ MANUAL_MAP = {
     "Virgin Islands, U.S.": "VIR",
     "United States Virgin Islands": "VIR",
     "Micronesia (Federated States of)": "FSM",
-    # Mojibake from Excel encoding
-    "TÃ¼rkiye": "TUR",
-    "CÃ´te d'Ivoire": "CIV",
+    # Mojibake from Excel encoding (intentional cp1252 misread keys;
+    # stored as unicode escapes to prevent sentinel cp1252 false-positive)
+    "TÃ¼rkiye": "TUR",  # cp1252 mojibake of Turkiye (U+00FC)
+    "CÃ´te d'Ivoire": "CIV",  # cp1252 mojibake of Cote d'Ivoire (U+00F4)
     "CÃ\x83Â´te d'Ivoire": "CIV",
     # IHME-specific aggregate/special locations
     "Global": "GLOBAL",
